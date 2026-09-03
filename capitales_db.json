@@ -1,0 +1,8880 @@
+[
+  {
+    "pais": "Angola",
+    "capital": "Luanda",
+    "cca2": "AO",
+    "cca3": "AGO",
+    "lat": -8.83682,
+    "lng": 13.23432,
+    "poblacion_pais": 36170961,
+    "area_km2": 1246700,
+    "densidad": 29.01,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "COG",
+      "COD",
+      "ZMB",
+      "NAM"
+    ],
+    "num_fronteras": 4,
+    "idiomas": [
+      "Portuguese"
+    ],
+    "bandera_emoji": "🇦🇴",
+    "bandera_colores": [
+      {
+        "hex": "#CE1126",
+        "pct": 47.95
+      },
+      {
+        "hex": "#000000",
+        "pct": 46.69
+      },
+      {
+        "hex": "#F7D416",
+        "pct": 4.17
+      },
+      {
+        "hex": "#97820D",
+        "pct": 0.61
+      },
+      {
+        "hex": "#544807",
+        "pct": 0.31
+      },
+      {
+        "hex": "#E3711E",
+        "pct": 0.27
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Albania",
+    "capital": "Tirana",
+    "cca2": "AL",
+    "cca3": "ALB",
+    "lat": 41.32744,
+    "lng": 19.81866,
+    "poblacion_pais": 2363314,
+    "area_km2": 28748,
+    "densidad": 82.21,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "MNE",
+      "GRC",
+      "MKD",
+      "UNK"
+    ],
+    "num_fronteras": 4,
+    "idiomas": [
+      "Albanian"
+    ],
+    "bandera_emoji": "🇦🇱",
+    "bandera_colores": [
+      {
+        "hex": "#E41E20",
+        "pct": 85.78
+      },
+      {
+        "hex": "#020000",
+        "pct": 11.74
+      },
+      {
+        "hex": "#6F0F10",
+        "pct": 1.75
+      },
+      {
+        "hex": "#AF1719",
+        "pct": 0.74
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Andorra",
+    "capital": "Andorra la Vella",
+    "cca2": "AD",
+    "cca3": "AND",
+    "lat": 42.50779,
+    "lng": 1.52109,
+    "poblacion_pais": 88306,
+    "area_km2": 468,
+    "densidad": 188.69,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "FRA",
+      "ESP"
+    ],
+    "num_fronteras": 2,
+    "idiomas": [
+      "Catalan"
+    ],
+    "bandera_emoji": "🇦🇩",
+    "bandera_colores": [
+      {
+        "hex": "#D0103A",
+        "pct": 31.49
+      },
+      {
+        "hex": "#0018A8",
+        "pct": 31.47
+      },
+      {
+        "hex": "#FDDE00",
+        "pct": 26.23
+      },
+      {
+        "hex": "#BBA373",
+        "pct": 6.62
+      },
+      {
+        "hex": "#D9422D",
+        "pct": 2.22
+      },
+      {
+        "hex": "#DFA41B",
+        "pct": 0.79
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Emiratos Árabes Unidos",
+    "capital": "Abu Dabi",
+    "cca2": "AE",
+    "cca3": "ARE",
+    "lat": 24.45118,
+    "lng": 54.39696,
+    "poblacion_pais": 10678556,
+    "area_km2": 83600,
+    "densidad": 127.73,
+    "utc_offset": 4.0,
+    "fronteras": [
+      "OMN",
+      "SAU"
+    ],
+    "num_fronteras": 2,
+    "idiomas": [
+      "Arabic"
+    ],
+    "bandera_emoji": "🇦🇪",
+    "bandera_colores": [
+      {
+        "hex": "#FF0000",
+        "pct": 25
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 24.75
+      },
+      {
+        "hex": "#000000",
+        "pct": 24.75
+      },
+      {
+        "hex": "#00732F",
+        "pct": 24.75
+      },
+      {
+        "hex": "#929292",
+        "pct": 0.75
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Argentina",
+    "capital": "Buenos Aires",
+    "cca2": "AR",
+    "cca3": "ARG",
+    "lat": -34.61315,
+    "lng": -58.37723,
+    "poblacion_pais": 46735004,
+    "area_km2": 2780400,
+    "densidad": 16.81,
+    "utc_offset": -3.0,
+    "fronteras": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "PRY",
+      "URY"
+    ],
+    "num_fronteras": 5,
+    "idiomas": [
+      "Guaraní",
+      "Spanish"
+    ],
+    "bandera_emoji": "🇦🇷",
+    "bandera_colores": [
+      {
+        "hex": "#74ACDF",
+        "pct": 66
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 28.63
+      },
+      {
+        "hex": "#D1E3F4",
+        "pct": 2.46
+      },
+      {
+        "hex": "#D7A454",
+        "pct": 1.71
+      },
+      {
+        "hex": "#DBB892",
+        "pct": 0.79
+      },
+      {
+        "hex": "#F3B10E",
+        "pct": 0.41
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Armenia",
+    "capital": "Yerevan",
+    "cca2": "AM",
+    "cca3": "ARM",
+    "lat": 40.17765,
+    "lng": 44.5126,
+    "poblacion_pais": 3081100,
+    "area_km2": 29743,
+    "densidad": 103.59,
+    "utc_offset": 4.0,
+    "fronteras": [
+      "AZE",
+      "GEO",
+      "IRN",
+      "TUR"
+    ],
+    "num_fronteras": 4,
+    "idiomas": [
+      "Armenian"
+    ],
+    "bandera_emoji": "🇦🇲",
+    "bandera_colores": [
+      {
+        "hex": "#F2A800",
+        "pct": 33
+      },
+      {
+        "hex": "#D90012",
+        "pct": 33
+      },
+      {
+        "hex": "#0033A0",
+        "pct": 32
+      },
+      {
+        "hex": "#50596B",
+        "pct": 1
+      },
+      {
+        "hex": "#482271",
+        "pct": 1
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Antigua y Barbuda",
+    "capital": "Saint John's",
+    "cca2": "AG",
+    "cca3": "ATG",
+    "lat": 17.12096,
+    "lng": -61.84329,
+    "poblacion_pais": 103603,
+    "area_km2": 442,
+    "densidad": 234.4,
+    "utc_offset": -4.0,
+    "fronteras": [],
+    "num_fronteras": 0,
+    "idiomas": [
+      "English"
+    ],
+    "bandera_emoji": "🇦🇬",
+    "bandera_colores": [
+      {
+        "hex": "#CE1126",
+        "pct": 49.37
+      },
+      {
+        "hex": "#000000",
+        "pct": 24.83
+      },
+      {
+        "hex": "#0072C6",
+        "pct": 10.92
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 7.34
+      },
+      {
+        "hex": "#FBD116",
+        "pct": 5.14
+      },
+      {
+        "hex": "#952D54",
+        "pct": 0.13
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Australia",
+    "capital": "Camberra",
+    "cca2": "AU",
+    "cca3": "AUS",
+    "lat": -35.28346,
+    "lng": 149.12807,
+    "poblacion_pais": 27400013,
+    "area_km2": 7692024,
+    "densidad": 3.56,
+    "utc_offset": 10.0,
+    "fronteras": [],
+    "num_fronteras": 0,
+    "idiomas": [
+      "English"
+    ],
+    "bandera_emoji": "🇦🇺",
+    "bandera_colores": [
+      {
+        "hex": "#00008B",
+        "pct": 77.34
+      },
+      {
+        "hex": "#FEFEFE",
+        "pct": 9.37
+      },
+      {
+        "hex": "#FF0101",
+        "pct": 8.79
+      },
+      {
+        "hex": "#5656B3",
+        "pct": 1.68
+      },
+      {
+        "hex": "#D3D3EB",
+        "pct": 1.03
+      },
+      {
+        "hex": "#27279D",
+        "pct": 0.45
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Austria",
+    "capital": "Viena",
+    "cca2": "AT",
+    "cca3": "AUT",
+    "lat": 48.20849,
+    "lng": 16.37208,
+    "poblacion_pais": 9200931,
+    "area_km2": 83871,
+    "densidad": 109.7,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "CZE",
+      "DEU",
+      "HUN",
+      "ITA",
+      "LIE",
+      "SVK",
+      "SVN",
+      "CHE"
+    ],
+    "num_fronteras": 8,
+    "idiomas": [
+      "Austro-Bavarian German"
+    ],
+    "bandera_emoji": "🇦🇹",
+    "bandera_colores": [
+      {
+        "hex": "#ED2939",
+        "pct": 66
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 32
+      },
+      {
+        "hex": "#F9B9BE",
+        "pct": 2
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Azerbaiyán",
+    "capital": "Baku",
+    "cca2": "AZ",
+    "cca3": "AZE",
+    "lat": 40.37767,
+    "lng": 49.89201,
+    "poblacion_pais": 10241722,
+    "area_km2": 86600,
+    "densidad": 118.26,
+    "utc_offset": 4.0,
+    "fronteras": [
+      "ARM",
+      "GEO",
+      "IRN",
+      "RUS",
+      "TUR"
+    ],
+    "num_fronteras": 5,
+    "idiomas": [
+      "Azerbaijani",
+      "Russian"
+    ],
+    "bandera_emoji": "🇦🇿",
+    "bandera_colores": [
+      {
+        "hex": "#00B9E4",
+        "pct": 33
+      },
+      {
+        "hex": "#3F9C35",
+        "pct": 33
+      },
+      {
+        "hex": "#ED2939",
+        "pct": 30.06
+      },
+      {
+        "hex": "#9E5972",
+        "pct": 1
+      },
+      {
+        "hex": "#B44E37",
+        "pct": 1
+      },
+      {
+        "hex": "#F36B76",
+        "pct": 0.27
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Burundi",
+    "capital": "Gitega",
+    "cca2": "BI",
+    "cca3": "BDI",
+    "lat": -3.42708,
+    "lng": 29.92463,
+    "poblacion_pais": 12332788,
+    "area_km2": 27834,
+    "densidad": 443.08,
+    "utc_offset": 2.0,
+    "fronteras": [
+      "COD",
+      "RWA",
+      "TZA"
+    ],
+    "num_fronteras": 3,
+    "idiomas": [
+      "French",
+      "Kirundi"
+    ],
+    "bandera_emoji": "🇧🇮",
+    "bandera_colores": [
+      {
+        "hex": "#1EB53A",
+        "pct": 33.57
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 32.79
+      },
+      {
+        "hex": "#CE1126",
+        "pct": 30.27
+      },
+      {
+        "hex": "#D8EEDA",
+        "pct": 1.25
+      },
+      {
+        "hex": "#5CC870",
+        "pct": 0.71
+      },
+      {
+        "hex": "#DD5867",
+        "pct": 0.42
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Bélgica",
+    "capital": "Bruselas",
+    "cca2": "BE",
+    "cca3": "BEL",
+    "lat": 50.85045,
+    "lng": 4.34878,
+    "poblacion_pais": 11825551,
+    "area_km2": 30528,
+    "densidad": 387.37,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "FRA",
+      "DEU",
+      "LUX",
+      "NLD"
+    ],
+    "num_fronteras": 4,
+    "idiomas": [
+      "German",
+      "French",
+      "Dutch"
+    ],
+    "bandera_emoji": "🇧🇪",
+    "bandera_colores": [
+      {
+        "hex": "#000000",
+        "pct": 33.33
+      },
+      {
+        "hex": "#ED2939",
+        "pct": 33.33
+      },
+      {
+        "hex": "#FAE042",
+        "pct": 33.33
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Benín",
+    "capital": "Porto-Novo",
+    "cca2": "BJ",
+    "cca3": "BEN",
+    "lat": 6.49646,
+    "lng": 2.60359,
+    "poblacion_pais": 13224860,
+    "area_km2": 112622,
+    "densidad": 117.43,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "BFA",
+      "NER",
+      "NGA",
+      "TGO"
+    ],
+    "num_fronteras": 4,
+    "idiomas": [
+      "French"
+    ],
+    "bandera_emoji": "🇧🇯",
+    "bandera_colores": [
+      {
+        "hex": "#008751",
+        "pct": 40
+      },
+      {
+        "hex": "#FCD116",
+        "pct": 30
+      },
+      {
+        "hex": "#E8112D",
+        "pct": 30
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Burkina Faso",
+    "capital": "Uagadugú",
+    "cca2": "BF",
+    "cca3": "BFA",
+    "lat": 12.36566,
+    "lng": -1.53388,
+    "poblacion_pais": 24070553,
+    "area_km2": 272967,
+    "densidad": 88.18,
+    "utc_offset": 0.0,
+    "fronteras": [
+      "BEN",
+      "CIV",
+      "GHA",
+      "MLI",
+      "NER",
+      "TGO"
+    ],
+    "num_fronteras": 6,
+    "idiomas": [
+      "French"
+    ],
+    "bandera_emoji": "🇧🇫",
+    "bandera_colores": [
+      {
+        "hex": "#009E49",
+        "pct": 49.01
+      },
+      {
+        "hex": "#EF2B2D",
+        "pct": 48.89
+      },
+      {
+        "hex": "#FCD116",
+        "pct": 1.89
+      },
+      {
+        "hex": "#F89B1D",
+        "pct": 0.11
+      },
+      {
+        "hex": "#8EBB2C",
+        "pct": 0.11
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Bangladesh",
+    "capital": "Daca",
+    "cca2": "BD",
+    "cca3": "BGD",
+    "lat": 23.7104,
+    "lng": 90.40744,
+    "poblacion_pais": 169828911,
+    "area_km2": 147570,
+    "densidad": 1150.84,
+    "utc_offset": 6.0,
+    "fronteras": [
+      "MMR",
+      "IND"
+    ],
+    "num_fronteras": 2,
+    "idiomas": [
+      "Bengali"
+    ],
+    "bandera_emoji": "🇧🇩",
+    "bandera_colores": [
+      {
+        "hex": "#006A4E",
+        "pct": 78.84
+      },
+      {
+        "hex": "#F42A41",
+        "pct": 20.63
+      },
+      {
+        "hex": "#6C4E48",
+        "pct": 0.3
+      },
+      {
+        "hex": "#A24045",
+        "pct": 0.23
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Bulgaria",
+    "capital": "Sofía",
+    "cca2": "BG",
+    "cca3": "BGR",
+    "lat": 42.69751,
+    "lng": 23.32415,
+    "poblacion_pais": 6437360,
+    "area_km2": 110879,
+    "densidad": 58.06,
+    "utc_offset": 2.0,
+    "fronteras": [
+      "GRC",
+      "MKD",
+      "ROU",
+      "SRB",
+      "TUR"
+    ],
+    "num_fronteras": 5,
+    "idiomas": [
+      "Bulgarian"
+    ],
+    "bandera_emoji": "🇧🇬",
+    "bandera_colores": [
+      {
+        "hex": "#FFFFFF",
+        "pct": 33
+      },
+      {
+        "hex": "#D62612",
+        "pct": 33
+      },
+      {
+        "hex": "#00966E",
+        "pct": 32
+      },
+      {
+        "hex": "#47714F",
+        "pct": 1
+      },
+      {
+        "hex": "#54B99E",
+        "pct": 1
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Bahrein",
+    "capital": "Manama",
+    "cca2": "BH",
+    "cca3": "BHR",
+    "lat": 26.22787,
+    "lng": 50.58565,
+    "poblacion_pais": 1594654,
+    "area_km2": 765,
+    "densidad": 2084.52,
+    "utc_offset": 3.0,
+    "fronteras": [],
+    "num_fronteras": 0,
+    "idiomas": [
+      "Arabic"
+    ],
+    "bandera_emoji": "🇧🇭",
+    "bandera_colores": [
+      {
+        "hex": "#CE1126",
+        "pct": 67.28
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 31.8
+      },
+      {
+        "hex": "#E78893",
+        "pct": 0.52
+      },
+      {
+        "hex": "#F5CDD2",
+        "pct": 0.22
+      },
+      {
+        "hex": "#DB5060",
+        "pct": 0.18
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Bahamas",
+    "capital": "Nasáu",
+    "cca2": "BS",
+    "cca3": "BHS",
+    "lat": 25.05823,
+    "lng": -77.34306,
+    "poblacion_pais": 398165,
+    "area_km2": 13943,
+    "densidad": 28.56,
+    "utc_offset": -5.0,
+    "fronteras": [],
+    "num_fronteras": 0,
+    "idiomas": [
+      "English"
+    ],
+    "bandera_emoji": "🇧🇸",
+    "bandera_colores": [
+      {
+        "hex": "#00ABC9",
+        "pct": 56.44
+      },
+      {
+        "hex": "#000000",
+        "pct": 21.4
+      },
+      {
+        "hex": "#FAE042",
+        "pct": 20.27
+      },
+      {
+        "hex": "#A8CE6E",
+        "pct": 1.41
+      },
+      {
+        "hex": "#A9972D",
+        "pct": 0.08
+      },
+      {
+        "hex": "#62581A",
+        "pct": 0.06
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Bosnia y Herzegovina",
+    "capital": "Sarajevo",
+    "cca2": "BA",
+    "cca3": "BIH",
+    "lat": 43.84864,
+    "lng": 18.35644,
+    "poblacion_pais": 3422000,
+    "area_km2": 51209,
+    "densidad": 66.82,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "HRV",
+      "MNE",
+      "SRB"
+    ],
+    "num_fronteras": 3,
+    "idiomas": [
+      "Bosnian",
+      "Croatian",
+      "Serbian"
+    ],
+    "bandera_emoji": "🇧🇦",
+    "bandera_colores": [
+      {
+        "hex": "#002395",
+        "pct": 70.1
+      },
+      {
+        "hex": "#FECB00",
+        "pct": 24.75
+      },
+      {
+        "hex": "#FDFDFE",
+        "pct": 3.16
+      },
+      {
+        "hex": "#97A6D4",
+        "pct": 0.76
+      },
+      {
+        "hex": "#7F774A",
+        "pct": 0.51
+      },
+      {
+        "hex": "#6177BD",
+        "pct": 0.49
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Bielorrusia",
+    "capital": "Minsk",
+    "cca2": "BY",
+    "cca3": "BLR",
+    "lat": 53.90019,
+    "lng": 27.56653,
+    "poblacion_pais": 9109280,
+    "area_km2": 207600,
+    "densidad": 43.88,
+    "utc_offset": 3.0,
+    "fronteras": [
+      "LVA",
+      "LTU",
+      "POL",
+      "RUS",
+      "UKR"
+    ],
+    "num_fronteras": 5,
+    "idiomas": [
+      "Belarusian",
+      "Russian"
+    ],
+    "bandera_emoji": "🇧🇾",
+    "bandera_colores": [
+      {
+        "hex": "#C8313E",
+        "pct": 61.88
+      },
+      {
+        "hex": "#4AA657",
+        "pct": 29.21
+      },
+      {
+        "hex": "#FEFAFA",
+        "pct": 2.87
+      },
+      {
+        "hex": "#E9ADB2",
+        "pct": 2.73
+      },
+      {
+        "hex": "#D35B65",
+        "pct": 2.27
+      },
+      {
+        "hex": "#9E5846",
+        "pct": 0.89
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Belice",
+    "capital": "Belmopán",
+    "cca2": "BZ",
+    "cca3": "BLZ",
+    "lat": 17.25376,
+    "lng": -88.76401,
+    "poblacion_pais": 417634,
+    "area_km2": 22966,
+    "densidad": 18.18,
+    "utc_offset": -6.0,
+    "fronteras": [
+      "GTM",
+      "MEX"
+    ],
+    "num_fronteras": 2,
+    "idiomas": [
+      "Belizean Creole",
+      "English",
+      "Spanish"
+    ],
+    "bandera_emoji": "🇧🇿",
+    "bandera_colores": [
+      {
+        "hex": "#003F87",
+        "pct": 53.53
+      },
+      {
+        "hex": "#CE1126",
+        "pct": 14.07
+      },
+      {
+        "hex": "#D5DBD6",
+        "pct": 4.64
+      },
+      {
+        "hex": "#2A9104",
+        "pct": 4.33
+      },
+      {
+        "hex": "#63A55C",
+        "pct": 1.39
+      },
+      {
+        "hex": "#D0AF4C",
+        "pct": 1.25
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Bolivia",
+    "capital": "Sucre",
+    "cca2": "BO",
+    "cca3": "BOL",
+    "lat": -19.03332,
+    "lng": -65.26274,
+    "poblacion_pais": 11312620,
+    "area_km2": 1098581,
+    "densidad": 10.3,
+    "utc_offset": -4.0,
+    "fronteras": [
+      "ARG",
+      "BRA",
+      "CHL",
+      "PRY",
+      "PER"
+    ],
+    "num_fronteras": 5,
+    "idiomas": [
+      "Aymara",
+      "Guaraní",
+      "Quechua",
+      "Spanish"
+    ],
+    "bandera_emoji": "🇧🇴",
+    "bandera_colores": [
+      {
+        "hex": "#D52B1E",
+        "pct": 34.16
+      },
+      {
+        "hex": "#007934",
+        "pct": 33.24
+      },
+      {
+        "hex": "#FFE000",
+        "pct": 28.15
+      },
+      {
+        "hex": "#F0A40A",
+        "pct": 1.59
+      },
+      {
+        "hex": "#ABBE11",
+        "pct": 1.12
+      },
+      {
+        "hex": "#A46021",
+        "pct": 0.24
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Brasil",
+    "capital": "Brasília",
+    "cca2": "BR",
+    "cca3": "BRA",
+    "lat": -15.77972,
+    "lng": -47.92972,
+    "poblacion_pais": 213421037,
+    "area_km2": 8515767,
+    "densidad": 25.06,
+    "utc_offset": -3.0,
+    "fronteras": [
+      "ARG",
+      "BOL",
+      "COL",
+      "GUF",
+      "GUY",
+      "PRY",
+      "PER",
+      "SUR",
+      "URY",
+      "VEN"
+    ],
+    "num_fronteras": 10,
+    "idiomas": [
+      "Portuguese"
+    ],
+    "bandera_emoji": "🇧🇷",
+    "bandera_colores": [
+      {
+        "hex": "#009B3A",
+        "pct": 68.17
+      },
+      {
+        "hex": "#FDDF00",
+        "pct": 17.08
+      },
+      {
+        "hex": "#012876",
+        "pct": 11.44
+      },
+      {
+        "hex": "#61B125",
+        "pct": 0.43
+      },
+      {
+        "hex": "#304F90",
+        "pct": 0.41
+      },
+      {
+        "hex": "#6FC790",
+        "pct": 0.22
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Barbados",
+    "capital": "Bridgetown",
+    "cca2": "BB",
+    "cca3": "BRB",
+    "lat": 13.10732,
+    "lng": -59.62021,
+    "poblacion_pais": 267800,
+    "area_km2": 430,
+    "densidad": 622.79,
+    "utc_offset": -4.0,
+    "fronteras": [],
+    "num_fronteras": 0,
+    "idiomas": [
+      "English"
+    ],
+    "bandera_emoji": "🇧🇧",
+    "bandera_colores": [
+      {
+        "hex": "#00267F",
+        "pct": 66.67
+      },
+      {
+        "hex": "#FFC726",
+        "pct": 29.22
+      },
+      {
+        "hex": "#010100",
+        "pct": 3.33
+      },
+      {
+        "hex": "#6A5310",
+        "pct": 0.78
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Brunei",
+    "capital": "Bandar Seri Begawan",
+    "cca2": "BN",
+    "cca3": "BRN",
+    "lat": 4.89035,
+    "lng": 114.94006,
+    "poblacion_pais": 455500,
+    "area_km2": 5765,
+    "densidad": 79.01,
+    "utc_offset": 8.0,
+    "fronteras": [
+      "MYS"
+    ],
+    "num_fronteras": 1,
+    "idiomas": [
+      "Malay"
+    ],
+    "bandera_emoji": "🇧🇳",
+    "bandera_colores": [
+      {
+        "hex": "#F7E017",
+        "pct": 53.66
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 20.42
+      },
+      {
+        "hex": "#010000",
+        "pct": 16.61
+      },
+      {
+        "hex": "#CF1226",
+        "pct": 4.35
+      },
+      {
+        "hex": "#E2751F",
+        "pct": 1.13
+      },
+      {
+        "hex": "#DE5A68",
+        "pct": 0.85
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Bután",
+    "capital": "Thimphu",
+    "cca2": "BT",
+    "cca3": "BTN",
+    "lat": 27.46609,
+    "lng": 89.64191,
+    "poblacion_pais": 784043,
+    "area_km2": 38394,
+    "densidad": 20.42,
+    "utc_offset": 6.0,
+    "fronteras": [
+      "CHN",
+      "IND"
+    ],
+    "num_fronteras": 2,
+    "idiomas": [
+      "Dzongkha"
+    ],
+    "bandera_emoji": "🇧🇹",
+    "bandera_colores": [
+      {
+        "hex": "#FFD520",
+        "pct": 43.25
+      },
+      {
+        "hex": "#FF4E12",
+        "pct": 39.98
+      },
+      {
+        "hex": "#F3F3F3",
+        "pct": 12.35
+      },
+      {
+        "hex": "#D4B8AD",
+        "pct": 2.53
+      },
+      {
+        "hex": "#E6734C",
+        "pct": 1.07
+      },
+      {
+        "hex": "#E5CC5D",
+        "pct": 0.78
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Botswana",
+    "capital": "Gaborone",
+    "cca2": "BW",
+    "cca3": "BWA",
+    "lat": -24.65451,
+    "lng": 25.90859,
+    "poblacion_pais": 2359609,
+    "area_km2": 582000,
+    "densidad": 4.05,
+    "utc_offset": 2.0,
+    "fronteras": [
+      "NAM",
+      "ZAF",
+      "ZMB",
+      "ZWE"
+    ],
+    "num_fronteras": 4,
+    "idiomas": [
+      "English",
+      "Tswana"
+    ],
+    "bandera_emoji": "🇧🇼",
+    "bandera_colores": [
+      {
+        "hex": "#75AADB",
+        "pct": 74
+      },
+      {
+        "hex": "#000000",
+        "pct": 16
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 6
+      },
+      {
+        "hex": "#AAAAAA",
+        "pct": 2
+      },
+      {
+        "hex": "#BAD5ED",
+        "pct": 2
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "República Centroafricana",
+    "capital": "Bangui",
+    "cca2": "CF",
+    "cca3": "CAF",
+    "lat": 4.36122,
+    "lng": 18.55496,
+    "poblacion_pais": 6470307,
+    "area_km2": 622984,
+    "densidad": 10.39,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "CMR",
+      "TCD",
+      "COD",
+      "COG",
+      "SSD",
+      "SDN"
+    ],
+    "num_fronteras": 6,
+    "idiomas": [
+      "French",
+      "Sango"
+    ],
+    "bandera_emoji": "🇨🇫",
+    "bandera_colores": [
+      {
+        "hex": "#FFCE00",
+        "pct": 21.43
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 20.67
+      },
+      {
+        "hex": "#289728",
+        "pct": 20.67
+      },
+      {
+        "hex": "#003082",
+        "pct": 19.55
+      },
+      {
+        "hex": "#D21034",
+        "pct": 16
+      },
+      {
+        "hex": "#CDAF1A",
+        "pct": 0.13
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Canadá",
+    "capital": "Ottawa",
+    "cca2": "CA",
+    "cca3": "CAN",
+    "lat": 45.41117,
+    "lng": -75.69812,
+    "poblacion_pais": 41548787,
+    "area_km2": 9984670,
+    "densidad": 4.16,
+    "utc_offset": -5.0,
+    "fronteras": [
+      "USA"
+    ],
+    "num_fronteras": 1,
+    "idiomas": [
+      "English",
+      "French"
+    ],
+    "bandera_emoji": "🇨🇦",
+    "bandera_colores": [
+      {
+        "hex": "#FF0000",
+        "pct": 63.02
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 35.58
+      },
+      {
+        "hex": "#FFD0D0",
+        "pct": 0.48
+      },
+      {
+        "hex": "#FF9191",
+        "pct": 0.45
+      },
+      {
+        "hex": "#FF2C2C",
+        "pct": 0.3
+      },
+      {
+        "hex": "#FF5050",
+        "pct": 0.19
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Suiza",
+    "capital": "Berna",
+    "cca2": "CH",
+    "cca3": "CHE",
+    "lat": 46.94809,
+    "lng": 7.44744,
+    "poblacion_pais": 9082848,
+    "area_km2": 41284,
+    "densidad": 220.01,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "AUT",
+      "FRA",
+      "ITA",
+      "LIE",
+      "DEU"
+    ],
+    "num_fronteras": 5,
+    "idiomas": [
+      "French",
+      "Swiss German",
+      "Italian",
+      "Romansh"
+    ],
+    "bandera_emoji": "🇨🇭",
+    "bandera_colores": [
+      {
+        "hex": "#FF0000",
+        "pct": 78.48
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 19.08
+      },
+      {
+        "hex": "#FF6060",
+        "pct": 2.4
+      },
+      {
+        "hex": "#FF9C9C",
+        "pct": 0.04
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Chile",
+    "capital": "Santiago",
+    "cca2": "CL",
+    "cca3": "CHL",
+    "lat": -33.45694,
+    "lng": -70.64827,
+    "poblacion_pais": 20206953,
+    "area_km2": 756102,
+    "densidad": 26.73,
+    "utc_offset": -4.0,
+    "fronteras": [
+      "ARG",
+      "BOL",
+      "PER"
+    ],
+    "num_fronteras": 3,
+    "idiomas": [
+      "Spanish"
+    ],
+    "bandera_emoji": "🇨🇱",
+    "bandera_colores": [
+      {
+        "hex": "#D52B1E",
+        "pct": 50
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 34.45
+      },
+      {
+        "hex": "#0039A6",
+        "pct": 15.3
+      },
+      {
+        "hex": "#3663B9",
+        "pct": 0.13
+      },
+      {
+        "hex": "#A3B8DF",
+        "pct": 0.09
+      },
+      {
+        "hex": "#6A8CCB",
+        "pct": 0.03
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "China",
+    "capital": "Pekín",
+    "cca2": "CN",
+    "cca3": "CHN",
+    "lat": 39.9075,
+    "lng": 116.39723,
+    "poblacion_pais": 1408280000,
+    "area_km2": 9706961,
+    "densidad": 145.08,
+    "utc_offset": 8.0,
+    "fronteras": [
+      "AFG",
+      "BTN",
+      "MMR",
+      "HKG",
+      "IND",
+      "KAZ",
+      "NPL",
+      "PRK",
+      "KGZ",
+      "LAO",
+      "MAC",
+      "MNG",
+      "PAK",
+      "RUS",
+      "TJK",
+      "VNM"
+    ],
+    "num_fronteras": 16,
+    "idiomas": [
+      "Chinese"
+    ],
+    "bandera_emoji": "🇨🇳",
+    "bandera_colores": [
+      {
+        "hex": "#DE2910",
+        "pct": 97.09
+      },
+      {
+        "hex": "#FFDC00",
+        "pct": 2.46
+      },
+      {
+        "hex": "#EB6F0A",
+        "pct": 0.45
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Costa de Marfil",
+    "capital": "Yamusukro",
+    "cca2": "CI",
+    "cca3": "CIV",
+    "lat": 6.82055,
+    "lng": -5.27674,
+    "poblacion_pais": 29389150,
+    "area_km2": 322463,
+    "densidad": 91.14,
+    "utc_offset": 0.0,
+    "fronteras": [
+      "BFA",
+      "GHA",
+      "GIN",
+      "LBR",
+      "MLI"
+    ],
+    "num_fronteras": 5,
+    "idiomas": [
+      "French"
+    ],
+    "bandera_emoji": "🇨🇮",
+    "bandera_colores": [
+      {
+        "hex": "#FFFFFF",
+        "pct": 33.33
+      },
+      {
+        "hex": "#F77F00",
+        "pct": 33.33
+      },
+      {
+        "hex": "#009E60",
+        "pct": 33.33
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Camerún",
+    "capital": "Yaundé",
+    "cca2": "CM",
+    "cca3": "CMR",
+    "lat": 3.86667,
+    "lng": 11.51667,
+    "poblacion_pais": 29442327,
+    "area_km2": 475442,
+    "densidad": 61.93,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "CAF",
+      "TCD",
+      "COG",
+      "GNQ",
+      "GAB",
+      "NGA"
+    ],
+    "num_fronteras": 6,
+    "idiomas": [
+      "English",
+      "French"
+    ],
+    "bandera_emoji": "🇨🇲",
+    "bandera_colores": [
+      {
+        "hex": "#FCD116",
+        "pct": 34.59
+      },
+      {
+        "hex": "#007A5E",
+        "pct": 33.33
+      },
+      {
+        "hex": "#CE1126",
+        "pct": 31.91
+      },
+      {
+        "hex": "#E6761E",
+        "pct": 0.17
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Congo (Rep. Dem.)",
+    "capital": "Kinsasa",
+    "cca2": "CD",
+    "cca3": "COD",
+    "lat": -4.32758,
+    "lng": 15.31357,
+    "poblacion_pais": 112832000,
+    "area_km2": 2344858,
+    "densidad": 48.12,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "AGO",
+      "BDI",
+      "CAF",
+      "COG",
+      "RWA",
+      "SSD",
+      "TZA",
+      "UGA",
+      "ZMB"
+    ],
+    "num_fronteras": 9,
+    "idiomas": [
+      "French",
+      "Kikongo",
+      "Lingala",
+      "Tshiluba",
+      "Swahili"
+    ],
+    "bandera_emoji": "🇨🇩",
+    "bandera_colores": [
+      {
+        "hex": "#007FFF",
+        "pct": 65.81
+      },
+      {
+        "hex": "#CE1021",
+        "pct": 19.52
+      },
+      {
+        "hex": "#F7D518",
+        "pct": 11.62
+      },
+      {
+        "hex": "#539CB2",
+        "pct": 1.25
+      },
+      {
+        "hex": "#E16C1D",
+        "pct": 0.95
+      },
+      {
+        "hex": "#B1BD59",
+        "pct": 0.84
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Congo",
+    "capital": "Brazzaville",
+    "cca2": "CG",
+    "cca3": "COG",
+    "lat": -4.26613,
+    "lng": 15.28318,
+    "poblacion_pais": 6142180,
+    "area_km2": 342000,
+    "densidad": 17.96,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "AGO",
+      "CMR",
+      "CAF",
+      "COD",
+      "GAB"
+    ],
+    "num_fronteras": 5,
+    "idiomas": [
+      "French",
+      "Kikongo",
+      "Lingala"
+    ],
+    "bandera_emoji": "🇨🇬",
+    "bandera_colores": [
+      {
+        "hex": "#009543",
+        "pct": 33
+      },
+      {
+        "hex": "#DC241F",
+        "pct": 33
+      },
+      {
+        "hex": "#FBDE4A",
+        "pct": 32.67
+      },
+      {
+        "hex": "#EC8134",
+        "pct": 0.67
+      },
+      {
+        "hex": "#7DBA47",
+        "pct": 0.67
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Colombia",
+    "capital": "Bogotá",
+    "cca2": "CO",
+    "cca3": "COL",
+    "lat": 4.60971,
+    "lng": -74.08175,
+    "poblacion_pais": 53057212,
+    "area_km2": 1141748,
+    "densidad": 46.47,
+    "utc_offset": -5.0,
+    "fronteras": [
+      "BRA",
+      "ECU",
+      "PAN",
+      "PER",
+      "VEN"
+    ],
+    "num_fronteras": 5,
+    "idiomas": [
+      "Spanish"
+    ],
+    "bandera_emoji": "🇨🇴",
+    "bandera_colores": [
+      {
+        "hex": "#FCD116",
+        "pct": 50
+      },
+      {
+        "hex": "#003893",
+        "pct": 25
+      },
+      {
+        "hex": "#CE1126",
+        "pct": 25
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Comoras",
+    "capital": "Moroni",
+    "cca2": "KM",
+    "cca3": "COM",
+    "lat": -11.70216,
+    "lng": 43.25506,
+    "poblacion_pais": 870038,
+    "area_km2": 1862,
+    "densidad": 467.26,
+    "utc_offset": 3.0,
+    "fronteras": [],
+    "num_fronteras": 0,
+    "idiomas": [
+      "Arabic",
+      "French",
+      "Comorian"
+    ],
+    "bandera_emoji": "🇰🇲",
+    "bandera_colores": [
+      {
+        "hex": "#3A75C4",
+        "pct": 21.86
+      },
+      {
+        "hex": "#FFC61E",
+        "pct": 21.81
+      },
+      {
+        "hex": "#3D8E33",
+        "pct": 21.09
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 18.18
+      },
+      {
+        "hex": "#CE1126",
+        "pct": 15.59
+      },
+      {
+        "hex": "#709D2E",
+        "pct": 0.06
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Cabo Verde",
+    "capital": "Praia",
+    "cca2": "CV",
+    "cca3": "CPV",
+    "lat": 14.93152,
+    "lng": -23.51254,
+    "poblacion_pais": 491233,
+    "area_km2": 4033,
+    "densidad": 121.8,
+    "utc_offset": -1.0,
+    "fronteras": [],
+    "num_fronteras": 0,
+    "idiomas": [
+      "Portuguese"
+    ],
+    "bandera_emoji": "🇨🇻",
+    "bandera_colores": [
+      {
+        "hex": "#003893",
+        "pct": 73.59
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 15.1
+      },
+      {
+        "hex": "#CF2027",
+        "pct": 7
+      },
+      {
+        "hex": "#DF696E",
+        "pct": 1.99
+      },
+      {
+        "hex": "#F5D017",
+        "pct": 1.21
+      },
+      {
+        "hex": "#B5A838",
+        "pct": 0.3
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Costa Rica",
+    "capital": "San José",
+    "cca2": "CR",
+    "cca3": "CRI",
+    "lat": 10.95192,
+    "lng": -85.13572,
+    "poblacion_pais": 5309625,
+    "area_km2": 51100,
+    "densidad": 103.91,
+    "utc_offset": -6.0,
+    "fronteras": [
+      "NIC",
+      "PAN"
+    ],
+    "num_fronteras": 2,
+    "idiomas": [
+      "Spanish"
+    ],
+    "bandera_emoji": "🇨🇷",
+    "bandera_colores": [
+      {
+        "hex": "#002B7F",
+        "pct": 32
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 32
+      },
+      {
+        "hex": "#CE1126",
+        "pct": 32
+      },
+      {
+        "hex": "#5572AA",
+        "pct": 2
+      },
+      {
+        "hex": "#DE5F6D",
+        "pct": 2
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Cuba",
+    "capital": "La Habana",
+    "cca2": "CU",
+    "cca3": "CUB",
+    "lat": 23.13302,
+    "lng": -82.38304,
+    "poblacion_pais": 9748007,
+    "area_km2": 109884,
+    "densidad": 88.71,
+    "utc_offset": -5.0,
+    "fronteras": [],
+    "num_fronteras": 0,
+    "idiomas": [
+      "Spanish"
+    ],
+    "bandera_emoji": "🇨🇺",
+    "bandera_colores": [
+      {
+        "hex": "#002A8F",
+        "pct": 48.48
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 30.63
+      },
+      {
+        "hex": "#CF142B",
+        "pct": 19.92
+      },
+      {
+        "hex": "#302578",
+        "pct": 0.23
+      },
+      {
+        "hex": "#E16B79",
+        "pct": 0.17
+      },
+      {
+        "hex": "#DA495B",
+        "pct": 0.17
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Chipre",
+    "capital": "Nicosia",
+    "cca2": "CY",
+    "cca3": "CYP",
+    "lat": 35.17284,
+    "lng": 33.35397,
+    "poblacion_pais": 966400,
+    "area_km2": 9251,
+    "densidad": 104.46,
+    "utc_offset": 2.0,
+    "fronteras": [],
+    "num_fronteras": 0,
+    "idiomas": [
+      "Greek",
+      "Turkish"
+    ],
+    "bandera_emoji": "🇨🇾",
+    "bandera_colores": [
+      {
+        "hex": "#FFFFFF",
+        "pct": 88.06
+      },
+      {
+        "hex": "#D47600",
+        "pct": 8.13
+      },
+      {
+        "hex": "#F0E6D6",
+        "pct": 1.05
+      },
+      {
+        "hex": "#475429",
+        "pct": 0.67
+      },
+      {
+        "hex": "#E4A85D",
+        "pct": 0.35
+      },
+      {
+        "hex": "#DC8E2D",
+        "pct": 0.25
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Chequia",
+    "capital": "Praga",
+    "cca2": "CZ",
+    "cca3": "CZE",
+    "lat": 50.08804,
+    "lng": 14.42076,
+    "poblacion_pais": 10876875,
+    "area_km2": 78865,
+    "densidad": 137.92,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "AUT",
+      "DEU",
+      "POL",
+      "SVK"
+    ],
+    "num_fronteras": 4,
+    "idiomas": [
+      "Czech",
+      "Slovak"
+    ],
+    "bandera_emoji": "🇨🇿",
+    "bandera_colores": [
+      {
+        "hex": "#FFFFFF",
+        "pct": 37.33
+      },
+      {
+        "hex": "#D7141A",
+        "pct": 37.33
+      },
+      {
+        "hex": "#11457E",
+        "pct": 24.67
+      },
+      {
+        "hex": "#B0C1D4",
+        "pct": 0.17
+      },
+      {
+        "hex": "#6083A9",
+        "pct": 0.17
+      },
+      {
+        "hex": "#95243B",
+        "pct": 0.17
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Alemania",
+    "capital": "Berlin",
+    "cca2": "DE",
+    "cca3": "DEU",
+    "lat": 52.52437,
+    "lng": 13.41053,
+    "poblacion_pais": 83517030,
+    "area_km2": 357114,
+    "densidad": 233.87,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "AUT",
+      "BEL",
+      "CZE",
+      "DNK",
+      "FRA",
+      "LUX",
+      "NLD",
+      "POL",
+      "CHE"
+    ],
+    "num_fronteras": 9,
+    "idiomas": [
+      "German"
+    ],
+    "bandera_emoji": "🇩🇪",
+    "bandera_colores": [
+      {
+        "hex": "#FFCE00",
+        "pct": 33
+      },
+      {
+        "hex": "#000000",
+        "pct": 33
+      },
+      {
+        "hex": "#DD0000",
+        "pct": 32
+      },
+      {
+        "hex": "#E84500",
+        "pct": 1
+      },
+      {
+        "hex": "#930000",
+        "pct": 1
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Djibouti",
+    "capital": "Yibuti",
+    "cca2": "DJ",
+    "cca3": "DJI",
+    "lat": 11.58901,
+    "lng": 43.14503,
+    "poblacion_pais": 1066809,
+    "area_km2": 23200,
+    "densidad": 45.98,
+    "utc_offset": 3.0,
+    "fronteras": [
+      "ERI",
+      "ETH",
+      "SOM"
+    ],
+    "num_fronteras": 3,
+    "idiomas": [
+      "Arabic",
+      "French"
+    ],
+    "bandera_emoji": "🇩🇯",
+    "bandera_colores": [
+      {
+        "hex": "#6AB2E7",
+        "pct": 35.61
+      },
+      {
+        "hex": "#12AD2B",
+        "pct": 35.44
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 27.09
+      },
+      {
+        "hex": "#D7141A",
+        "pct": 1.24
+      },
+      {
+        "hex": "#E45F63",
+        "pct": 0.17
+      },
+      {
+        "hex": "#5DC76E",
+        "pct": 0.11
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Dominica",
+    "capital": "Roseau",
+    "cca2": "DM",
+    "cca3": "DMA",
+    "lat": 15.30174,
+    "lng": -61.38808,
+    "poblacion_pais": 67408,
+    "area_km2": 751,
+    "densidad": 89.76,
+    "utc_offset": -4.0,
+    "fronteras": [],
+    "num_fronteras": 0,
+    "idiomas": [
+      "English"
+    ],
+    "bandera_emoji": "🇩🇲",
+    "bandera_colores": [
+      {
+        "hex": "#000000",
+        "pct": 8
+      },
+      {
+        "hex": "#D31C30",
+        "pct": 7.49
+      },
+      {
+        "hex": "#FCD116",
+        "pct": 7.18
+      },
+      {
+        "hex": "#D4AD13",
+        "pct": 1.12
+      },
+      {
+        "hex": "#80B59F",
+        "pct": 1.06
+      },
+      {
+        "hex": "#7E9E2A",
+        "pct": 1.06
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Dinamarca",
+    "capital": "Copenhague",
+    "cca2": "DK",
+    "cca3": "DNK",
+    "lat": 55.67594,
+    "lng": 12.56553,
+    "poblacion_pais": 6004342,
+    "area_km2": 43094,
+    "densidad": 139.33,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "DEU"
+    ],
+    "num_fronteras": 1,
+    "idiomas": [
+      "Danish"
+    ],
+    "bandera_emoji": "🇩🇰",
+    "bandera_colores": [
+      {
+        "hex": "#C60C30",
+        "pct": 76.86
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 23.12
+      },
+      {
+        "hex": "#D8576F",
+        "pct": 0.02
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "República Dominicana",
+    "capital": "Santo Domingo",
+    "cca2": "DO",
+    "cca3": "DOM",
+    "lat": 18.47186,
+    "lng": -69.89232,
+    "poblacion_pais": 10771504,
+    "area_km2": 48671,
+    "densidad": 221.31,
+    "utc_offset": -4.0,
+    "fronteras": [
+      "HTI"
+    ],
+    "num_fronteras": 1,
+    "idiomas": [
+      "Spanish"
+    ],
+    "bandera_emoji": "🇩🇴",
+    "bandera_colores": [
+      {
+        "hex": "#CE1126",
+        "pct": 34.8
+      },
+      {
+        "hex": "#002D62",
+        "pct": 34.77
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 28.84
+      },
+      {
+        "hex": "#358F49",
+        "pct": 0.17
+      },
+      {
+        "hex": "#9E2228",
+        "pct": 0.12
+      },
+      {
+        "hex": "#0D7720",
+        "pct": 0.09
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Argelia",
+    "capital": "Argel",
+    "cca2": "DZ",
+    "cca3": "DZA",
+    "lat": 36.73225,
+    "lng": 3.08746,
+    "poblacion_pais": 47400000,
+    "area_km2": 2381741,
+    "densidad": 19.9,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "TUN",
+      "LBY",
+      "NER",
+      "ESH",
+      "MRT",
+      "MLI",
+      "MAR"
+    ],
+    "num_fronteras": 7,
+    "idiomas": [
+      "Arabic"
+    ],
+    "bandera_emoji": "🇩🇿",
+    "bandera_colores": [
+      {
+        "hex": "#FFFFFF",
+        "pct": 47.72
+      },
+      {
+        "hex": "#006233",
+        "pct": 45.89
+      },
+      {
+        "hex": "#D21034",
+        "pct": 5.49
+      },
+      {
+        "hex": "#EC99A8",
+        "pct": 0.43
+      },
+      {
+        "hex": "#902A34",
+        "pct": 0.13
+      },
+      {
+        "hex": "#DD4D68",
+        "pct": 0.11
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Ecuador",
+    "capital": "Quito",
+    "cca2": "EC",
+    "cca3": "ECU",
+    "lat": -0.22985,
+    "lng": -78.52495,
+    "poblacion_pais": 18103660,
+    "area_km2": 276841,
+    "densidad": 65.39,
+    "utc_offset": -5.0,
+    "fronteras": [
+      "COL",
+      "PER"
+    ],
+    "num_fronteras": 2,
+    "idiomas": [
+      "Spanish"
+    ],
+    "bandera_emoji": "🇪🇨",
+    "bandera_colores": [
+      {
+        "hex": "#FFDD00",
+        "pct": 46.95
+      },
+      {
+        "hex": "#ED1C24",
+        "pct": 25.45
+      },
+      {
+        "hex": "#034EA2",
+        "pct": 21.57
+      },
+      {
+        "hex": "#483220",
+        "pct": 1.03
+      },
+      {
+        "hex": "#42AAC9",
+        "pct": 0.34
+      },
+      {
+        "hex": "#4D9332",
+        "pct": 0.33
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Egipto",
+    "capital": "El Cairo",
+    "cca2": "EG",
+    "cca3": "EGY",
+    "lat": 30.06263,
+    "lng": 31.24967,
+    "poblacion_pais": 107271260,
+    "area_km2": 1002450,
+    "densidad": 107.01,
+    "utc_offset": 2.0,
+    "fronteras": [
+      "ISR",
+      "LBY",
+      "PSE",
+      "SDN"
+    ],
+    "num_fronteras": 4,
+    "idiomas": [
+      "Arabic"
+    ],
+    "bandera_emoji": "🇪🇬",
+    "bandera_colores": [
+      {
+        "hex": "#000000",
+        "pct": 33
+      },
+      {
+        "hex": "#CE1126",
+        "pct": 33
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 28.39
+      },
+      {
+        "hex": "#E4D091",
+        "pct": 2.16
+      },
+      {
+        "hex": "#EFB0B7",
+        "pct": 1
+      },
+      {
+        "hex": "#C29608",
+        "pct": 0.78
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Eritrea",
+    "capital": "Asmara",
+    "cca2": "ER",
+    "cca3": "ERI",
+    "lat": 15.33805,
+    "lng": 38.93184,
+    "poblacion_pais": 3607000,
+    "area_km2": 117600,
+    "densidad": 30.67,
+    "utc_offset": 3.0,
+    "fronteras": [
+      "DJI",
+      "ETH",
+      "SDN"
+    ],
+    "num_fronteras": 3,
+    "idiomas": [
+      "Arabic",
+      "English",
+      "Tigrinya"
+    ],
+    "bandera_emoji": "🇪🇷",
+    "bandera_colores": [
+      {
+        "hex": "#EA0437",
+        "pct": 41.72
+      },
+      {
+        "hex": "#12AD2B",
+        "pct": 24.75
+      },
+      {
+        "hex": "#4189DD",
+        "pct": 24.75
+      },
+      {
+        "hex": "#F25130",
+        "pct": 1.57
+      },
+      {
+        "hex": "#F9902B",
+        "pct": 1.25
+      },
+      {
+        "hex": "#A63979",
+        "pct": 0.25
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "España",
+    "capital": "Madrid",
+    "cca2": "ES",
+    "cca3": "ESP",
+    "lat": 40.4165,
+    "lng": -3.70256,
+    "poblacion_pais": 49315949,
+    "area_km2": 505992,
+    "densidad": 97.46,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "AND",
+      "FRA",
+      "GIB",
+      "PRT",
+      "MAR"
+    ],
+    "num_fronteras": 5,
+    "idiomas": [
+      "Spanish"
+    ],
+    "bandera_emoji": "🇪🇸",
+    "bandera_colores": [
+      {
+        "hex": "#C60B1E",
+        "pct": 50.01
+      },
+      {
+        "hex": "#FFC400",
+        "pct": 43.6
+      },
+      {
+        "hex": "#975C11",
+        "pct": 1.74
+      },
+      {
+        "hex": "#9E2918",
+        "pct": 1.37
+      },
+      {
+        "hex": "#B08F07",
+        "pct": 1.29
+      },
+      {
+        "hex": "#CEB56B",
+        "pct": 0.18
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Estonia",
+    "capital": "Tallinn",
+    "cca2": "EE",
+    "cca3": "EST",
+    "lat": 59.43696,
+    "lng": 24.75353,
+    "poblacion_pais": 1369995,
+    "area_km2": 45227,
+    "densidad": 30.29,
+    "utc_offset": 2.0,
+    "fronteras": [
+      "LVA",
+      "RUS"
+    ],
+    "num_fronteras": 2,
+    "idiomas": [
+      "Estonian"
+    ],
+    "bandera_emoji": "🇪🇪",
+    "bandera_colores": [
+      {
+        "hex": "#FFFFFF",
+        "pct": 33
+      },
+      {
+        "hex": "#4891D9",
+        "pct": 33
+      },
+      {
+        "hex": "#000000",
+        "pct": 32
+      },
+      {
+        "hex": "#545454",
+        "pct": 1
+      },
+      {
+        "hex": "#183048",
+        "pct": 1
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Etiopía",
+    "capital": "Adís Abeba",
+    "cca2": "ET",
+    "cca3": "ETH",
+    "lat": 9.02497,
+    "lng": 38.74689,
+    "poblacion_pais": 111652998,
+    "area_km2": 1104300,
+    "densidad": 101.11,
+    "utc_offset": 3.0,
+    "fronteras": [
+      "DJI",
+      "ERI",
+      "KEN",
+      "SOM",
+      "SSD",
+      "SDN"
+    ],
+    "num_fronteras": 6,
+    "idiomas": [
+      "Amharic"
+    ],
+    "bandera_emoji": "🇪🇹",
+    "bandera_colores": [
+      {
+        "hex": "#078930",
+        "pct": 29.6
+      },
+      {
+        "hex": "#DA121A",
+        "pct": 29.59
+      },
+      {
+        "hex": "#FBDD09",
+        "pct": 23.04
+      },
+      {
+        "hex": "#0F47AF",
+        "pct": 13.56
+      },
+      {
+        "hex": "#D7C623",
+        "pct": 0.71
+      },
+      {
+        "hex": "#A12144",
+        "pct": 0.08
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Finlandia",
+    "capital": "Helsinki",
+    "cca2": "FI",
+    "cca3": "FIN",
+    "lat": 60.16952,
+    "lng": 24.93545,
+    "poblacion_pais": 5645651,
+    "area_km2": 338424,
+    "densidad": 16.68,
+    "utc_offset": 2.0,
+    "fronteras": [
+      "NOR",
+      "SWE",
+      "RUS"
+    ],
+    "num_fronteras": 3,
+    "idiomas": [
+      "Finnish",
+      "Swedish"
+    ],
+    "bandera_emoji": "🇫🇮",
+    "bandera_colores": [
+      {
+        "hex": "#FFFFFF",
+        "pct": 59.71
+      },
+      {
+        "hex": "#003580",
+        "pct": 38.2
+      },
+      {
+        "hex": "#5C7EAE",
+        "pct": 1.66
+      },
+      {
+        "hex": "#8DA5C6",
+        "pct": 0.44
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Francia",
+    "capital": "Paris",
+    "cca2": "FR",
+    "cca3": "FRA",
+    "lat": 48.85341,
+    "lng": 2.3488,
+    "poblacion_pais": 68688000,
+    "area_km2": 551695,
+    "densidad": 124.5,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "AND",
+      "BEL",
+      "DEU",
+      "ITA",
+      "LUX",
+      "MCO",
+      "ESP",
+      "CHE"
+    ],
+    "num_fronteras": 8,
+    "idiomas": [
+      "French"
+    ],
+    "bandera_emoji": "🇫🇷",
+    "bandera_colores": [
+      {
+        "hex": "#FFFFFF",
+        "pct": 33.33
+      },
+      {
+        "hex": "#002395",
+        "pct": 33.33
+      },
+      {
+        "hex": "#ED2939",
+        "pct": 33.33
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Micronesia",
+    "capital": "Palikir",
+    "cca2": "FM",
+    "cca3": "FSM",
+    "lat": 6.92477,
+    "lng": 158.16109,
+    "poblacion_pais": 105564,
+    "area_km2": 702,
+    "densidad": 150.38,
+    "utc_offset": 10.0,
+    "fronteras": [],
+    "num_fronteras": 0,
+    "idiomas": [
+      "English"
+    ],
+    "bandera_emoji": "🇫🇲",
+    "bandera_colores": [
+      {
+        "hex": "#75B2DD",
+        "pct": 97.43
+      },
+      {
+        "hex": "#FDFEFE",
+        "pct": 2.01
+      },
+      {
+        "hex": "#D2E6F4",
+        "pct": 0.56
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Gabón",
+    "capital": "Libreville",
+    "cca2": "GA",
+    "cca3": "GAB",
+    "lat": 0.39241,
+    "lng": 9.45356,
+    "poblacion_pais": 2469296,
+    "area_km2": 267668,
+    "densidad": 9.23,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "CMR",
+      "COG",
+      "GNQ"
+    ],
+    "num_fronteras": 3,
+    "idiomas": [
+      "French"
+    ],
+    "bandera_emoji": "🇬🇦",
+    "bandera_colores": [
+      {
+        "hex": "#009E60",
+        "pct": 33
+      },
+      {
+        "hex": "#3A75C4",
+        "pct": 33
+      },
+      {
+        "hex": "#FCD116",
+        "pct": 32
+      },
+      {
+        "hex": "#BCB350",
+        "pct": 1
+      },
+      {
+        "hex": "#A8C02F",
+        "pct": 1
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Reino Unido",
+    "capital": "Londres",
+    "cca2": "GB",
+    "cca3": "GBR",
+    "lat": 51.50853,
+    "lng": -0.12574,
+    "poblacion_pais": 68265209,
+    "area_km2": 242900,
+    "densidad": 281.04,
+    "utc_offset": 0.0,
+    "fronteras": [
+      "IRL"
+    ],
+    "num_fronteras": 1,
+    "idiomas": [
+      "English"
+    ],
+    "bandera_emoji": "🇬🇧",
+    "bandera_colores": [
+      {
+        "hex": "#CF142B",
+        "pct": 36.09
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 31.36
+      },
+      {
+        "hex": "#F3C4CA",
+        "pct": 1.54
+      },
+      {
+        "hex": "#AAB6D4",
+        "pct": 1.48
+      },
+      {
+        "hex": "#DB4F60",
+        "pct": 1.25
+      },
+      {
+        "hex": "#6E82B5",
+        "pct": 1.04
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Georgia",
+    "capital": "Tbilisi",
+    "cca2": "GE",
+    "cca3": "GEO",
+    "lat": 41.69143,
+    "lng": 44.83412,
+    "poblacion_pais": 3704500,
+    "area_km2": 69700,
+    "densidad": 53.15,
+    "utc_offset": 4.0,
+    "fronteras": [
+      "ARM",
+      "AZE",
+      "RUS",
+      "TUR"
+    ],
+    "num_fronteras": 4,
+    "idiomas": [
+      "Georgian"
+    ],
+    "bandera_emoji": "🇬🇪",
+    "bandera_colores": [
+      {
+        "hex": "#FFFFFF",
+        "pct": 63.35
+      },
+      {
+        "hex": "#FF0000",
+        "pct": 34.88
+      },
+      {
+        "hex": "#FF8E8E",
+        "pct": 0.93
+      },
+      {
+        "hex": "#FF2E2E",
+        "pct": 0.6
+      },
+      {
+        "hex": "#FFD4D4",
+        "pct": 0.24
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Ghana",
+    "capital": "Acra",
+    "cca2": "GH",
+    "cca3": "GHA",
+    "lat": 5.55602,
+    "lng": -0.1969,
+    "poblacion_pais": 33742380,
+    "area_km2": 238533,
+    "densidad": 141.46,
+    "utc_offset": 0.0,
+    "fronteras": [
+      "BFA",
+      "CIV",
+      "TGO"
+    ],
+    "num_fronteras": 3,
+    "idiomas": [
+      "English"
+    ],
+    "bandera_emoji": "🇬🇭",
+    "bandera_colores": [
+      {
+        "hex": "#006B3F",
+        "pct": 33
+      },
+      {
+        "hex": "#CE1126",
+        "pct": 33
+      },
+      {
+        "hex": "#FCD116",
+        "pct": 29.18
+      },
+      {
+        "hex": "#ED911C",
+        "pct": 1.13
+      },
+      {
+        "hex": "#A9AF24",
+        "pct": 1.04
+      },
+      {
+        "hex": "#8C750C",
+        "pct": 0.13
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Guinea",
+    "capital": "Conakry",
+    "cca2": "GN",
+    "cca3": "GIN",
+    "lat": 9.53795,
+    "lng": -13.67729,
+    "poblacion_pais": 14363931,
+    "area_km2": 245857,
+    "densidad": 58.42,
+    "utc_offset": 0.0,
+    "fronteras": [
+      "CIV",
+      "GNB",
+      "LBR",
+      "MLI",
+      "SEN",
+      "SLE"
+    ],
+    "num_fronteras": 6,
+    "idiomas": [
+      "French"
+    ],
+    "bandera_emoji": "🇬🇳",
+    "bandera_colores": [
+      {
+        "hex": "#009460",
+        "pct": 33.33
+      },
+      {
+        "hex": "#CE1126",
+        "pct": 33.33
+      },
+      {
+        "hex": "#FCD116",
+        "pct": 33.33
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Gambia",
+    "capital": "Banjul",
+    "cca2": "GM",
+    "cca3": "GMB",
+    "lat": 13.45274,
+    "lng": -16.57803,
+    "poblacion_pais": 2422712,
+    "area_km2": 10689,
+    "densidad": 226.65,
+    "utc_offset": 0.0,
+    "fronteras": [
+      "SEN"
+    ],
+    "num_fronteras": 1,
+    "idiomas": [
+      "English"
+    ],
+    "bandera_emoji": "🇬🇲",
+    "bandera_colores": [
+      {
+        "hex": "#CE1126",
+        "pct": 33
+      },
+      {
+        "hex": "#3A7728",
+        "pct": 33
+      },
+      {
+        "hex": "#0C1C8C",
+        "pct": 22
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 10
+      },
+      {
+        "hex": "#BDD2B7",
+        "pct": 1
+      },
+      {
+        "hex": "#D0C2D7",
+        "pct": 1
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Guinea-Bisáu",
+    "capital": "Bisáu",
+    "cca2": "GW",
+    "cca3": "GNB",
+    "lat": 11.86357,
+    "lng": -15.59767,
+    "poblacion_pais": 1781308,
+    "area_km2": 36125,
+    "densidad": 49.31,
+    "utc_offset": 0.0,
+    "fronteras": [
+      "GIN",
+      "SEN"
+    ],
+    "num_fronteras": 2,
+    "idiomas": [
+      "Portuguese",
+      "Upper Guinea Creole"
+    ],
+    "bandera_emoji": "🇬🇼",
+    "bandera_colores": [
+      {
+        "hex": "#009E49",
+        "pct": 33.25
+      },
+      {
+        "hex": "#FCD116",
+        "pct": 33.25
+      },
+      {
+        "hex": "#CE1126",
+        "pct": 31.42
+      },
+      {
+        "hex": "#764D35",
+        "pct": 0.25
+      },
+      {
+        "hex": "#E2631F",
+        "pct": 0.25
+      },
+      {
+        "hex": "#50070F",
+        "pct": 0.22
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Guinea Ecuatorial",
+    "capital": "Malabo",
+    "cca2": "GQ",
+    "cca3": "GNQ",
+    "lat": 3.75578,
+    "lng": 8.78166,
+    "poblacion_pais": 1668768,
+    "area_km2": 28051,
+    "densidad": 59.49,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "CMR",
+      "GAB"
+    ],
+    "num_fronteras": 2,
+    "idiomas": [
+      "French",
+      "Portuguese",
+      "Spanish"
+    ],
+    "bandera_emoji": "🇬🇶",
+    "bandera_colores": [
+      {
+        "hex": "#3E9A00",
+        "pct": 30.22
+      },
+      {
+        "hex": "#E32118",
+        "pct": 30.22
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 22.73
+      },
+      {
+        "hex": "#0073CE",
+        "pct": 12.23
+      },
+      {
+        "hex": "#D2D2D1",
+        "pct": 2.29
+      },
+      {
+        "hex": "#3893BA",
+        "pct": 0.09
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Grecia",
+    "capital": "Atenas",
+    "cca2": "GR",
+    "cca3": "GRC",
+    "lat": 37.98376,
+    "lng": 23.72784,
+    "poblacion_pais": 10400720,
+    "area_km2": 131990,
+    "densidad": 78.8,
+    "utc_offset": 2.0,
+    "fronteras": [
+      "ALB",
+      "BGR",
+      "TUR",
+      "MKD"
+    ],
+    "num_fronteras": 4,
+    "idiomas": [
+      "Greek"
+    ],
+    "bandera_emoji": "🇬🇷",
+    "bandera_colores": [
+      {
+        "hex": "#0D5EAF",
+        "pct": 52.89
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 41.49
+      },
+      {
+        "hex": "#79A6D3",
+        "pct": 2.27
+      },
+      {
+        "hex": "#AEC9E4",
+        "pct": 1.71
+      },
+      {
+        "hex": "#4382C1",
+        "pct": 1.63
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Guatemala",
+    "capital": "Ciudad de Guatemala",
+    "cca2": "GT",
+    "cca3": "GTM",
+    "lat": 14.64072,
+    "lng": -90.51327,
+    "poblacion_pais": 18079810,
+    "area_km2": 108889,
+    "densidad": 166.04,
+    "utc_offset": -6.0,
+    "fronteras": [
+      "BLZ",
+      "SLV",
+      "HND",
+      "MEX"
+    ],
+    "num_fronteras": 4,
+    "idiomas": [
+      "Spanish"
+    ],
+    "bandera_emoji": "🇬🇹",
+    "bandera_colores": [
+      {
+        "hex": "#4997D0",
+        "pct": 66.25
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 28.57
+      },
+      {
+        "hex": "#C3DDF0",
+        "pct": 1.93
+      },
+      {
+        "hex": "#EAD98C",
+        "pct": 0.82
+      },
+      {
+        "hex": "#6B5032",
+        "pct": 0.21
+      },
+      {
+        "hex": "#C8AD4E",
+        "pct": 0.06
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Guyana",
+    "capital": "Georgetown",
+    "cca2": "GY",
+    "cca3": "GUY",
+    "lat": 6.80448,
+    "lng": -58.15527,
+    "poblacion_pais": 772975,
+    "area_km2": 214969,
+    "densidad": 3.6,
+    "utc_offset": -4.0,
+    "fronteras": [
+      "BRA",
+      "SUR",
+      "VEN"
+    ],
+    "num_fronteras": 3,
+    "idiomas": [
+      "English"
+    ],
+    "bandera_emoji": "🇬🇾",
+    "bandera_colores": [
+      {
+        "hex": "#009E49",
+        "pct": 49.23
+      },
+      {
+        "hex": "#CE1126",
+        "pct": 19.43
+      },
+      {
+        "hex": "#FCD116",
+        "pct": 16.25
+      },
+      {
+        "hex": "#FEFEFD",
+        "pct": 6.5
+      },
+      {
+        "hex": "#46B97B",
+        "pct": 0.82
+      },
+      {
+        "hex": "#6B5E24",
+        "pct": 0.21
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Honduras",
+    "capital": "Tegucigalpa",
+    "cca2": "HN",
+    "cca3": "HND",
+    "lat": 14.0818,
+    "lng": -87.20681,
+    "poblacion_pais": 9892632,
+    "area_km2": 112492,
+    "densidad": 87.94,
+    "utc_offset": -6.0,
+    "fronteras": [
+      "GTM",
+      "SLV",
+      "NIC"
+    ],
+    "num_fronteras": 3,
+    "idiomas": [
+      "Spanish"
+    ],
+    "bandera_emoji": "🇭🇳",
+    "bandera_colores": [
+      {
+        "hex": "#0073CF",
+        "pct": 66.55
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 30.76
+      },
+      {
+        "hex": "#AAD0EF",
+        "pct": 2.32
+      },
+      {
+        "hex": "#55A2DF",
+        "pct": 0.38
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Croacia",
+    "capital": "Zagreb",
+    "cca2": "HR",
+    "cca3": "HRV",
+    "lat": 45.81444,
+    "lng": 15.97798,
+    "poblacion_pais": 3866233,
+    "area_km2": 56594,
+    "densidad": 68.32,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "BIH",
+      "HUN",
+      "MNE",
+      "SRB",
+      "SVN"
+    ],
+    "num_fronteras": 5,
+    "idiomas": [
+      "Croatian"
+    ],
+    "bandera_emoji": "🇭🇷",
+    "bandera_colores": [
+      {
+        "hex": "#FF0000",
+        "pct": 32.58
+      },
+      {
+        "hex": "#171796",
+        "pct": 32.49
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 28.63
+      },
+      {
+        "hex": "#FD7071",
+        "pct": 1.19
+      },
+      {
+        "hex": "#B3B3DC",
+        "pct": 1.02
+      },
+      {
+        "hex": "#9C2639",
+        "pct": 0.13
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Haití",
+    "capital": "Puerto Príncipe",
+    "cca2": "HT",
+    "cca3": "HTI",
+    "lat": 18.54349,
+    "lng": -72.33881,
+    "poblacion_pais": 11867032,
+    "area_km2": 27750,
+    "densidad": 427.64,
+    "utc_offset": -5.0,
+    "fronteras": [
+      "DOM"
+    ],
+    "num_fronteras": 1,
+    "idiomas": [
+      "French",
+      "Haitian Creole"
+    ],
+    "bandera_emoji": "🇭🇹",
+    "bandera_colores": [
+      {
+        "hex": "#00209F",
+        "pct": 47.53
+      },
+      {
+        "hex": "#D21034",
+        "pct": 47.53
+      },
+      {
+        "hex": "#1D6D1F",
+        "pct": 0.41
+      },
+      {
+        "hex": "#A56A25",
+        "pct": 0.29
+      },
+      {
+        "hex": "#BD9B3F",
+        "pct": 0.28
+      },
+      {
+        "hex": "#D0504D",
+        "pct": 0.14
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Hungría",
+    "capital": "Budapest",
+    "cca2": "HU",
+    "cca3": "HUN",
+    "lat": 47.49835,
+    "lng": 19.04045,
+    "poblacion_pais": 9539502,
+    "area_km2": 93028,
+    "densidad": 102.54,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "AUT",
+      "HRV",
+      "ROU",
+      "SRB",
+      "SVK",
+      "SVN",
+      "UKR"
+    ],
+    "num_fronteras": 7,
+    "idiomas": [
+      "Hungarian"
+    ],
+    "bandera_emoji": "🇭🇺",
+    "bandera_colores": [
+      {
+        "hex": "#436F4D",
+        "pct": 33
+      },
+      {
+        "hex": "#CD2A3E",
+        "pct": 33
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 32
+      },
+      {
+        "hex": "#C1D0C4",
+        "pct": 1
+      },
+      {
+        "hex": "#EEB8BF",
+        "pct": 1
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Indonesia",
+    "capital": "Yakarta",
+    "cca2": "ID",
+    "cca3": "IDN",
+    "lat": -6.21462,
+    "lng": 106.84513,
+    "poblacion_pais": 284438782,
+    "area_km2": 1904569,
+    "densidad": 149.35,
+    "utc_offset": 7.0,
+    "fronteras": [
+      "TLS",
+      "MYS",
+      "PNG"
+    ],
+    "num_fronteras": 3,
+    "idiomas": [
+      "Indonesian"
+    ],
+    "bandera_emoji": "🇮🇩",
+    "bandera_colores": [
+      {
+        "hex": "#FFFFFF",
+        "pct": 50
+      },
+      {
+        "hex": "#CE1126",
+        "pct": 50
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "India",
+    "capital": "Nueva Delhi",
+    "cca2": "IN",
+    "cca3": "IND",
+    "lat": 28.62137,
+    "lng": 77.2148,
+    "poblacion_pais": 1417492000,
+    "area_km2": 3287590,
+    "densidad": 431.16,
+    "utc_offset": 5.5,
+    "fronteras": [
+      "BGD",
+      "BTN",
+      "MMR",
+      "CHN",
+      "NPL",
+      "PAK"
+    ],
+    "num_fronteras": 6,
+    "idiomas": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "bandera_emoji": "🇮🇳",
+    "bandera_colores": [
+      {
+        "hex": "#FF9933",
+        "pct": 33
+      },
+      {
+        "hex": "#128807",
+        "pct": 33
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 28.97
+      },
+      {
+        "hex": "#B0C07F",
+        "pct": 1
+      },
+      {
+        "hex": "#07078B",
+        "pct": 0.68
+      },
+      {
+        "hex": "#3A3AA3",
+        "pct": 0.47
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Irlanda",
+    "capital": "Dublín",
+    "cca2": "IE",
+    "cca3": "IRL",
+    "lat": 53.33306,
+    "lng": -6.24889,
+    "poblacion_pais": 5458600,
+    "area_km2": 70273,
+    "densidad": 77.68,
+    "utc_offset": 0.0,
+    "fronteras": [
+      "GBR"
+    ],
+    "num_fronteras": 1,
+    "idiomas": [
+      "English",
+      "Irish"
+    ],
+    "bandera_emoji": "🇮🇪",
+    "bandera_colores": [
+      {
+        "hex": "#FF883E",
+        "pct": 33.5
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 33
+      },
+      {
+        "hex": "#169B62",
+        "pct": 33
+      },
+      {
+        "hex": "#7AC5A5",
+        "pct": 0.5
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Iran",
+    "capital": "Teherán",
+    "cca2": "IR",
+    "cca3": "IRN",
+    "lat": 35.69439,
+    "lng": 51.42151,
+    "poblacion_pais": 85961000,
+    "area_km2": 1648195,
+    "densidad": 52.15,
+    "utc_offset": 3.5,
+    "fronteras": [
+      "AFG",
+      "ARM",
+      "AZE",
+      "IRQ",
+      "PAK",
+      "TUR",
+      "TKM"
+    ],
+    "num_fronteras": 7,
+    "idiomas": [
+      "Persian (Farsi)"
+    ],
+    "bandera_emoji": "🇮🇷",
+    "bandera_colores": [
+      {
+        "hex": "#FFFFFF",
+        "pct": 32.05
+      },
+      {
+        "hex": "#DA0101",
+        "pct": 29.91
+      },
+      {
+        "hex": "#239F40",
+        "pct": 28.42
+      },
+      {
+        "hex": "#B0DDBA",
+        "pct": 2.23
+      },
+      {
+        "hex": "#E96A6A",
+        "pct": 1.91
+      },
+      {
+        "hex": "#8ACC99",
+        "pct": 1.81
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Irak",
+    "capital": "Bagdad",
+    "cca2": "IQ",
+    "cca3": "IRQ",
+    "lat": 33.34058,
+    "lng": 44.40088,
+    "poblacion_pais": 46118793,
+    "area_km2": 438317,
+    "densidad": 105.22,
+    "utc_offset": 3.0,
+    "fronteras": [
+      "IRN",
+      "JOR",
+      "KWT",
+      "SAU",
+      "SYR",
+      "TUR"
+    ],
+    "num_fronteras": 6,
+    "idiomas": [
+      "Arabic",
+      "Aramaic",
+      "Sorani"
+    ],
+    "bandera_emoji": "🇮🇶",
+    "bandera_colores": [
+      {
+        "hex": "#000000",
+        "pct": 33
+      },
+      {
+        "hex": "#DCEDE5",
+        "pct": 30.53
+      },
+      {
+        "hex": "#14844C",
+        "pct": 1.85
+      },
+      {
+        "hex": "#E9949D",
+        "pct": 0.99
+      },
+      {
+        "hex": "#459E71",
+        "pct": 0.33
+      },
+      {
+        "hex": "#84BFA1",
+        "pct": 0.3
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Islandia",
+    "capital": "Reikiavik",
+    "cca2": "IS",
+    "cca3": "ISL",
+    "lat": 64.13548,
+    "lng": -21.89541,
+    "poblacion_pais": 391810,
+    "area_km2": 103000,
+    "densidad": 3.8,
+    "utc_offset": 0.0,
+    "fronteras": [],
+    "num_fronteras": 0,
+    "idiomas": [
+      "Icelandic"
+    ],
+    "bandera_emoji": "🇮🇸",
+    "bandera_colores": [
+      {
+        "hex": "#003897",
+        "pct": 65.64
+      },
+      {
+        "hex": "#D72828",
+        "pct": 16.47
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 14.75
+      },
+      {
+        "hex": "#EA8C8C",
+        "pct": 3.07
+      },
+      {
+        "hex": "#E05757",
+        "pct": 0.05
+      },
+      {
+        "hex": "#4971B5",
+        "pct": 0.01
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Israel",
+    "capital": "Jerusalén",
+    "cca2": "IL",
+    "cca3": "ISR",
+    "lat": 31.76904,
+    "lng": 35.21633,
+    "poblacion_pais": 10119400,
+    "area_km2": 20770,
+    "densidad": 487.21,
+    "utc_offset": 2.0,
+    "fronteras": [
+      "EGY",
+      "JOR",
+      "LBN",
+      "PSE",
+      "SYR"
+    ],
+    "num_fronteras": 5,
+    "idiomas": [
+      "Arabic",
+      "Hebrew"
+    ],
+    "bandera_emoji": "🇮🇱",
+    "bandera_colores": [
+      {
+        "hex": "#FFFFFF",
+        "pct": 63.14
+      },
+      {
+        "hex": "#0038B8",
+        "pct": 33.8
+      },
+      {
+        "hex": "#5F82D2",
+        "pct": 2.5
+      },
+      {
+        "hex": "#D8E1F4",
+        "pct": 0.41
+      },
+      {
+        "hex": "#88A2DE",
+        "pct": 0.14
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Italia",
+    "capital": "Rome",
+    "cca2": "IT",
+    "cca3": "ITA",
+    "lat": 41.89193,
+    "lng": 12.51133,
+    "poblacion_pais": 58919230,
+    "area_km2": 301336,
+    "densidad": 195.53,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "AUT",
+      "FRA",
+      "SMR",
+      "SVN",
+      "CHE",
+      "VAT"
+    ],
+    "num_fronteras": 6,
+    "idiomas": [
+      "Italian"
+    ],
+    "bandera_emoji": "🇮🇹",
+    "bandera_colores": [
+      {
+        "hex": "#FFFFFF",
+        "pct": 33.33
+      },
+      {
+        "hex": "#009246",
+        "pct": 33.33
+      },
+      {
+        "hex": "#CE2B37",
+        "pct": 33.33
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Jamaica",
+    "capital": "Kingston",
+    "cca2": "JM",
+    "cca3": "JAM",
+    "lat": 17.99702,
+    "lng": -76.79358,
+    "poblacion_pais": 2825544,
+    "area_km2": 10991,
+    "densidad": 257.08,
+    "utc_offset": -5.0,
+    "fronteras": [],
+    "num_fronteras": 0,
+    "idiomas": [
+      "English",
+      "Jamaican Patois"
+    ],
+    "bandera_emoji": "🇯🇲",
+    "bandera_colores": [
+      {
+        "hex": "#000000",
+        "pct": 32.8
+      },
+      {
+        "hex": "#009B3A",
+        "pct": 32.8
+      },
+      {
+        "hex": "#FED100",
+        "pct": 32.76
+      },
+      {
+        "hex": "#8B7300",
+        "pct": 0.82
+      },
+      {
+        "hex": "#8AB91A",
+        "pct": 0.82
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Jordania",
+    "capital": "Ammán",
+    "cca2": "JO",
+    "cca3": "JOR",
+    "lat": 31.95522,
+    "lng": 35.94503,
+    "poblacion_pais": 11734000,
+    "area_km2": 89342,
+    "densidad": 131.34,
+    "utc_offset": 2.0,
+    "fronteras": [
+      "IRQ",
+      "ISR",
+      "PSE",
+      "SAU",
+      "SYR"
+    ],
+    "num_fronteras": 5,
+    "idiomas": [
+      "Arabic"
+    ],
+    "bandera_emoji": "🇯🇴",
+    "bandera_colores": [
+      {
+        "hex": "#007A3D",
+        "pct": 27.39
+      },
+      {
+        "hex": "#000000",
+        "pct": 27.39
+      },
+      {
+        "hex": "#CE1126",
+        "pct": 24.14
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 18.66
+      },
+      {
+        "hex": "#D84857",
+        "pct": 0.27
+      },
+      {
+        "hex": "#972D2C",
+        "pct": 0.17
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Japón",
+    "capital": "Tokio",
+    "cca2": "JP",
+    "cca3": "JPN",
+    "lat": 35.6895,
+    "lng": 139.69171,
+    "poblacion_pais": 123300000,
+    "area_km2": 377930,
+    "densidad": 326.25,
+    "utc_offset": 9.0,
+    "fronteras": [],
+    "num_fronteras": 0,
+    "idiomas": [
+      "Japanese"
+    ],
+    "bandera_emoji": "🇯🇵",
+    "bandera_colores": [
+      {
+        "hex": "#FFFFFF",
+        "pct": 80.82
+      },
+      {
+        "hex": "#BC002D",
+        "pct": 18.27
+      },
+      {
+        "hex": "#D14F6E",
+        "pct": 0.58
+      },
+      {
+        "hex": "#EDBBC7",
+        "pct": 0.22
+      },
+      {
+        "hex": "#DF869B",
+        "pct": 0.11
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Kazajistán",
+    "capital": "Astaná",
+    "cca2": "KZ",
+    "cca3": "KAZ",
+    "lat": 51.1801,
+    "lng": 71.44598,
+    "poblacion_pais": 20407844,
+    "area_km2": 2724900,
+    "densidad": 7.49,
+    "utc_offset": 5.0,
+    "fronteras": [
+      "CHN",
+      "KGZ",
+      "RUS",
+      "TKM",
+      "UZB"
+    ],
+    "num_fronteras": 5,
+    "idiomas": [
+      "Kazakh",
+      "Russian"
+    ],
+    "bandera_emoji": "🇰🇿",
+    "bandera_colores": [
+      {
+        "hex": "#00AFCA",
+        "pct": 87.48
+      },
+      {
+        "hex": "#FAC50F",
+        "pct": 6.14
+      },
+      {
+        "hex": "#97BC59",
+        "pct": 3.56
+      },
+      {
+        "hex": "#2BB3AA",
+        "pct": 2.84
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Kenia",
+    "capital": "Nairobi",
+    "cca2": "KE",
+    "cca3": "KEN",
+    "lat": -1.28333,
+    "lng": 36.81667,
+    "poblacion_pais": 53330978,
+    "area_km2": 580367,
+    "densidad": 91.89,
+    "utc_offset": 3.0,
+    "fronteras": [
+      "ETH",
+      "SOM",
+      "SSD",
+      "TZA",
+      "UGA"
+    ],
+    "num_fronteras": 5,
+    "idiomas": [
+      "English",
+      "Swahili"
+    ],
+    "bandera_emoji": "🇰🇪",
+    "bandera_colores": [
+      {
+        "hex": "#000000",
+        "pct": 30.01
+      },
+      {
+        "hex": "#BB0000",
+        "pct": 29.39
+      },
+      {
+        "hex": "#006600",
+        "pct": 28.87
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 9.73
+      },
+      {
+        "hex": "#D56262",
+        "pct": 0.89
+      },
+      {
+        "hex": "#E6A6A6",
+        "pct": 0.17
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Kirguizistán",
+    "capital": "Biskek",
+    "cca2": "KG",
+    "cca3": "KGZ",
+    "lat": 42.87,
+    "lng": 74.59,
+    "poblacion_pais": 7281800,
+    "area_km2": 199951,
+    "densidad": 36.42,
+    "utc_offset": 6.0,
+    "fronteras": [
+      "CHN",
+      "KAZ",
+      "TJK",
+      "UZB"
+    ],
+    "num_fronteras": 4,
+    "idiomas": [
+      "Kyrgyz",
+      "Russian"
+    ],
+    "bandera_emoji": "🇰🇬",
+    "bandera_colores": [
+      {
+        "hex": "#E8112D",
+        "pct": 90.14
+      },
+      {
+        "hex": "#FFED00",
+        "pct": 5.26
+      },
+      {
+        "hex": "#F58E14",
+        "pct": 2.7
+      },
+      {
+        "hex": "#F05A1E",
+        "pct": 1.89
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Camboya",
+    "capital": "Phnom Penh",
+    "cca2": "KH",
+    "cca3": "KHM",
+    "lat": 11.56245,
+    "lng": 104.91601,
+    "poblacion_pais": 17577760,
+    "area_km2": 181035,
+    "densidad": 97.1,
+    "utc_offset": 7.0,
+    "fronteras": [
+      "LAO",
+      "THA",
+      "VNM"
+    ],
+    "num_fronteras": 3,
+    "idiomas": [
+      "Khmer"
+    ],
+    "bandera_emoji": "🇰🇭",
+    "bandera_colores": [
+      {
+        "hex": "#032EA1",
+        "pct": 50
+      },
+      {
+        "hex": "#E00025",
+        "pct": 39.82
+      },
+      {
+        "hex": "#A49FA0",
+        "pct": 4.6
+      },
+      {
+        "hex": "#767273",
+        "pct": 0.56
+      },
+      {
+        "hex": "#A05964",
+        "pct": 0.25
+      },
+      {
+        "hex": "#752A37",
+        "pct": 0.12
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Kiribati",
+    "capital": "South Tarawa",
+    "cca2": "KI",
+    "cca3": "KIR",
+    "lat": 1.3278,
+    "lng": 172.97696,
+    "poblacion_pais": 120740,
+    "area_km2": 811,
+    "densidad": 148.88,
+    "utc_offset": 13.0,
+    "fronteras": [],
+    "num_fronteras": 0,
+    "idiomas": [
+      "English",
+      "Gilbertese"
+    ],
+    "bandera_emoji": "🇰🇮",
+    "bandera_colores": [
+      {
+        "hex": "#CE1126",
+        "pct": 45.71
+      },
+      {
+        "hex": "#FFFEFF",
+        "pct": 18.84
+      },
+      {
+        "hex": "#FACF15",
+        "pct": 5.61
+      },
+      {
+        "hex": "#D0DCE9",
+        "pct": 1.42
+      },
+      {
+        "hex": "#3768A1",
+        "pct": 1.42
+      },
+      {
+        "hex": "#8FABCA",
+        "pct": 1.28
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "San Cristóbal y Nieves",
+    "capital": "Basseterre",
+    "cca2": "KN",
+    "cca3": "KNA",
+    "lat": 17.2955,
+    "lng": -62.72499,
+    "poblacion_pais": 51320,
+    "area_km2": 261,
+    "densidad": 196.63,
+    "utc_offset": -4.0,
+    "fronteras": [],
+    "num_fronteras": 0,
+    "idiomas": [
+      "English"
+    ],
+    "bandera_emoji": "🇰🇳",
+    "bandera_colores": [
+      {
+        "hex": "#000000",
+        "pct": 28.72
+      },
+      {
+        "hex": "#CE1126",
+        "pct": 27.87
+      },
+      {
+        "hex": "#009E49",
+        "pct": 27.63
+      },
+      {
+        "hex": "#FBD116",
+        "pct": 10.48
+      },
+      {
+        "hex": "#292929",
+        "pct": 0.21
+      },
+      {
+        "hex": "#474747",
+        "pct": 0.18
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Corea del Sur",
+    "capital": "Seúl",
+    "cca2": "KR",
+    "cca3": "KOR",
+    "lat": 37.566,
+    "lng": 126.9784,
+    "poblacion_pais": 51159889,
+    "area_km2": 100210,
+    "densidad": 510.53,
+    "utc_offset": 9.0,
+    "fronteras": [
+      "PRK"
+    ],
+    "num_fronteras": 1,
+    "idiomas": [
+      "Korean"
+    ],
+    "bandera_emoji": "🇰🇷",
+    "bandera_colores": [
+      {
+        "hex": "#FFFFFF",
+        "pct": 76.15
+      },
+      {
+        "hex": "#013478",
+        "pct": 6.3
+      },
+      {
+        "hex": "#C60C30",
+        "pct": 6.28
+      },
+      {
+        "hex": "#030303",
+        "pct": 6.16
+      },
+      {
+        "hex": "#EED6DE",
+        "pct": 1.36
+      },
+      {
+        "hex": "#303030",
+        "pct": 1.21
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Kuwait",
+    "capital": "Ciudad de Kuwait",
+    "cca2": "KW",
+    "cca3": "KWT",
+    "lat": 29.367,
+    "lng": 47.97429,
+    "poblacion_pais": 4881254,
+    "area_km2": 17818,
+    "densidad": 273.95,
+    "utc_offset": 3.0,
+    "fronteras": [
+      "IRQ",
+      "SAU"
+    ],
+    "num_fronteras": 2,
+    "idiomas": [
+      "Arabic"
+    ],
+    "bandera_emoji": "🇰🇼",
+    "bandera_colores": [
+      {
+        "hex": "#007A3D",
+        "pct": 28.84
+      },
+      {
+        "hex": "#CE1126",
+        "pct": 28.84
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 24.75
+      },
+      {
+        "hex": "#000000",
+        "pct": 16.59
+      },
+      {
+        "hex": "#EA9AA3",
+        "pct": 0.75
+      },
+      {
+        "hex": "#890B19",
+        "pct": 0.08
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Laos",
+    "capital": "Vientián",
+    "cca2": "LA",
+    "cca3": "LAO",
+    "lat": 17.96667,
+    "lng": 102.6,
+    "poblacion_pais": 7647000,
+    "area_km2": 236800,
+    "densidad": 32.29,
+    "utc_offset": 7.0,
+    "fronteras": [
+      "MMR",
+      "KHM",
+      "CHN",
+      "THA",
+      "VNM"
+    ],
+    "num_fronteras": 5,
+    "idiomas": [
+      "Lao"
+    ],
+    "bandera_emoji": "🇱🇦",
+    "bandera_colores": [
+      {
+        "hex": "#CE1126",
+        "pct": 50
+      },
+      {
+        "hex": "#002868",
+        "pct": 41.37
+      },
+      {
+        "hex": "#FEFFFF",
+        "pct": 8.17
+      },
+      {
+        "hex": "#879AB8",
+        "pct": 0.21
+      },
+      {
+        "hex": "#375788",
+        "pct": 0.15
+      },
+      {
+        "hex": "#ABB8CD",
+        "pct": 0.11
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Líbano",
+    "capital": "Beirut",
+    "cca2": "LB",
+    "cca3": "LBN",
+    "lat": 33.89332,
+    "lng": 35.50157,
+    "poblacion_pais": 5490000,
+    "area_km2": 10452,
+    "densidad": 525.26,
+    "utc_offset": 2.0,
+    "fronteras": [
+      "ISR",
+      "SYR"
+    ],
+    "num_fronteras": 2,
+    "idiomas": [
+      "Arabic",
+      "French"
+    ],
+    "bandera_emoji": "🇱🇧",
+    "bandera_colores": [
+      {
+        "hex": "#ED1C24",
+        "pct": 50
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 42.07
+      },
+      {
+        "hex": "#01A652",
+        "pct": 5.9
+      },
+      {
+        "hex": "#8ED8B2",
+        "pct": 0.85
+      },
+      {
+        "hex": "#42BD7E",
+        "pct": 0.62
+      },
+      {
+        "hex": "#D7F1E4",
+        "pct": 0.56
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Liberia",
+    "capital": "Monrovia",
+    "cca2": "LR",
+    "cca3": "LBR",
+    "lat": 6.30054,
+    "lng": -10.7969,
+    "poblacion_pais": 5248621,
+    "area_km2": 111369,
+    "densidad": 47.13,
+    "utc_offset": 0.0,
+    "fronteras": [
+      "GIN",
+      "CIV",
+      "SLE"
+    ],
+    "num_fronteras": 3,
+    "idiomas": [
+      "English"
+    ],
+    "bandera_emoji": "🇱🇷",
+    "bandera_colores": [
+      {
+        "hex": "#BF0A30",
+        "pct": 44.06
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 38.85
+      },
+      {
+        "hex": "#002868",
+        "pct": 9.36
+      },
+      {
+        "hex": "#EAADBA",
+        "pct": 3.52
+      },
+      {
+        "hex": "#D96C83",
+        "pct": 1.93
+      },
+      {
+        "hex": "#CA3453",
+        "pct": 1.48
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Libia",
+    "capital": "Trípoli",
+    "cca2": "LY",
+    "cca3": "LBY",
+    "lat": 32.88743,
+    "lng": 13.18733,
+    "poblacion_pais": 7459000,
+    "area_km2": 1759540,
+    "densidad": 4.24,
+    "utc_offset": 2.0,
+    "fronteras": [
+      "DZA",
+      "TCD",
+      "EGY",
+      "NER",
+      "SDN",
+      "TUN"
+    ],
+    "num_fronteras": 6,
+    "idiomas": [
+      "Arabic"
+    ],
+    "bandera_emoji": "🇱🇾",
+    "bandera_colores": [
+      {
+        "hex": "#000000",
+        "pct": 48.47
+      },
+      {
+        "hex": "#E70013",
+        "pct": 25
+      },
+      {
+        "hex": "#239E46",
+        "pct": 25
+      },
+      {
+        "hex": "#727272",
+        "pct": 0.21
+      },
+      {
+        "hex": "#313131",
+        "pct": 0.2
+      },
+      {
+        "hex": "#505050",
+        "pct": 0.11
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Santa Lucía",
+    "capital": "Castries",
+    "cca2": "LC",
+    "cca3": "LCA",
+    "lat": 13.9957,
+    "lng": -61.00614,
+    "poblacion_pais": 184100,
+    "area_km2": 616,
+    "densidad": 298.86,
+    "utc_offset": -4.0,
+    "fronteras": [],
+    "num_fronteras": 0,
+    "idiomas": [
+      "English"
+    ],
+    "bandera_emoji": "🇱🇨",
+    "bandera_colores": [
+      {
+        "hex": "#66CCFF",
+        "pct": 85.93
+      },
+      {
+        "hex": "#FCD116",
+        "pct": 6.68
+      },
+      {
+        "hex": "#FDFEFE",
+        "pct": 3.02
+      },
+      {
+        "hex": "#665509",
+        "pct": 0.09
+      },
+      {
+        "hex": "#AD900F",
+        "pct": 0.08
+      },
+      {
+        "hex": "#FDDD56",
+        "pct": 0.03
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Liechtenstein",
+    "capital": "Vaduz",
+    "cca2": "LI",
+    "cca3": "LIE",
+    "lat": 47.14151,
+    "lng": 9.52154,
+    "poblacion_pais": 40900,
+    "area_km2": 160,
+    "densidad": 255.62,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "AUT",
+      "CHE"
+    ],
+    "num_fronteras": 2,
+    "idiomas": [
+      "German"
+    ],
+    "bandera_emoji": "🇱🇮",
+    "bandera_colores": [
+      {
+        "hex": "#CE1126",
+        "pct": 50
+      },
+      {
+        "hex": "#002B7F",
+        "pct": 46.28
+      },
+      {
+        "hex": "#BEA12E",
+        "pct": 1.09
+      },
+      {
+        "hex": "#F9D33C",
+        "pct": 0.88
+      },
+      {
+        "hex": "#826E1F",
+        "pct": 0.74
+      },
+      {
+        "hex": "#524615",
+        "pct": 0.66
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Sri Lanka",
+    "capital": "Colombo",
+    "cca2": "LK",
+    "cca3": "LKA",
+    "lat": 6.93548,
+    "lng": 79.84868,
+    "poblacion_pais": 21763170,
+    "area_km2": 65610,
+    "densidad": 331.71,
+    "utc_offset": 5.5,
+    "fronteras": [
+      "IND"
+    ],
+    "num_fronteras": 1,
+    "idiomas": [
+      "Sinhala",
+      "Tamil"
+    ],
+    "bandera_emoji": "🇱🇰",
+    "bandera_colores": [
+      {
+        "hex": "#FEB700",
+        "pct": 38.32
+      },
+      {
+        "hex": "#8D2029",
+        "pct": 32.72
+      },
+      {
+        "hex": "#005641",
+        "pct": 11.07
+      },
+      {
+        "hex": "#552D0A",
+        "pct": 2.75
+      },
+      {
+        "hex": "#B88301",
+        "pct": 1.37
+      },
+      {
+        "hex": "#B3511B",
+        "pct": 1.29
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Lesotho",
+    "capital": "Maseru",
+    "cca2": "LS",
+    "cca3": "LSO",
+    "lat": -29.31667,
+    "lng": 27.48333,
+    "poblacion_pais": 2116427,
+    "area_km2": 30355,
+    "densidad": 69.72,
+    "utc_offset": 2.0,
+    "fronteras": [
+      "ZAF"
+    ],
+    "num_fronteras": 1,
+    "idiomas": [
+      "English",
+      "Sotho"
+    ],
+    "bandera_emoji": "🇱🇸",
+    "bandera_colores": [
+      {
+        "hex": "#FFFFFF",
+        "pct": 35.98
+      },
+      {
+        "hex": "#00209F",
+        "pct": 30
+      },
+      {
+        "hex": "#009543",
+        "pct": 30
+      },
+      {
+        "hex": "#020202",
+        "pct": 2.43
+      },
+      {
+        "hex": "#2E2E2E",
+        "pct": 0.42
+      },
+      {
+        "hex": "#4E4E4E",
+        "pct": 0.26
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Lituania",
+    "capital": "Vilnius",
+    "cca2": "LT",
+    "cca3": "LTU",
+    "lat": 54.68916,
+    "lng": 25.2798,
+    "poblacion_pais": 2894548,
+    "area_km2": 65300,
+    "densidad": 44.33,
+    "utc_offset": 2.0,
+    "fronteras": [
+      "BLR",
+      "LVA",
+      "POL",
+      "RUS"
+    ],
+    "num_fronteras": 4,
+    "idiomas": [
+      "Lithuanian"
+    ],
+    "bandera_emoji": "🇱🇹",
+    "bandera_colores": [
+      {
+        "hex": "#FDB913",
+        "pct": 33
+      },
+      {
+        "hex": "#C1272D",
+        "pct": 33
+      },
+      {
+        "hex": "#006A44",
+        "pct": 32
+      },
+      {
+        "hex": "#40543D",
+        "pct": 1
+      },
+      {
+        "hex": "#548533",
+        "pct": 1
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Luxemburgo",
+    "capital": "Luxemburgo",
+    "cca2": "LU",
+    "cca3": "LUX",
+    "lat": 49.60982,
+    "lng": 6.13268,
+    "poblacion_pais": 681973,
+    "area_km2": 2586,
+    "densidad": 263.72,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "BEL",
+      "FRA",
+      "DEU"
+    ],
+    "num_fronteras": 3,
+    "idiomas": [
+      "German",
+      "French",
+      "Luxembourgish"
+    ],
+    "bandera_emoji": "🇱🇺",
+    "bandera_colores": [
+      {
+        "hex": "#00A1DE",
+        "pct": 33
+      },
+      {
+        "hex": "#ED2939",
+        "pct": 33
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 32
+      },
+      {
+        "hex": "#F9B8BD",
+        "pct": 1
+      },
+      {
+        "hex": "#AAE0F4",
+        "pct": 1
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Letonia",
+    "capital": "Riga",
+    "cca2": "LV",
+    "cca3": "LVA",
+    "lat": 56.946,
+    "lng": 24.10589,
+    "poblacion_pais": 1830400,
+    "area_km2": 64559,
+    "densidad": 28.35,
+    "utc_offset": 2.0,
+    "fronteras": [
+      "BLR",
+      "EST",
+      "LTU",
+      "RUS"
+    ],
+    "num_fronteras": 4,
+    "idiomas": [
+      "Latvian"
+    ],
+    "bandera_emoji": "🇱🇻",
+    "bandera_colores": [
+      {
+        "hex": "#9E3039",
+        "pct": 80
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 20
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Marruecos",
+    "capital": "Rabat",
+    "cca2": "MA",
+    "cca3": "MAR",
+    "lat": 34.01325,
+    "lng": -6.83255,
+    "poblacion_pais": 36828330,
+    "area_km2": 446550,
+    "densidad": 82.47,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "DZA",
+      "ESH",
+      "ESP"
+    ],
+    "num_fronteras": 3,
+    "idiomas": [
+      "Arabic",
+      "Berber"
+    ],
+    "bandera_emoji": "🇲🇦",
+    "bandera_colores": [
+      {
+        "hex": "#C1272D",
+        "pct": 97.97
+      },
+      {
+        "hex": "#016233",
+        "pct": 1.54
+      },
+      {
+        "hex": "#684230",
+        "pct": 0.49
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Mónaco",
+    "capital": "Monaco",
+    "cca2": "MC",
+    "cca3": "MCO",
+    "lat": 43.73718,
+    "lng": 7.42145,
+    "poblacion_pais": 38423,
+    "area_km2": 2.02,
+    "densidad": 19021.29,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "FRA"
+    ],
+    "num_fronteras": 1,
+    "idiomas": [
+      "French"
+    ],
+    "bandera_emoji": "🇲🇨",
+    "bandera_colores": [
+      {
+        "hex": "#FFFFFF",
+        "pct": 50
+      },
+      {
+        "hex": "#CE1126",
+        "pct": 50
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Moldavia",
+    "capital": "Chișinău",
+    "cca2": "MD",
+    "cca3": "MDA",
+    "lat": 47.00902,
+    "lng": 28.85938,
+    "poblacion_pais": 2381300,
+    "area_km2": 33846,
+    "densidad": 70.36,
+    "utc_offset": 2.0,
+    "fronteras": [
+      "ROU",
+      "UKR"
+    ],
+    "num_fronteras": 2,
+    "idiomas": [
+      "Moldavian"
+    ],
+    "bandera_emoji": "🇲🇩",
+    "bandera_colores": [
+      {
+        "hex": "#CC092F",
+        "pct": 33.72
+      },
+      {
+        "hex": "#0046AE",
+        "pct": 33.52
+      },
+      {
+        "hex": "#FFD200",
+        "pct": 25.17
+      },
+      {
+        "hex": "#352815",
+        "pct": 1.78
+      },
+      {
+        "hex": "#AD7D54",
+        "pct": 1.72
+      },
+      {
+        "hex": "#674F21",
+        "pct": 1.01
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Madagascar",
+    "capital": "Antananarivo",
+    "cca2": "MG",
+    "cca3": "MDG",
+    "lat": -18.91368,
+    "lng": 47.53613,
+    "poblacion_pais": 31727042,
+    "area_km2": 587041,
+    "densidad": 54.05,
+    "utc_offset": 3.0,
+    "fronteras": [],
+    "num_fronteras": 0,
+    "idiomas": [
+      "French",
+      "Malagasy"
+    ],
+    "bandera_emoji": "🇲🇬",
+    "bandera_colores": [
+      {
+        "hex": "#FFFFFF",
+        "pct": 33.33
+      },
+      {
+        "hex": "#007E3A",
+        "pct": 33.33
+      },
+      {
+        "hex": "#FC3D32",
+        "pct": 33.33
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Maldivas",
+    "capital": "Malé",
+    "cca2": "MV",
+    "cca3": "MDV",
+    "lat": 4.17521,
+    "lng": 73.50916,
+    "poblacion_pais": 515132,
+    "area_km2": 300,
+    "densidad": 1717.11,
+    "utc_offset": 5.0,
+    "fronteras": [],
+    "num_fronteras": 0,
+    "idiomas": [
+      "Maldivian"
+    ],
+    "bandera_emoji": "🇲🇻",
+    "bandera_colores": [
+      {
+        "hex": "#D21034",
+        "pct": 66.67
+      },
+      {
+        "hex": "#007E3A",
+        "pct": 31.69
+      },
+      {
+        "hex": "#C9E4D5",
+        "pct": 0.27
+      },
+      {
+        "hex": "#6FB690",
+        "pct": 0.15
+      },
+      {
+        "hex": "#379A64",
+        "pct": 0.06
+      },
+      {
+        "hex": "#29935A",
+        "pct": 0.06
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "México",
+    "capital": "Ciudad de México",
+    "cca2": "MX",
+    "cca3": "MEX",
+    "lat": 19.42847,
+    "lng": -99.12766,
+    "poblacion_pais": 130575786,
+    "area_km2": 1964375,
+    "densidad": 66.47,
+    "utc_offset": -6.0,
+    "fronteras": [
+      "BLZ",
+      "GTM",
+      "USA"
+    ],
+    "num_fronteras": 3,
+    "idiomas": [
+      "Spanish"
+    ],
+    "bandera_emoji": "🇲🇽",
+    "bandera_colores": [
+      {
+        "hex": "#006847",
+        "pct": 33.15
+      },
+      {
+        "hex": "#CE1126",
+        "pct": 33.15
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 26.74
+      },
+      {
+        "hex": "#EFB1B7",
+        "pct": 1.23
+      },
+      {
+        "hex": "#593520",
+        "pct": 1.12
+      },
+      {
+        "hex": "#925A2F",
+        "pct": 0.46
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Islas Marshall",
+    "capital": "Majuro",
+    "cca2": "MH",
+    "cca3": "MHL",
+    "lat": 7.08971,
+    "lng": 171.38027,
+    "poblacion_pais": 42418,
+    "area_km2": 181,
+    "densidad": 234.35,
+    "utc_offset": 12.0,
+    "fronteras": [],
+    "num_fronteras": 0,
+    "idiomas": [
+      "English",
+      "Marshallese"
+    ],
+    "bandera_emoji": "🇲🇭",
+    "bandera_colores": [
+      {
+        "hex": "#003893",
+        "pct": 73.03
+      },
+      {
+        "hex": "#FEFEFE",
+        "pct": 12.23
+      },
+      {
+        "hex": "#DD7500",
+        "pct": 9.99
+      },
+      {
+        "hex": "#CCD7E9",
+        "pct": 1.31
+      },
+      {
+        "hex": "#2958A4",
+        "pct": 1.25
+      },
+      {
+        "hex": "#90A8D0",
+        "pct": 1.09
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Macedonia del Norte",
+    "capital": "Skopje",
+    "cca2": "MK",
+    "cca3": "MKD",
+    "lat": 41.99646,
+    "lng": 21.43141,
+    "poblacion_pais": 1826247,
+    "area_km2": 25713,
+    "densidad": 71.02,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "ALB",
+      "BGR",
+      "GRC",
+      "UNK",
+      "SRB"
+    ],
+    "num_fronteras": 5,
+    "idiomas": [
+      "Macedonian"
+    ],
+    "bandera_emoji": "🇲🇰",
+    "bandera_colores": [
+      {
+        "hex": "#D20000",
+        "pct": 65.35
+      },
+      {
+        "hex": "#FFE600",
+        "pct": 30.08
+      },
+      {
+        "hex": "#DC3400",
+        "pct": 2.11
+      },
+      {
+        "hex": "#F4AE00",
+        "pct": 1.85
+      },
+      {
+        "hex": "#E86F00",
+        "pct": 0.61
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Mali",
+    "capital": "Bamako",
+    "cca2": "ML",
+    "cca3": "MLI",
+    "lat": 12.60915,
+    "lng": -7.97522,
+    "poblacion_pais": 22395489,
+    "area_km2": 1240192,
+    "densidad": 18.06,
+    "utc_offset": 0.0,
+    "fronteras": [
+      "DZA",
+      "BFA",
+      "GIN",
+      "CIV",
+      "MRT",
+      "NER",
+      "SEN"
+    ],
+    "num_fronteras": 7,
+    "idiomas": [
+      "French"
+    ],
+    "bandera_emoji": "🇲🇱",
+    "bandera_colores": [
+      {
+        "hex": "#14B53A",
+        "pct": 33.33
+      },
+      {
+        "hex": "#CE1126",
+        "pct": 33.33
+      },
+      {
+        "hex": "#FCD116",
+        "pct": 33.33
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Malta",
+    "capital": "La Valeta",
+    "cca2": "MT",
+    "cca3": "MLT",
+    "lat": 35.89968,
+    "lng": 14.5148,
+    "poblacion_pais": 574250,
+    "area_km2": 316,
+    "densidad": 1817.25,
+    "utc_offset": 1.0,
+    "fronteras": [],
+    "num_fronteras": 0,
+    "idiomas": [
+      "English",
+      "Maltese"
+    ],
+    "bandera_emoji": "🇲🇹",
+    "bandera_colores": [
+      {
+        "hex": "#CF142B",
+        "pct": 50
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 47
+      },
+      {
+        "hex": "#A9A29C",
+        "pct": 0.96
+      },
+      {
+        "hex": "#F6A9B5",
+        "pct": 0.49
+      },
+      {
+        "hex": "#D36773",
+        "pct": 0.07
+      },
+      {
+        "hex": "#6F6E6E",
+        "pct": 0.01
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Myanmar",
+    "capital": "Naypyidaw",
+    "cca2": "MM",
+    "cca3": "MMR",
+    "lat": 19.745,
+    "lng": 96.12972,
+    "poblacion_pais": 51316756,
+    "area_km2": 676578,
+    "densidad": 75.85,
+    "utc_offset": 6.5,
+    "fronteras": [
+      "BGD",
+      "CHN",
+      "IND",
+      "LAO",
+      "THA"
+    ],
+    "num_fronteras": 5,
+    "idiomas": [
+      "Burmese"
+    ],
+    "bandera_emoji": "🇲🇲",
+    "bandera_colores": [
+      {
+        "hex": "#FECB00",
+        "pct": 32.32
+      },
+      {
+        "hex": "#EA2839",
+        "pct": 31.06
+      },
+      {
+        "hex": "#34B233",
+        "pct": 24.47
+      },
+      {
+        "hex": "#FEFFFE",
+        "pct": 9.6
+      },
+      {
+        "hex": "#77BA22",
+        "pct": 0.92
+      },
+      {
+        "hex": "#708435",
+        "pct": 0.77
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Montenegro",
+    "capital": "Podgorica",
+    "cca2": "ME",
+    "cca3": "MNE",
+    "lat": 42.44124,
+    "lng": 19.26309,
+    "poblacion_pais": 623327,
+    "area_km2": 13812,
+    "densidad": 45.13,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "ALB",
+      "BIH",
+      "HRV",
+      "UNK",
+      "SRB"
+    ],
+    "num_fronteras": 5,
+    "idiomas": [
+      "Montenegrin"
+    ],
+    "bandera_emoji": "🇲🇪",
+    "bandera_colores": [
+      {
+        "hex": "#C40308",
+        "pct": 76.94
+      },
+      {
+        "hex": "#D3AD3B",
+        "pct": 21.23
+      },
+      {
+        "hex": "#C4722A",
+        "pct": 0.81
+      },
+      {
+        "hex": "#1D5E91",
+        "pct": 0.43
+      },
+      {
+        "hex": "#6E8B3E",
+        "pct": 0.42
+      },
+      {
+        "hex": "#626765",
+        "pct": 0.18
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Mongolia",
+    "capital": "Ulan Bator",
+    "cca2": "MN",
+    "cca3": "MNG",
+    "lat": 47.90771,
+    "lng": 106.88324,
+    "poblacion_pais": 3544835,
+    "area_km2": 1564110,
+    "densidad": 2.27,
+    "utc_offset": 8.0,
+    "fronteras": [
+      "CHN",
+      "RUS"
+    ],
+    "num_fronteras": 2,
+    "idiomas": [
+      "Mongolian"
+    ],
+    "bandera_emoji": "🇲🇳",
+    "bandera_colores": [
+      {
+        "hex": "#C4272F",
+        "pct": 58.68
+      },
+      {
+        "hex": "#015197",
+        "pct": 33
+      },
+      {
+        "hex": "#F9CF02",
+        "pct": 5.42
+      },
+      {
+        "hex": "#833551",
+        "pct": 1
+      },
+      {
+        "hex": "#E69511",
+        "pct": 0.99
+      },
+      {
+        "hex": "#D66120",
+        "pct": 0.91
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Mozambique",
+    "capital": "Maputo",
+    "cca2": "MZ",
+    "cca3": "MOZ",
+    "lat": -25.96553,
+    "lng": 32.58322,
+    "poblacion_pais": 34090466,
+    "area_km2": 801590,
+    "densidad": 42.53,
+    "utc_offset": 2.0,
+    "fronteras": [
+      "MWI",
+      "ZAF",
+      "SWZ",
+      "TZA",
+      "ZMB",
+      "ZWE"
+    ],
+    "num_fronteras": 6,
+    "idiomas": [
+      "Portuguese"
+    ],
+    "bandera_emoji": "🇲🇿",
+    "bandera_colores": [
+      {
+        "hex": "#FCE100",
+        "pct": 27.92
+      },
+      {
+        "hex": "#007168",
+        "pct": 26.66
+      },
+      {
+        "hex": "#000000",
+        "pct": 19.46
+      },
+      {
+        "hex": "#D21034",
+        "pct": 17.48
+      },
+      {
+        "hex": "#D05B28",
+        "pct": 0.33
+      },
+      {
+        "hex": "#B1A33E",
+        "pct": 0.12
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Mauritania",
+    "capital": "Nuakchot",
+    "cca2": "MR",
+    "cca3": "MRT",
+    "lat": 18.08581,
+    "lng": -15.9785,
+    "poblacion_pais": 4927532,
+    "area_km2": 1030700,
+    "densidad": 4.78,
+    "utc_offset": 0.0,
+    "fronteras": [
+      "DZA",
+      "MLI",
+      "SEN",
+      "ESH"
+    ],
+    "num_fronteras": 4,
+    "idiomas": [
+      "Arabic"
+    ],
+    "bandera_emoji": "🇲🇷",
+    "bandera_colores": [
+      {
+        "hex": "#006233",
+        "pct": 93.78
+      },
+      {
+        "hex": "#FFC400",
+        "pct": 4.7
+      },
+      {
+        "hex": "#477D25",
+        "pct": 0.98
+      },
+      {
+        "hex": "#B4A70F",
+        "pct": 0.54
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Mauricio",
+    "capital": "Port Louis",
+    "cca2": "MU",
+    "cca3": "MUS",
+    "lat": -20.16194,
+    "lng": 57.49889,
+    "poblacion_pais": 1243741,
+    "area_km2": 2040,
+    "densidad": 609.68,
+    "utc_offset": 4.0,
+    "fronteras": [],
+    "num_fronteras": 0,
+    "idiomas": [
+      "English",
+      "French",
+      "Mauritian Creole"
+    ],
+    "bandera_emoji": "🇲🇺",
+    "bandera_colores": [
+      {
+        "hex": "#FFD500",
+        "pct": 25
+      },
+      {
+        "hex": "#00A551",
+        "pct": 25
+      },
+      {
+        "hex": "#EA2839",
+        "pct": 25
+      },
+      {
+        "hex": "#1A206D",
+        "pct": 25
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Malawi",
+    "capital": "Lilongüe",
+    "cca2": "MW",
+    "cca3": "MWI",
+    "lat": -13.96692,
+    "lng": 33.78725,
+    "poblacion_pais": 20734262,
+    "area_km2": 118484,
+    "densidad": 175.0,
+    "utc_offset": 2.0,
+    "fronteras": [
+      "MOZ",
+      "TZA",
+      "ZMB"
+    ],
+    "num_fronteras": 3,
+    "idiomas": [
+      "English",
+      "Chewa"
+    ],
+    "bandera_emoji": "🇲🇼",
+    "bandera_colores": [
+      {
+        "hex": "#CE1126",
+        "pct": 36.31
+      },
+      {
+        "hex": "#339E35",
+        "pct": 33
+      },
+      {
+        "hex": "#000000",
+        "pct": 25.81
+      },
+      {
+        "hex": "#550710",
+        "pct": 2.93
+      },
+      {
+        "hex": "#6D3C23",
+        "pct": 1
+      },
+      {
+        "hex": "#8F0C1A",
+        "pct": 0.95
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Malasia",
+    "capital": "Kuala Lumpur",
+    "cca2": "MY",
+    "cca3": "MYS",
+    "lat": 3.1412,
+    "lng": 101.68653,
+    "poblacion_pais": 34231700,
+    "area_km2": 330803,
+    "densidad": 103.48,
+    "utc_offset": 8.0,
+    "fronteras": [
+      "BRN",
+      "IDN",
+      "THA"
+    ],
+    "num_fronteras": 3,
+    "idiomas": [
+      "English",
+      "Malay"
+    ],
+    "bandera_emoji": "🇲🇾",
+    "bandera_colores": [
+      {
+        "hex": "#CC0001",
+        "pct": 34
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 32.5
+      },
+      {
+        "hex": "#010066",
+        "pct": 23.35
+      },
+      {
+        "hex": "#E26E6F",
+        "pct": 3
+      },
+      {
+        "hex": "#F1B7B7",
+        "pct": 2
+      },
+      {
+        "hex": "#D4A911",
+        "pct": 0.81
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Namibia",
+    "capital": "Windhoek",
+    "cca2": "NA",
+    "cca3": "NAM",
+    "lat": -22.55941,
+    "lng": 17.08323,
+    "poblacion_pais": 3022401,
+    "area_km2": 825615,
+    "densidad": 3.66,
+    "utc_offset": 2.0,
+    "fronteras": [
+      "AGO",
+      "BWA",
+      "ZAF",
+      "ZMB"
+    ],
+    "num_fronteras": 4,
+    "idiomas": [
+      "Afrikaans",
+      "German",
+      "English",
+      "Herero",
+      "Khoekhoe",
+      "Kwangali",
+      "Lozi",
+      "Ndonga",
+      "Tswana"
+    ],
+    "bandera_emoji": "🇳🇦",
+    "bandera_colores": [
+      {
+        "hex": "#009543",
+        "pct": 31.77
+      },
+      {
+        "hex": "#003580",
+        "pct": 27.84
+      },
+      {
+        "hex": "#D21034",
+        "pct": 27.2
+      },
+      {
+        "hex": "#FEFDFD",
+        "pct": 7.13
+      },
+      {
+        "hex": "#FECD01",
+        "pct": 2.14
+      },
+      {
+        "hex": "#E05D75",
+        "pct": 0.55
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Níger",
+    "capital": "Niamey",
+    "cca2": "NE",
+    "cca3": "NER",
+    "lat": 13.51366,
+    "lng": 2.1098,
+    "poblacion_pais": 26312034,
+    "area_km2": 1267000,
+    "densidad": 20.77,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "DZA",
+      "BEN",
+      "BFA",
+      "TCD",
+      "LBY",
+      "MLI",
+      "NGA"
+    ],
+    "num_fronteras": 7,
+    "idiomas": [
+      "French"
+    ],
+    "bandera_emoji": "🇳🇪",
+    "bandera_colores": [
+      {
+        "hex": "#E05206",
+        "pct": 38.21
+      },
+      {
+        "hex": "#0DB02B",
+        "pct": 33
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 26.51
+      },
+      {
+        "hex": "#F5C5AC",
+        "pct": 1.02
+      },
+      {
+        "hex": "#AFE5B9",
+        "pct": 1
+      },
+      {
+        "hex": "#EEA279",
+        "pct": 0.26
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Nigeria",
+    "capital": "Abuya",
+    "cca2": "NG",
+    "cca3": "NGA",
+    "lat": 9.05785,
+    "lng": 7.49508,
+    "poblacion_pais": 223800000,
+    "area_km2": 923768,
+    "densidad": 242.27,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "BEN",
+      "CMR",
+      "TCD",
+      "NER"
+    ],
+    "num_fronteras": 4,
+    "idiomas": [
+      "English"
+    ],
+    "bandera_emoji": "🇳🇬",
+    "bandera_colores": [
+      {
+        "hex": "#008751",
+        "pct": 66
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 33
+      },
+      {
+        "hex": "#5AB18E",
+        "pct": 1
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Nicaragua",
+    "capital": "Managua",
+    "cca2": "NI",
+    "cca3": "NIC",
+    "lat": 12.13282,
+    "lng": -86.2504,
+    "poblacion_pais": 6803886,
+    "area_km2": 130373,
+    "densidad": 52.19,
+    "utc_offset": -6.0,
+    "fronteras": [
+      "CRI",
+      "HND"
+    ],
+    "num_fronteras": 2,
+    "idiomas": [
+      "Spanish"
+    ],
+    "bandera_emoji": "🇳🇮",
+    "bandera_colores": [
+      {
+        "hex": "#0067C6",
+        "pct": 66
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 29.68
+      },
+      {
+        "hex": "#ABCDEC",
+        "pct": 2.29
+      },
+      {
+        "hex": "#98C826",
+        "pct": 0.22
+      },
+      {
+        "hex": "#D0DB25",
+        "pct": 0.1
+      },
+      {
+        "hex": "#CF2425",
+        "pct": 0.02
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Países Bajos",
+    "capital": "Amsterdam",
+    "cca2": "NL",
+    "cca3": "NLD",
+    "lat": 52.37403,
+    "lng": 4.88969,
+    "poblacion_pais": 18080943,
+    "area_km2": 41850,
+    "densidad": 432.04,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "BEL",
+      "DEU"
+    ],
+    "num_fronteras": 2,
+    "idiomas": [
+      "Dutch"
+    ],
+    "bandera_emoji": "🇳🇱",
+    "bandera_colores": [
+      {
+        "hex": "#AE1C28",
+        "pct": 33
+      },
+      {
+        "hex": "#21468B",
+        "pct": 33
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 32
+      },
+      {
+        "hex": "#E4B3B7",
+        "pct": 1
+      },
+      {
+        "hex": "#B6C2D9",
+        "pct": 1
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Noruega",
+    "capital": "Oslo",
+    "cca2": "NO",
+    "cca3": "NOR",
+    "lat": 59.91273,
+    "lng": 10.74609,
+    "poblacion_pais": 5606944,
+    "area_km2": 323802,
+    "densidad": 17.32,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "FIN",
+      "SWE",
+      "RUS"
+    ],
+    "num_fronteras": 3,
+    "idiomas": [
+      "Norwegian Nynorsk",
+      "Norwegian Bokmål",
+      "Sami"
+    ],
+    "bandera_emoji": "🇳🇴",
+    "bandera_colores": [
+      {
+        "hex": "#EF2B2D",
+        "pct": 60.06
+      },
+      {
+        "hex": "#002868",
+        "pct": 19.65
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 15.13
+      },
+      {
+        "hex": "#F68E8F",
+        "pct": 2.16
+      },
+      {
+        "hex": "#BBC6D7",
+        "pct": 1.81
+      },
+      {
+        "hex": "#637CA3",
+        "pct": 0.01
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Nepal",
+    "capital": "Katmandú",
+    "cca2": "NP",
+    "cca3": "NPL",
+    "lat": 27.70169,
+    "lng": 85.3206,
+    "poblacion_pais": 29911840,
+    "area_km2": 147181,
+    "densidad": 203.23,
+    "utc_offset": 5.75,
+    "fronteras": [
+      "CHN",
+      "IND"
+    ],
+    "num_fronteras": 2,
+    "idiomas": [
+      "Nepali"
+    ],
+    "bandera_emoji": "🇳🇵",
+    "bandera_colores": [
+      {
+        "hex": "#003A96",
+        "pct": 54.65
+      },
+      {
+        "hex": "#DC143C",
+        "pct": 35.93
+      },
+      {
+        "hex": "#FFFEFE",
+        "pct": 7.68
+      },
+      {
+        "hex": "#EA728A",
+        "pct": 0.42
+      },
+      {
+        "hex": "#F099AA",
+        "pct": 0.36
+      },
+      {
+        "hex": "#63286C",
+        "pct": 0.11
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Nauru",
+    "capital": "Yaren",
+    "cca2": "NR",
+    "cca3": "NRU",
+    "lat": -0.55085,
+    "lng": 166.9252,
+    "poblacion_pais": 11680,
+    "area_km2": 21,
+    "densidad": 556.19,
+    "utc_offset": 12.0,
+    "fronteras": [],
+    "num_fronteras": 0,
+    "idiomas": [
+      "English",
+      "Nauru"
+    ],
+    "bandera_emoji": "🇳🇷",
+    "bandera_colores": [
+      {
+        "hex": "#002B7F",
+        "pct": 87.47
+      },
+      {
+        "hex": "#FFC61E",
+        "pct": 8
+      },
+      {
+        "hex": "#334A6C",
+        "pct": 2.11
+      },
+      {
+        "hex": "#FEFEFE",
+        "pct": 1.87
+      },
+      {
+        "hex": "#738AB9",
+        "pct": 0.31
+      },
+      {
+        "hex": "#9AABCC",
+        "pct": 0.25
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Nueva Zelanda",
+    "capital": "Wellington",
+    "cca2": "NZ",
+    "cca3": "NZL",
+    "lat": -41.28664,
+    "lng": 174.77557,
+    "poblacion_pais": 5324700,
+    "area_km2": 270467,
+    "densidad": 19.69,
+    "utc_offset": 12.0,
+    "fronteras": [],
+    "num_fronteras": 0,
+    "idiomas": [
+      "English",
+      "Māori",
+      "New Zealand Sign Language"
+    ],
+    "bandera_emoji": "🇳🇿",
+    "bandera_colores": [
+      {
+        "hex": "#00247D",
+        "pct": 79.32
+      },
+      {
+        "hex": "#CC142B",
+        "pct": 9.25
+      },
+      {
+        "hex": "#FEFDFE",
+        "pct": 7.18
+      },
+      {
+        "hex": "#546CA8",
+        "pct": 1.48
+      },
+      {
+        "hex": "#DDD9E6",
+        "pct": 1.34
+      },
+      {
+        "hex": "#2E4B95",
+        "pct": 0.2
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Omán",
+    "capital": "Mascate",
+    "cca2": "OM",
+    "cca3": "OMN",
+    "lat": 23.58413,
+    "lng": 58.40778,
+    "poblacion_pais": 5306976,
+    "area_km2": 309500,
+    "densidad": 17.15,
+    "utc_offset": 4.0,
+    "fronteras": [
+      "SAU",
+      "ARE",
+      "YEM"
+    ],
+    "num_fronteras": 3,
+    "idiomas": [
+      "Arabic"
+    ],
+    "bandera_emoji": "🇴🇲",
+    "bandera_colores": [
+      {
+        "hex": "#DB161B",
+        "pct": 47.35
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 25.82
+      },
+      {
+        "hex": "#008000",
+        "pct": 24.75
+      },
+      {
+        "hex": "#E76669",
+        "pct": 0.91
+      },
+      {
+        "hex": "#923A12",
+        "pct": 0.75
+      },
+      {
+        "hex": "#F3B0B2",
+        "pct": 0.43
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Pakistán",
+    "capital": "Islamabad",
+    "cca2": "PK",
+    "cca3": "PAK",
+    "lat": 33.72148,
+    "lng": 73.04329,
+    "poblacion_pais": 241499431,
+    "area_km2": 881912,
+    "densidad": 273.84,
+    "utc_offset": 5.0,
+    "fronteras": [
+      "AFG",
+      "CHN",
+      "IND",
+      "IRN"
+    ],
+    "num_fronteras": 4,
+    "idiomas": [
+      "English",
+      "Urdu"
+    ],
+    "bandera_emoji": "🇵🇰",
+    "bandera_colores": [
+      {
+        "hex": "#01411C",
+        "pct": 67.65
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 30.16
+      },
+      {
+        "hex": "#82A18F",
+        "pct": 1.16
+      },
+      {
+        "hex": "#DDE6E1",
+        "pct": 0.46
+      },
+      {
+        "hex": "#47755A",
+        "pct": 0.33
+      },
+      {
+        "hex": "#235A3A",
+        "pct": 0.24
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Panamá",
+    "capital": "Ciudad de Panamá",
+    "cca2": "PA",
+    "cca3": "PAN",
+    "lat": 8.9936,
+    "lng": -79.51973,
+    "poblacion_pais": 4064780,
+    "area_km2": 75417,
+    "densidad": 53.9,
+    "utc_offset": -5.0,
+    "fronteras": [
+      "COL",
+      "CRI"
+    ],
+    "num_fronteras": 2,
+    "idiomas": [
+      "Spanish"
+    ],
+    "bandera_emoji": "🇵🇦",
+    "bandera_colores": [
+      {
+        "hex": "#FFFFFF",
+        "pct": 47.39
+      },
+      {
+        "hex": "#005293",
+        "pct": 26.07
+      },
+      {
+        "hex": "#D21034",
+        "pct": 26.06
+      },
+      {
+        "hex": "#EA90A1",
+        "pct": 0.16
+      },
+      {
+        "hex": "#5088B5",
+        "pct": 0.09
+      },
+      {
+        "hex": "#DF536D",
+        "pct": 0.07
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Perú",
+    "capital": "Lima",
+    "cca2": "PE",
+    "cca3": "PER",
+    "lat": -12.04318,
+    "lng": -77.02824,
+    "poblacion_pais": 34350244,
+    "area_km2": 1285216,
+    "densidad": 26.73,
+    "utc_offset": -5.0,
+    "fronteras": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "COL",
+      "ECU"
+    ],
+    "num_fronteras": 5,
+    "idiomas": [
+      "Aymara",
+      "Quechua",
+      "Spanish"
+    ],
+    "bandera_emoji": "🇵🇪",
+    "bandera_colores": [
+      {
+        "hex": "#D91023",
+        "pct": 66.67
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 33.33
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Filipinas",
+    "capital": "Manila",
+    "cca2": "PH",
+    "cca3": "PHL",
+    "lat": 14.6042,
+    "lng": 120.9822,
+    "poblacion_pais": 114123600,
+    "area_km2": 342353,
+    "densidad": 333.35,
+    "utc_offset": 8.0,
+    "fronteras": [],
+    "num_fronteras": 0,
+    "idiomas": [
+      "English",
+      "Filipino"
+    ],
+    "bandera_emoji": "🇵🇭",
+    "bandera_colores": [
+      {
+        "hex": "#CE1126",
+        "pct": 39.07
+      },
+      {
+        "hex": "#0038A8",
+        "pct": 39.01
+      },
+      {
+        "hex": "#FFFFFE",
+        "pct": 16.54
+      },
+      {
+        "hex": "#FCD116",
+        "pct": 2.68
+      },
+      {
+        "hex": "#FEEFAD",
+        "pct": 1.21
+      },
+      {
+        "hex": "#698ACC",
+        "pct": 0.11
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Palau",
+    "capital": "Ngerulmud",
+    "cca2": "PW",
+    "cca3": "PLW",
+    "lat": 7.50077,
+    "lng": 134.6238,
+    "poblacion_pais": 16733,
+    "area_km2": 459,
+    "densidad": 36.46,
+    "utc_offset": 9.0,
+    "fronteras": [],
+    "num_fronteras": 0,
+    "idiomas": [
+      "English",
+      "Palauan"
+    ],
+    "bandera_emoji": "🇵🇼",
+    "bandera_colores": [
+      {
+        "hex": "#4AADD6",
+        "pct": 82.04
+      },
+      {
+        "hex": "#FFDE00",
+        "pct": 17.13
+      },
+      {
+        "hex": "#D4D233",
+        "pct": 0.54
+      },
+      {
+        "hex": "#74B9A5",
+        "pct": 0.15
+      },
+      {
+        "hex": "#9AC377",
+        "pct": 0.13
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Papúa Nueva Guinea",
+    "capital": "Port Moresby",
+    "cca2": "PG",
+    "cca3": "PNG",
+    "lat": -9.47723,
+    "lng": 147.15089,
+    "poblacion_pais": 11781559,
+    "area_km2": 462840,
+    "densidad": 25.45,
+    "utc_offset": 11.0,
+    "fronteras": [
+      "IDN"
+    ],
+    "num_fronteras": 1,
+    "idiomas": [
+      "English",
+      "Hiri Motu",
+      "Tok Pisin"
+    ],
+    "bandera_emoji": "🇵🇬",
+    "bandera_colores": [
+      {
+        "hex": "#000000",
+        "pct": 47.39
+      },
+      {
+        "hex": "#CE1126",
+        "pct": 43.76
+      },
+      {
+        "hex": "#FCD016",
+        "pct": 4.71
+      },
+      {
+        "hex": "#EC8F1B",
+        "pct": 0.98
+      },
+      {
+        "hex": "#DC4D21",
+        "pct": 0.41
+      },
+      {
+        "hex": "#6E0914",
+        "pct": 0.33
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Polonia",
+    "capital": "Varsovia",
+    "cca2": "PL",
+    "cca3": "POL",
+    "lat": 52.22977,
+    "lng": 21.01178,
+    "poblacion_pais": 37401000,
+    "area_km2": 312679,
+    "densidad": 119.61,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "BLR",
+      "CZE",
+      "DEU",
+      "LTU",
+      "RUS",
+      "SVK",
+      "UKR"
+    ],
+    "num_fronteras": 7,
+    "idiomas": [
+      "Polish"
+    ],
+    "bandera_emoji": "🇵🇱",
+    "bandera_colores": [
+      {
+        "hex": "#FFFFFF",
+        "pct": 50
+      },
+      {
+        "hex": "#DC143C",
+        "pct": 50
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Corea del Norte",
+    "capital": "Pionyang",
+    "cca2": "KP",
+    "cca3": "PRK",
+    "lat": 39.03385,
+    "lng": 125.75432,
+    "poblacion_pais": 25950000,
+    "area_km2": 120538,
+    "densidad": 215.28,
+    "utc_offset": 9.0,
+    "fronteras": [
+      "CHN",
+      "KOR",
+      "RUS"
+    ],
+    "num_fronteras": 3,
+    "idiomas": [
+      "Korean"
+    ],
+    "bandera_emoji": "🇰🇵",
+    "bandera_colores": [
+      {
+        "hex": "#ED1C27",
+        "pct": 54.24
+      },
+      {
+        "hex": "#024FA2",
+        "pct": 32
+      },
+      {
+        "hex": "#FFFEFE",
+        "pct": 8.84
+      },
+      {
+        "hex": "#F5868C",
+        "pct": 2.34
+      },
+      {
+        "hex": "#568AC1",
+        "pct": 2
+      },
+      {
+        "hex": "#F14C55",
+        "pct": 0.35
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Portugal",
+    "capital": "Lisboa",
+    "cca2": "PT",
+    "cca3": "PRT",
+    "lat": 38.72509,
+    "lng": -9.1498,
+    "poblacion_pais": 10749635,
+    "area_km2": 92090,
+    "densidad": 116.73,
+    "utc_offset": -1.0,
+    "fronteras": [
+      "ESP"
+    ],
+    "num_fronteras": 1,
+    "idiomas": [
+      "Portuguese"
+    ],
+    "bandera_emoji": "🇵🇹",
+    "bandera_colores": [
+      {
+        "hex": "#FF0000",
+        "pct": 55.75
+      },
+      {
+        "hex": "#006600",
+        "pct": 34.19
+      },
+      {
+        "hex": "#959E01",
+        "pct": 2.6
+      },
+      {
+        "hex": "#FDFDFE",
+        "pct": 1.47
+      },
+      {
+        "hex": "#2F59AC",
+        "pct": 0.43
+      },
+      {
+        "hex": "#BA5F41",
+        "pct": 0.05
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Paraguay",
+    "capital": "Asunción",
+    "cca2": "PY",
+    "cca3": "PRY",
+    "lat": -25.28646,
+    "lng": -57.647,
+    "poblacion_pais": 6109644,
+    "area_km2": 406752,
+    "densidad": 15.02,
+    "utc_offset": -4.0,
+    "fronteras": [
+      "ARG",
+      "BOL",
+      "BRA"
+    ],
+    "num_fronteras": 3,
+    "idiomas": [
+      "Guaraní",
+      "Spanish"
+    ],
+    "bandera_emoji": "🇵🇾",
+    "bandera_colores": [
+      {
+        "hex": "#0038A8",
+        "pct": 33
+      },
+      {
+        "hex": "#D52B1E",
+        "pct": 33
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 29.89
+      },
+      {
+        "hex": "#ABBDE2",
+        "pct": 1.82
+      },
+      {
+        "hex": "#F1B8B4",
+        "pct": 1.03
+      },
+      {
+        "hex": "#309556",
+        "pct": 0.17
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Catar",
+    "capital": "Doha",
+    "cca2": "QA",
+    "cca3": "QAT",
+    "lat": 25.28545,
+    "lng": 51.53096,
+    "poblacion_pais": 3173024,
+    "area_km2": 11586,
+    "densidad": 273.87,
+    "utc_offset": 3.0,
+    "fronteras": [
+      "SAU"
+    ],
+    "num_fronteras": 1,
+    "idiomas": [
+      "Arabic"
+    ],
+    "bandera_emoji": "🇶🇦",
+    "bandera_colores": [
+      {
+        "hex": "#8D1B3D",
+        "pct": 66.21
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 32.75
+      },
+      {
+        "hex": "#B2657D",
+        "pct": 0.56
+      },
+      {
+        "hex": "#E5CAD2",
+        "pct": 0.48
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Rumania",
+    "capital": "Bucarest",
+    "cca2": "RO",
+    "cca3": "ROU",
+    "lat": 44.43225,
+    "lng": 26.10626,
+    "poblacion_pais": 19036031,
+    "area_km2": 238391,
+    "densidad": 79.85,
+    "utc_offset": 2.0,
+    "fronteras": [
+      "BGR",
+      "HUN",
+      "MDA",
+      "SRB",
+      "UKR"
+    ],
+    "num_fronteras": 5,
+    "idiomas": [
+      "Romanian"
+    ],
+    "bandera_emoji": "🇷🇴",
+    "bandera_colores": [
+      {
+        "hex": "#002B7F",
+        "pct": 33.33
+      },
+      {
+        "hex": "#CE1126",
+        "pct": 33.33
+      },
+      {
+        "hex": "#FCD116",
+        "pct": 33.33
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Rusia",
+    "capital": "Moscú",
+    "cca2": "RU",
+    "cca3": "RUS",
+    "lat": 55.75204,
+    "lng": 37.61781,
+    "poblacion_pais": 146028325,
+    "area_km2": 17098242,
+    "densidad": 8.54,
+    "utc_offset": 3.0,
+    "fronteras": [
+      "AZE",
+      "BLR",
+      "CHN",
+      "EST",
+      "FIN",
+      "GEO",
+      "KAZ",
+      "PRK",
+      "LVA",
+      "LTU",
+      "MNG",
+      "NOR",
+      "POL",
+      "UKR"
+    ],
+    "num_fronteras": 14,
+    "idiomas": [
+      "Russian"
+    ],
+    "bandera_emoji": "🇷🇺",
+    "bandera_colores": [
+      {
+        "hex": "#FFFFFF",
+        "pct": 33
+      },
+      {
+        "hex": "#D52B1E",
+        "pct": 33
+      },
+      {
+        "hex": "#0039A6",
+        "pct": 32
+      },
+      {
+        "hex": "#463479",
+        "pct": 1
+      },
+      {
+        "hex": "#547AC3",
+        "pct": 1
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Ruanda",
+    "capital": "Kigali",
+    "cca2": "RW",
+    "cca3": "RWA",
+    "lat": -1.94995,
+    "lng": 30.05885,
+    "poblacion_pais": 14104969,
+    "area_km2": 26338,
+    "densidad": 535.54,
+    "utc_offset": 2.0,
+    "fronteras": [
+      "BDI",
+      "COD",
+      "TZA",
+      "UGA"
+    ],
+    "num_fronteras": 4,
+    "idiomas": [
+      "English",
+      "French",
+      "Kinyarwanda"
+    ],
+    "bandera_emoji": "🇷🇼",
+    "bandera_colores": [
+      {
+        "hex": "#00A1DE",
+        "pct": 47.41
+      },
+      {
+        "hex": "#FAD201",
+        "pct": 25.51
+      },
+      {
+        "hex": "#20603D",
+        "pct": 25
+      },
+      {
+        "hex": "#81B162",
+        "pct": 1.21
+      },
+      {
+        "hex": "#40A9A0",
+        "pct": 0.73
+      },
+      {
+        "hex": "#C2BA22",
+        "pct": 0.15
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Arabia Saudí",
+    "capital": "Riad",
+    "cca2": "SA",
+    "cca3": "SAU",
+    "lat": 24.68773,
+    "lng": 46.72185,
+    "poblacion_pais": 35300280,
+    "area_km2": 2149690,
+    "densidad": 16.42,
+    "utc_offset": 3.0,
+    "fronteras": [
+      "IRQ",
+      "JOR",
+      "KWT",
+      "OMN",
+      "QAT",
+      "ARE",
+      "YEM"
+    ],
+    "num_fronteras": 7,
+    "idiomas": [
+      "Arabic"
+    ],
+    "bandera_emoji": "🇸🇦",
+    "bandera_colores": [
+      {
+        "hex": "#006C35",
+        "pct": 90.27
+      },
+      {
+        "hex": "#FBFDFC",
+        "pct": 5.12
+      },
+      {
+        "hex": "#8BBCA3",
+        "pct": 1.73
+      },
+      {
+        "hex": "#4C9872",
+        "pct": 1.73
+      },
+      {
+        "hex": "#B7D5C6",
+        "pct": 1.15
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Sudán",
+    "capital": "Jartum",
+    "cca2": "SD",
+    "cca3": "SDN",
+    "lat": 15.55177,
+    "lng": 32.53241,
+    "poblacion_pais": 51662000,
+    "area_km2": 1886068,
+    "densidad": 27.39,
+    "utc_offset": 2.0,
+    "fronteras": [
+      "CAF",
+      "TCD",
+      "EGY",
+      "ERI",
+      "ETH",
+      "LBY",
+      "SSD"
+    ],
+    "num_fronteras": 7,
+    "idiomas": [
+      "Arabic",
+      "English"
+    ],
+    "bandera_emoji": "🇸🇩",
+    "bandera_colores": [
+      {
+        "hex": "#000000",
+        "pct": 29.42
+      },
+      {
+        "hex": "#D21034",
+        "pct": 29.33
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 22.93
+      },
+      {
+        "hex": "#007229",
+        "pct": 16.46
+      },
+      {
+        "hex": "#2A894C",
+        "pct": 0.07
+      },
+      {
+        "hex": "#7E382F",
+        "pct": 0.04
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Senegal",
+    "capital": "Dakar",
+    "cca2": "SN",
+    "cca3": "SEN",
+    "lat": 14.6937,
+    "lng": -17.44406,
+    "poblacion_pais": 18593258,
+    "area_km2": 196722,
+    "densidad": 94.52,
+    "utc_offset": 0.0,
+    "fronteras": [
+      "GMB",
+      "GIN",
+      "GNB",
+      "MLI",
+      "MRT"
+    ],
+    "num_fronteras": 5,
+    "idiomas": [
+      "French"
+    ],
+    "bandera_emoji": "🇸🇳",
+    "bandera_colores": [
+      {
+        "hex": "#00853F",
+        "pct": 35.23
+      },
+      {
+        "hex": "#E31B23",
+        "pct": 33.33
+      },
+      {
+        "hex": "#FDEF42",
+        "pct": 31.15
+      },
+      {
+        "hex": "#71B540",
+        "pct": 0.22
+      },
+      {
+        "hex": "#ABCD41",
+        "pct": 0.07
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Singapur",
+    "capital": "Singapur",
+    "cca2": "SG",
+    "cca3": "SGP",
+    "lat": 1.28967,
+    "lng": 103.85007,
+    "poblacion_pais": 6036900,
+    "area_km2": 710,
+    "densidad": 8502.68,
+    "utc_offset": 8.0,
+    "fronteras": [],
+    "num_fronteras": 0,
+    "idiomas": [
+      "English",
+      "Malay",
+      "Tamil",
+      "Chinese"
+    ],
+    "bandera_emoji": "🇸🇬",
+    "bandera_colores": [
+      {
+        "hex": "#FFFFFF",
+        "pct": 52.18
+      },
+      {
+        "hex": "#ED2939",
+        "pct": 46.69
+      },
+      {
+        "hex": "#F58C94",
+        "pct": 0.57
+      },
+      {
+        "hex": "#FBCCD0",
+        "pct": 0.55
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Islas Salomón",
+    "capital": "Honiara",
+    "cca2": "SB",
+    "cca3": "SLB",
+    "lat": -9.43333,
+    "lng": 159.95,
+    "poblacion_pais": 750325,
+    "area_km2": 28896,
+    "densidad": 25.97,
+    "utc_offset": 11.0,
+    "fronteras": [],
+    "num_fronteras": 0,
+    "idiomas": [
+      "English"
+    ],
+    "bandera_emoji": "🇸🇧",
+    "bandera_colores": [
+      {
+        "hex": "#215B33",
+        "pct": 44.65
+      },
+      {
+        "hex": "#0051BA",
+        "pct": 40.99
+      },
+      {
+        "hex": "#FCD116",
+        "pct": 8.8
+      },
+      {
+        "hex": "#FDFEFE",
+        "pct": 2.51
+      },
+      {
+        "hex": "#C3B21D",
+        "pct": 0.95
+      },
+      {
+        "hex": "#2F71C7",
+        "pct": 0.72
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Sierra Leone",
+    "capital": "Freetown",
+    "cca2": "SL",
+    "cca3": "SLE",
+    "lat": 8.48714,
+    "lng": -13.2356,
+    "poblacion_pais": 9077691,
+    "area_km2": 71740,
+    "densidad": 126.54,
+    "utc_offset": 0.0,
+    "fronteras": [
+      "GIN",
+      "LBR"
+    ],
+    "num_fronteras": 2,
+    "idiomas": [
+      "English"
+    ],
+    "bandera_emoji": "🇸🇱",
+    "bandera_colores": [
+      {
+        "hex": "#0072C6",
+        "pct": 33
+      },
+      {
+        "hex": "#1EB53A",
+        "pct": 33
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 32
+      },
+      {
+        "hex": "#B4E6BD",
+        "pct": 1
+      },
+      {
+        "hex": "#ABD1EC",
+        "pct": 1
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "El Salvador",
+    "capital": "San Salvador",
+    "cca2": "SV",
+    "cca3": "SLV",
+    "lat": 13.68935,
+    "lng": -89.18718,
+    "poblacion_pais": 6029976,
+    "area_km2": 21041,
+    "densidad": 286.58,
+    "utc_offset": -6.0,
+    "fronteras": [
+      "GTM",
+      "HND"
+    ],
+    "num_fronteras": 2,
+    "idiomas": [
+      "Spanish"
+    ],
+    "bandera_emoji": "🇸🇻",
+    "bandera_colores": [
+      {
+        "hex": "#0F47AF",
+        "pct": 66.21
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 29.85
+      },
+      {
+        "hex": "#B0C2E5",
+        "pct": 2.21
+      },
+      {
+        "hex": "#C1B11D",
+        "pct": 0.12
+      },
+      {
+        "hex": "#258795",
+        "pct": 0.08
+      },
+      {
+        "hex": "#E27C77",
+        "pct": 0.04
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "San Marino",
+    "capital": "City of San Marino",
+    "cca2": "SM",
+    "cca3": "SMR",
+    "lat": 43.93667,
+    "lng": 12.44639,
+    "poblacion_pais": 34132,
+    "area_km2": 61,
+    "densidad": 559.54,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "ITA"
+    ],
+    "num_fronteras": 1,
+    "idiomas": [
+      "Italian"
+    ],
+    "bandera_emoji": "🇸🇲",
+    "bandera_colores": [
+      {
+        "hex": "#FFFFFF",
+        "pct": 43.67
+      },
+      {
+        "hex": "#5EB6E4",
+        "pct": 42.98
+      },
+      {
+        "hex": "#86681D",
+        "pct": 2.69
+      },
+      {
+        "hex": "#364B36",
+        "pct": 2.56
+      },
+      {
+        "hex": "#D7A42E",
+        "pct": 1.16
+      },
+      {
+        "hex": "#9CCBE7",
+        "pct": 1.04
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Somalia",
+    "capital": "Mogadiscio",
+    "cca2": "SO",
+    "cca3": "SOM",
+    "lat": 2.03711,
+    "lng": 45.34375,
+    "poblacion_pais": 19655000,
+    "area_km2": 637657,
+    "densidad": 30.82,
+    "utc_offset": 3.0,
+    "fronteras": [
+      "DJI",
+      "ETH",
+      "KEN"
+    ],
+    "num_fronteras": 3,
+    "idiomas": [
+      "Arabic",
+      "Somali"
+    ],
+    "bandera_emoji": "🇸🇴",
+    "bandera_colores": [
+      {
+        "hex": "#4189DD",
+        "pct": 95.29
+      },
+      {
+        "hex": "#FEFFFF",
+        "pct": 4.1
+      },
+      {
+        "hex": "#9AC0ED",
+        "pct": 0.61
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Serbia",
+    "capital": "Belgrado",
+    "cca2": "RS",
+    "cca3": "SRB",
+    "lat": 44.80401,
+    "lng": 20.46513,
+    "poblacion_pais": 6567783,
+    "area_km2": 88361,
+    "densidad": 74.33,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "BIH",
+      "BGR",
+      "HRV",
+      "HUN",
+      "UNK",
+      "MKD",
+      "MNE",
+      "ROU"
+    ],
+    "num_fronteras": 8,
+    "idiomas": [
+      "Serbian"
+    ],
+    "bandera_emoji": "🇷🇸",
+    "bandera_colores": [
+      {
+        "hex": "#C6363C",
+        "pct": 32.76
+      },
+      {
+        "hex": "#0C4076",
+        "pct": 23.68
+      },
+      {
+        "hex": "#CF9E2E",
+        "pct": 2.04
+      },
+      {
+        "hex": "#B06232",
+        "pct": 1.11
+      },
+      {
+        "hex": "#CFA6A5",
+        "pct": 1.09
+      },
+      {
+        "hex": "#5C7FA3",
+        "pct": 1.01
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Sudán del Sur",
+    "capital": "Juba",
+    "cca2": "SS",
+    "cca3": "SSD",
+    "lat": 4.85165,
+    "lng": 31.58247,
+    "poblacion_pais": 15786898,
+    "area_km2": 619745,
+    "densidad": 25.47,
+    "utc_offset": 3.0,
+    "fronteras": [
+      "CAF",
+      "COD",
+      "ETH",
+      "KEN",
+      "SDN",
+      "UGA"
+    ],
+    "num_fronteras": 6,
+    "idiomas": [
+      "English"
+    ],
+    "bandera_emoji": "🇸🇸",
+    "bandera_colores": [
+      {
+        "hex": "#078930",
+        "pct": 26.16
+      },
+      {
+        "hex": "#000000",
+        "pct": 26.06
+      },
+      {
+        "hex": "#0F47AF",
+        "pct": 19.89
+      },
+      {
+        "hex": "#DA121A",
+        "pct": 18.88
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 7.15
+      },
+      {
+        "hex": "#FBDC0A",
+        "pct": 1.36
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Santo Tomé y Príncipe",
+    "capital": "São Tomé",
+    "cca2": "ST",
+    "cca3": "STP",
+    "lat": 0.33756,
+    "lng": 6.7299,
+    "poblacion_pais": 209607,
+    "area_km2": 964,
+    "densidad": 217.43,
+    "utc_offset": 0.0,
+    "fronteras": [],
+    "num_fronteras": 0,
+    "idiomas": [
+      "Portuguese"
+    ],
+    "bandera_emoji": "🇸🇹",
+    "bandera_colores": [
+      {
+        "hex": "#12AD2B",
+        "pct": 51.94
+      },
+      {
+        "hex": "#FFCE00",
+        "pct": 30.83
+      },
+      {
+        "hex": "#D21034",
+        "pct": 12.25
+      },
+      {
+        "hex": "#78BB18",
+        "pct": 1.71
+      },
+      {
+        "hex": "#725E2F",
+        "pct": 0.28
+      },
+      {
+        "hex": "#E86F1A",
+        "pct": 0.21
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Surinam",
+    "capital": "Paramaribo",
+    "cca2": "SR",
+    "cca3": "SUR",
+    "lat": 5.86638,
+    "lng": -55.16682,
+    "poblacion_pais": 616500,
+    "area_km2": 163820,
+    "densidad": 3.76,
+    "utc_offset": -3.0,
+    "fronteras": [
+      "BRA",
+      "GUF",
+      "GUY"
+    ],
+    "num_fronteras": 3,
+    "idiomas": [
+      "Dutch"
+    ],
+    "bandera_emoji": "🇸🇷",
+    "bandera_colores": [
+      {
+        "hex": "#377E3F",
+        "pct": 40
+      },
+      {
+        "hex": "#B40A2D",
+        "pct": 36.57
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 20
+      },
+      {
+        "hex": "#ECC81D",
+        "pct": 2.87
+      },
+      {
+        "hex": "#C33B29",
+        "pct": 0.44
+      },
+      {
+        "hex": "#D16E25",
+        "pct": 0.12
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Eslovaquia",
+    "capital": "Bratislava",
+    "cca2": "SK",
+    "cca3": "SVK",
+    "lat": 48.14816,
+    "lng": 17.10674,
+    "poblacion_pais": 5413813,
+    "area_km2": 49037,
+    "densidad": 110.4,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "AUT",
+      "CZE",
+      "HUN",
+      "POL",
+      "UKR"
+    ],
+    "num_fronteras": 5,
+    "idiomas": [
+      "Slovak"
+    ],
+    "bandera_emoji": "🇸🇰",
+    "bandera_colores": [
+      {
+        "hex": "#EE1C25",
+        "pct": 38.12
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 32.98
+      },
+      {
+        "hex": "#0B4EA2",
+        "pct": 25.46
+      },
+      {
+        "hex": "#5C89C1",
+        "pct": 0.89
+      },
+      {
+        "hex": "#F24C53",
+        "pct": 0.49
+      },
+      {
+        "hex": "#9B2E53",
+        "pct": 0.03
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Eslovenia",
+    "capital": "Ljubljana",
+    "cca2": "SI",
+    "cca3": "SVN",
+    "lat": 46.05108,
+    "lng": 14.50513,
+    "poblacion_pais": 2130638,
+    "area_km2": 20273,
+    "densidad": 105.1,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "AUT",
+      "HRV",
+      "ITA",
+      "HUN"
+    ],
+    "num_fronteras": 4,
+    "idiomas": [
+      "Slovene"
+    ],
+    "bandera_emoji": "🇸🇮",
+    "bandera_colores": [
+      {
+        "hex": "#ED1C24",
+        "pct": 33.19
+      },
+      {
+        "hex": "#005DA4",
+        "pct": 32.27
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 31.72
+      },
+      {
+        "hex": "#5593C2",
+        "pct": 1.23
+      },
+      {
+        "hex": "#4E477A",
+        "pct": 1.12
+      },
+      {
+        "hex": "#B7B92E",
+        "pct": 0.02
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Suecia",
+    "capital": "Stockholm",
+    "cca2": "SE",
+    "cca3": "SWE",
+    "lat": 59.32938,
+    "lng": 18.06871,
+    "poblacion_pais": 10596652,
+    "area_km2": 450295,
+    "densidad": 23.53,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "FIN",
+      "NOR"
+    ],
+    "num_fronteras": 2,
+    "idiomas": [
+      "Swedish"
+    ],
+    "bandera_emoji": "🇸🇪",
+    "bandera_colores": [
+      {
+        "hex": "#006AA7",
+        "pct": 70
+      },
+      {
+        "hex": "#FECC00",
+        "pct": 30
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Esuatini",
+    "capital": "Lobamba",
+    "cca2": "SZ",
+    "cca3": "SWZ",
+    "lat": -26.46667,
+    "lng": 31.2,
+    "poblacion_pais": 1235549,
+    "area_km2": 17364,
+    "densidad": 71.16,
+    "utc_offset": 2.0,
+    "fronteras": [
+      "MOZ",
+      "ZAF"
+    ],
+    "num_fronteras": 2,
+    "idiomas": [
+      "English",
+      "Swazi"
+    ],
+    "bandera_emoji": "🇸🇿",
+    "bandera_colores": [
+      {
+        "hex": "#3E5EB9",
+        "pct": 37.53
+      },
+      {
+        "hex": "#B10C0C",
+        "pct": 32.4
+      },
+      {
+        "hex": "#FED800",
+        "pct": 12.67
+      },
+      {
+        "hex": "#FEFEFE",
+        "pct": 5.25
+      },
+      {
+        "hex": "#020202",
+        "pct": 5.11
+      },
+      {
+        "hex": "#5E5C61",
+        "pct": 1.08
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Seychelles",
+    "capital": "Victoria",
+    "cca2": "SC",
+    "cca3": "SYC",
+    "lat": -4.62001,
+    "lng": 55.45501,
+    "poblacion_pais": 122729,
+    "area_km2": 452,
+    "densidad": 271.52,
+    "utc_offset": 4.0,
+    "fronteras": [],
+    "num_fronteras": 0,
+    "idiomas": [
+      "Seychellois Creole",
+      "English",
+      "French"
+    ],
+    "bandera_emoji": "🇸🇨",
+    "bandera_colores": [
+      {
+        "hex": "#D62828",
+        "pct": 32.68
+      },
+      {
+        "hex": "#003F87",
+        "pct": 16.5
+      },
+      {
+        "hex": "#007A3D",
+        "pct": 16.34
+      },
+      {
+        "hex": "#FCD856",
+        "pct": 16.34
+      },
+      {
+        "hex": "#FFFEFE",
+        "pct": 16.04
+      },
+      {
+        "hex": "#3B996A",
+        "pct": 0.33
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Siria",
+    "capital": "Damasco",
+    "cca2": "SY",
+    "cca3": "SYR",
+    "lat": 33.5102,
+    "lng": 36.29128,
+    "poblacion_pais": 25620000,
+    "area_km2": 185180,
+    "densidad": 138.35,
+    "utc_offset": 2.0,
+    "fronteras": [
+      "IRQ",
+      "ISR",
+      "JOR",
+      "LBN",
+      "TUR"
+    ],
+    "num_fronteras": 5,
+    "idiomas": [
+      "Arabic"
+    ],
+    "bandera_emoji": "🇸🇾",
+    "bandera_colores": [
+      {
+        "hex": "#000000",
+        "pct": 33
+      },
+      {
+        "hex": "#CE1126",
+        "pct": 33
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 29.73
+      },
+      {
+        "hex": "#EFB0B7",
+        "pct": 1
+      },
+      {
+        "hex": "#309361",
+        "pct": 0.23
+      },
+      {
+        "hex": "#70B492",
+        "pct": 0.11
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Chad",
+    "capital": "Yamena",
+    "cca2": "TD",
+    "cca3": "TCD",
+    "lat": 12.10672,
+    "lng": 15.0444,
+    "poblacion_pais": 19340757,
+    "area_km2": 1284000,
+    "densidad": 15.06,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "CMR",
+      "CAF",
+      "LBY",
+      "NER",
+      "NGA",
+      "SDN"
+    ],
+    "num_fronteras": 6,
+    "idiomas": [
+      "Arabic",
+      "French"
+    ],
+    "bandera_emoji": "🇹🇩",
+    "bandera_colores": [
+      {
+        "hex": "#FECB00",
+        "pct": 33.33
+      },
+      {
+        "hex": "#002664",
+        "pct": 33.33
+      },
+      {
+        "hex": "#C60C30",
+        "pct": 33.33
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Togo",
+    "capital": "Lomé",
+    "cca2": "TG",
+    "cca3": "TGO",
+    "lat": 6.12874,
+    "lng": 1.22154,
+    "poblacion_pais": 8095498,
+    "area_km2": 56785,
+    "densidad": 142.56,
+    "utc_offset": 0.0,
+    "fronteras": [
+      "BEN",
+      "BFA",
+      "GHA"
+    ],
+    "num_fronteras": 3,
+    "idiomas": [
+      "French"
+    ],
+    "bandera_emoji": "🇹🇬",
+    "bandera_colores": [
+      {
+        "hex": "#006A4E",
+        "pct": 45.17
+      },
+      {
+        "hex": "#FFCE00",
+        "pct": 32.59
+      },
+      {
+        "hex": "#D21034",
+        "pct": 19.6
+      },
+      {
+        "hex": "#FFFDFD",
+        "pct": 2.38
+      },
+      {
+        "hex": "#F2BAC4",
+        "pct": 0.15
+      },
+      {
+        "hex": "#E2647B",
+        "pct": 0.1
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Tailandia",
+    "capital": "Bangkok",
+    "cca2": "TH",
+    "cca3": "THA",
+    "lat": 13.75398,
+    "lng": 100.50144,
+    "poblacion_pais": 65859640,
+    "area_km2": 513120,
+    "densidad": 128.35,
+    "utc_offset": 7.0,
+    "fronteras": [
+      "MMR",
+      "KHM",
+      "LAO",
+      "MYS"
+    ],
+    "num_fronteras": 4,
+    "idiomas": [
+      "Thai"
+    ],
+    "bandera_emoji": "🇹🇭",
+    "bandera_colores": [
+      {
+        "hex": "#FFFFFF",
+        "pct": 32
+      },
+      {
+        "hex": "#241D4F",
+        "pct": 32
+      },
+      {
+        "hex": "#ED1C24",
+        "pct": 32
+      },
+      {
+        "hex": "#6D688A",
+        "pct": 2
+      },
+      {
+        "hex": "#F3686D",
+        "pct": 2
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Tayikistán",
+    "capital": "Dushanbe",
+    "cca2": "TJ",
+    "cca3": "TJK",
+    "lat": 38.53575,
+    "lng": 68.77905,
+    "poblacion_pais": 10499000,
+    "area_km2": 143100,
+    "densidad": 73.37,
+    "utc_offset": 5.0,
+    "fronteras": [
+      "AFG",
+      "CHN",
+      "KGZ",
+      "UZB"
+    ],
+    "num_fronteras": 4,
+    "idiomas": [
+      "Russian",
+      "Tajik"
+    ],
+    "bandera_emoji": "🇹🇯",
+    "bandera_colores": [
+      {
+        "hex": "#FFFFFF",
+        "pct": 40
+      },
+      {
+        "hex": "#006600",
+        "pct": 28
+      },
+      {
+        "hex": "#CC0000",
+        "pct": 28
+      },
+      {
+        "hex": "#F8C405",
+        "pct": 1.12
+      },
+      {
+        "hex": "#6EA86E",
+        "pct": 1
+      },
+      {
+        "hex": "#E26D6D",
+        "pct": 1
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Turkmenistán",
+    "capital": "Ashgabat",
+    "cca2": "TM",
+    "cca3": "TKM",
+    "lat": 37.95,
+    "lng": 58.38333,
+    "poblacion_pais": 7057841,
+    "area_km2": 488100,
+    "densidad": 14.46,
+    "utc_offset": 5.0,
+    "fronteras": [
+      "AFG",
+      "IRN",
+      "KAZ",
+      "UZB"
+    ],
+    "num_fronteras": 4,
+    "idiomas": [
+      "Russian",
+      "Turkmen"
+    ],
+    "bandera_emoji": "🇹🇲",
+    "bandera_colores": [
+      {
+        "hex": "#28AE66",
+        "pct": 82.73
+      },
+      {
+        "hex": "#C93745",
+        "pct": 9.52
+      },
+      {
+        "hex": "#B47134",
+        "pct": 4.13
+      },
+      {
+        "hex": "#60654E",
+        "pct": 1.11
+      },
+      {
+        "hex": "#65BE8E",
+        "pct": 0.46
+      },
+      {
+        "hex": "#AE915A",
+        "pct": 0.2
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Timor Oriental",
+    "capital": "Dili",
+    "cca2": "TL",
+    "cca3": "TLS",
+    "lat": -8.55861,
+    "lng": 125.57361,
+    "poblacion_pais": 1391221,
+    "area_km2": 14874,
+    "densidad": 93.53,
+    "utc_offset": 9.0,
+    "fronteras": [
+      "IDN"
+    ],
+    "num_fronteras": 1,
+    "idiomas": [
+      "Portuguese",
+      "Tetum"
+    ],
+    "bandera_emoji": "🇹🇱",
+    "bandera_colores": [
+      {
+        "hex": "#DC241F",
+        "pct": 75
+      },
+      {
+        "hex": "#000000",
+        "pct": 14.35
+      },
+      {
+        "hex": "#FFC726",
+        "pct": 8.08
+      },
+      {
+        "hex": "#5D490E",
+        "pct": 0.17
+      },
+      {
+        "hex": "#A17E18",
+        "pct": 0.16
+      },
+      {
+        "hex": "#D2A41F",
+        "pct": 0.09
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Tonga",
+    "capital": "Nuku'alofa",
+    "cca2": "TO",
+    "cca3": "TON",
+    "lat": -21.13683,
+    "lng": -175.20114,
+    "poblacion_pais": 100179,
+    "area_km2": 747,
+    "densidad": 134.11,
+    "utc_offset": 13.0,
+    "fronteras": [],
+    "num_fronteras": 0,
+    "idiomas": [
+      "English",
+      "Tongan"
+    ],
+    "bandera_emoji": "🇹🇴",
+    "bandera_colores": [
+      {
+        "hex": "#C10000",
+        "pct": 82.66
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 16.54
+      },
+      {
+        "hex": "#D65555",
+        "pct": 0.49
+      },
+      {
+        "hex": "#EFBFBF",
+        "pct": 0.24
+      },
+      {
+        "hex": "#E49090",
+        "pct": 0.07
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Trinidad y Tobago",
+    "capital": "Puerto España",
+    "cca2": "TT",
+    "cca3": "TTO",
+    "lat": 10.66668,
+    "lng": -61.51889,
+    "poblacion_pais": 1368333,
+    "area_km2": 5130,
+    "densidad": 266.73,
+    "utc_offset": -4.0,
+    "fronteras": [],
+    "num_fronteras": 0,
+    "idiomas": [
+      "English"
+    ],
+    "bandera_emoji": "🇹🇹",
+    "bandera_colores": [
+      {
+        "hex": "#CE1126",
+        "pct": 68.95
+      },
+      {
+        "hex": "#000000",
+        "pct": 19.65
+      },
+      {
+        "hex": "#FEFDFE",
+        "pct": 9.19
+      },
+      {
+        "hex": "#DF6371",
+        "pct": 0.34
+      },
+      {
+        "hex": "#E78893",
+        "pct": 0.32
+      },
+      {
+        "hex": "#EEADB4",
+        "pct": 0.16
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Túnez",
+    "capital": "Túnez",
+    "cca2": "TN",
+    "cca3": "TUN",
+    "lat": 36.81897,
+    "lng": 10.16579,
+    "poblacion_pais": 11972169,
+    "area_km2": 163610,
+    "densidad": 73.18,
+    "utc_offset": 1.0,
+    "fronteras": [
+      "DZA",
+      "LBY"
+    ],
+    "num_fronteras": 2,
+    "idiomas": [
+      "Arabic"
+    ],
+    "bandera_emoji": "🇹🇳",
+    "bandera_colores": [
+      {
+        "hex": "#E70013",
+        "pct": 89.93
+      },
+      {
+        "hex": "#FFFEFE",
+        "pct": 8.77
+      },
+      {
+        "hex": "#F16C77",
+        "pct": 1.01
+      },
+      {
+        "hex": "#F7ADB4",
+        "pct": 0.21
+      },
+      {
+        "hex": "#EC3847",
+        "pct": 0.09
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Turquía",
+    "capital": "Ankara",
+    "cca2": "TR",
+    "cca3": "TUR",
+    "lat": 39.91987,
+    "lng": 32.85427,
+    "poblacion_pais": 85664944,
+    "area_km2": 783562,
+    "densidad": 109.33,
+    "utc_offset": 3.0,
+    "fronteras": [
+      "ARM",
+      "AZE",
+      "BGR",
+      "GEO",
+      "GRC",
+      "IRN",
+      "IRQ",
+      "SYR"
+    ],
+    "num_fronteras": 8,
+    "idiomas": [
+      "Turkish"
+    ],
+    "bandera_emoji": "🇹🇷",
+    "bandera_colores": [
+      {
+        "hex": "#E30A17",
+        "pct": 93.37
+      },
+      {
+        "hex": "#FFFEFE",
+        "pct": 5.2
+      },
+      {
+        "hex": "#F9CDD0",
+        "pct": 0.57
+      },
+      {
+        "hex": "#EF7279",
+        "pct": 0.57
+      },
+      {
+        "hex": "#EA4953",
+        "pct": 0.29
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Tuvalu",
+    "capital": "Funafuti",
+    "cca2": "TV",
+    "cca3": "TUV",
+    "lat": -8.52425,
+    "lng": 179.19417,
+    "poblacion_pais": 10643,
+    "area_km2": 26,
+    "densidad": 409.35,
+    "utc_offset": 12.0,
+    "fronteras": [],
+    "num_fronteras": 0,
+    "idiomas": [
+      "English",
+      "Tuvaluan"
+    ],
+    "bandera_emoji": "🇹🇻",
+    "bandera_colores": [
+      {
+        "hex": "#5B97B1",
+        "pct": 72.24
+      },
+      {
+        "hex": "#CF142B",
+        "pct": 8.82
+      },
+      {
+        "hex": "#FEFEFE",
+        "pct": 7.16
+      },
+      {
+        "hex": "#00247D",
+        "pct": 6.2
+      },
+      {
+        "hex": "#FCCD03",
+        "pct": 2.95
+      },
+      {
+        "hex": "#B2B452",
+        "pct": 1.03
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Tanzania",
+    "capital": "Dodoma",
+    "cca2": "TZ",
+    "cca3": "TZA",
+    "lat": -6.17221,
+    "lng": 35.73947,
+    "poblacion_pais": 68153004,
+    "area_km2": 945087,
+    "densidad": 72.11,
+    "utc_offset": 3.0,
+    "fronteras": [
+      "BDI",
+      "COD",
+      "KEN",
+      "MWI",
+      "MOZ",
+      "RWA",
+      "UGA",
+      "ZMB"
+    ],
+    "num_fronteras": 8,
+    "idiomas": [
+      "English",
+      "Swahili"
+    ],
+    "bandera_emoji": "🇹🇿",
+    "bandera_colores": [
+      {
+        "hex": "#000000",
+        "pct": 28.92
+      },
+      {
+        "hex": "#1EB53A",
+        "pct": 28.89
+      },
+      {
+        "hex": "#00A3DD",
+        "pct": 28.88
+      },
+      {
+        "hex": "#FBD016",
+        "pct": 10.92
+      },
+      {
+        "hex": "#BEC548",
+        "pct": 0.26
+      },
+      {
+        "hex": "#93C327",
+        "pct": 0.25
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Uganda",
+    "capital": "Kampala",
+    "cca2": "UG",
+    "cca3": "UGA",
+    "lat": 0.31628,
+    "lng": 32.58219,
+    "poblacion_pais": 45905417,
+    "area_km2": 241550,
+    "densidad": 190.05,
+    "utc_offset": 3.0,
+    "fronteras": [
+      "COD",
+      "KEN",
+      "RWA",
+      "SSD",
+      "TZA"
+    ],
+    "num_fronteras": 5,
+    "idiomas": [
+      "English",
+      "Swahili"
+    ],
+    "bandera_emoji": "🇺🇬",
+    "bandera_colores": [
+      {
+        "hex": "#FCDC04",
+        "pct": 32.01
+      },
+      {
+        "hex": "#000000",
+        "pct": 29.55
+      },
+      {
+        "hex": "#D90000",
+        "pct": 29.43
+      },
+      {
+        "hex": "#FEFDFD",
+        "pct": 3.24
+      },
+      {
+        "hex": "#544901",
+        "pct": 2
+      },
+      {
+        "hex": "#C4A636",
+        "pct": 0.02
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Ucrania",
+    "capital": "Kiev",
+    "cca2": "UA",
+    "cca3": "UKR",
+    "lat": 50.45466,
+    "lng": 30.5238,
+    "poblacion_pais": 32862000,
+    "area_km2": 603500,
+    "densidad": 54.45,
+    "utc_offset": 2.0,
+    "fronteras": [
+      "BLR",
+      "HUN",
+      "MDA",
+      "POL",
+      "ROU",
+      "RUS",
+      "SVK"
+    ],
+    "num_fronteras": 7,
+    "idiomas": [
+      "Ukrainian"
+    ],
+    "bandera_emoji": "🇺🇦",
+    "bandera_colores": [
+      {
+        "hex": "#FFD500",
+        "pct": 50
+      },
+      {
+        "hex": "#005BBB",
+        "pct": 50
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Uruguay",
+    "capital": "Montevideo",
+    "cca2": "UY",
+    "cca3": "URY",
+    "lat": -34.90328,
+    "lng": -56.18816,
+    "poblacion_pais": 3499451,
+    "area_km2": 181034,
+    "densidad": 19.33,
+    "utc_offset": -3.0,
+    "fronteras": [
+      "ARG",
+      "BRA"
+    ],
+    "num_fronteras": 2,
+    "idiomas": [
+      "Spanish"
+    ],
+    "bandera_emoji": "🇺🇾",
+    "bandera_colores": [
+      {
+        "hex": "#FFFFFF",
+        "pct": 55.07
+      },
+      {
+        "hex": "#9E830E",
+        "pct": 2.27
+      },
+      {
+        "hex": "#C6D3EC",
+        "pct": 2.14
+      },
+      {
+        "hex": "#8DA6D8",
+        "pct": 1.77
+      },
+      {
+        "hex": "#F8CE16",
+        "pct": 1.76
+      },
+      {
+        "hex": "#547AC5",
+        "pct": 1.63
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Estados Unidos",
+    "capital": "Washington D.C.",
+    "cca2": "US",
+    "cca3": "USA",
+    "lat": 38.89511,
+    "lng": -77.03637,
+    "poblacion_pais": 340110988,
+    "area_km2": 9372610,
+    "densidad": 36.29,
+    "utc_offset": -5.0,
+    "fronteras": [
+      "CAN",
+      "MEX"
+    ],
+    "num_fronteras": 2,
+    "idiomas": [
+      "English"
+    ],
+    "bandera_emoji": "🇺🇸",
+    "bandera_colores": [
+      {
+        "hex": "#B22234",
+        "pct": 37.2
+      },
+      {
+        "hex": "#FEFEFE",
+        "pct": 33.99
+      },
+      {
+        "hex": "#3C3B6E",
+        "pct": 18.11
+      },
+      {
+        "hex": "#CA6673",
+        "pct": 4.4
+      },
+      {
+        "hex": "#EDCDD1",
+        "pct": 3.18
+      },
+      {
+        "hex": "#DC9AA2",
+        "pct": 1.6
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Uzbekistán",
+    "capital": "Taskent",
+    "cca2": "UZ",
+    "cca3": "UZB",
+    "lat": 41.26465,
+    "lng": 69.21627,
+    "poblacion_pais": 37859698,
+    "area_km2": 447400,
+    "densidad": 84.62,
+    "utc_offset": 5.0,
+    "fronteras": [
+      "AFG",
+      "KAZ",
+      "KGZ",
+      "TJK",
+      "TKM"
+    ],
+    "num_fronteras": 5,
+    "idiomas": [
+      "Russian",
+      "Uzbek"
+    ],
+    "bandera_emoji": "🇺🇿",
+    "bandera_colores": [
+      {
+        "hex": "#FFFFFF",
+        "pct": 32.73
+      },
+      {
+        "hex": "#1EB53A",
+        "pct": 32
+      },
+      {
+        "hex": "#0099B5",
+        "pct": 30.73
+      },
+      {
+        "hex": "#CE1126",
+        "pct": 4
+      },
+      {
+        "hex": "#4EB8CC",
+        "pct": 0.34
+      },
+      {
+        "hex": "#89D0DD",
+        "pct": 0.21
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "San Vicente y Granadinas",
+    "capital": "Kingstown",
+    "cca2": "VC",
+    "cca3": "VCT",
+    "lat": 13.15527,
+    "lng": -61.22742,
+    "poblacion_pais": 110872,
+    "area_km2": 389,
+    "densidad": 285.02,
+    "utc_offset": -4.0,
+    "fronteras": [],
+    "num_fronteras": 0,
+    "idiomas": [
+      "English"
+    ],
+    "bandera_emoji": "🇻🇨",
+    "bandera_colores": [
+      {
+        "hex": "#FCD116",
+        "pct": 43.57
+      },
+      {
+        "hex": "#009E60",
+        "pct": 29.79
+      },
+      {
+        "hex": "#0072C6",
+        "pct": 24.67
+      },
+      {
+        "hex": "#7EB83B",
+        "pct": 1.31
+      },
+      {
+        "hex": "#7EA16E",
+        "pct": 0.67
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Venezuela",
+    "capital": "Caracas",
+    "cca2": "VE",
+    "cca3": "VEN",
+    "lat": 10.48801,
+    "lng": -66.87919,
+    "poblacion_pais": 28517000,
+    "area_km2": 916445,
+    "densidad": 31.12,
+    "utc_offset": -4.0,
+    "fronteras": [
+      "BRA",
+      "COL",
+      "GUY"
+    ],
+    "num_fronteras": 3,
+    "idiomas": [
+      "Spanish"
+    ],
+    "bandera_emoji": "🇻🇪",
+    "bandera_colores": [
+      {
+        "hex": "#FFCC00",
+        "pct": 33
+      },
+      {
+        "hex": "#CF142B",
+        "pct": 33
+      },
+      {
+        "hex": "#00247D",
+        "pct": 30.35
+      },
+      {
+        "hex": "#555C53",
+        "pct": 1
+      },
+      {
+        "hex": "#441F62",
+        "pct": 1
+      },
+      {
+        "hex": "#2E4B94",
+        "pct": 0.15
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Vietnam",
+    "capital": "Hanói",
+    "cca2": "VN",
+    "cca3": "VNM",
+    "lat": 21.0245,
+    "lng": 105.84117,
+    "poblacion_pais": 101343800,
+    "area_km2": 331212,
+    "densidad": 305.98,
+    "utc_offset": 7.0,
+    "fronteras": [
+      "KHM",
+      "CHN",
+      "LAO"
+    ],
+    "num_fronteras": 3,
+    "idiomas": [
+      "Vietnamese"
+    ],
+    "bandera_emoji": "🇻🇳",
+    "bandera_colores": [
+      {
+        "hex": "#DA251D",
+        "pct": 92.66
+      },
+      {
+        "hex": "#FFFE00",
+        "pct": 6.51
+      },
+      {
+        "hex": "#E67013",
+        "pct": 0.83
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Vanuatu",
+    "capital": "Port Vila",
+    "cca2": "VU",
+    "cca3": "VUT",
+    "lat": -17.73648,
+    "lng": 168.31366,
+    "poblacion_pais": 321409,
+    "area_km2": 12189,
+    "densidad": 26.37,
+    "utc_offset": 11.0,
+    "fronteras": [],
+    "num_fronteras": 0,
+    "idiomas": [
+      "Bislama",
+      "English",
+      "French"
+    ],
+    "bandera_emoji": "🇻🇺",
+    "bandera_colores": [
+      {
+        "hex": "#009543",
+        "pct": 31.22
+      },
+      {
+        "hex": "#D21034",
+        "pct": 31.14
+      },
+      {
+        "hex": "#010100",
+        "pct": 25.81
+      },
+      {
+        "hex": "#FCCE12",
+        "pct": 8.53
+      },
+      {
+        "hex": "#A6870B",
+        "pct": 2.02
+      },
+      {
+        "hex": "#7A6308",
+        "pct": 1.05
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Samoa",
+    "capital": "Apia",
+    "cca2": "WS",
+    "cca3": "WSM",
+    "lat": -13.83333,
+    "lng": -171.76666,
+    "poblacion_pais": 205557,
+    "area_km2": 2842,
+    "densidad": 72.33,
+    "utc_offset": 14.0,
+    "fronteras": [],
+    "num_fronteras": 0,
+    "idiomas": [
+      "English",
+      "Samoan"
+    ],
+    "bandera_emoji": "🇼🇸",
+    "bandera_colores": [
+      {
+        "hex": "#CE1126",
+        "pct": 75
+      },
+      {
+        "hex": "#002B7F",
+        "pct": 23.66
+      },
+      {
+        "hex": "#FBFCFD",
+        "pct": 0.72
+      },
+      {
+        "hex": "#2F5297",
+        "pct": 0.33
+      },
+      {
+        "hex": "#6D86B6",
+        "pct": 0.21
+      },
+      {
+        "hex": "#BAC6DC",
+        "pct": 0.1
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Yemen",
+    "capital": "Saná",
+    "cca2": "YE",
+    "cca3": "YEM",
+    "lat": 15.35452,
+    "lng": 44.20646,
+    "poblacion_pais": 32684503,
+    "area_km2": 527968,
+    "densidad": 61.91,
+    "utc_offset": 3.0,
+    "fronteras": [
+      "OMN",
+      "SAU"
+    ],
+    "num_fronteras": 2,
+    "idiomas": [
+      "Arabic"
+    ],
+    "bandera_emoji": "🇾🇪",
+    "bandera_colores": [
+      {
+        "hex": "#000000",
+        "pct": 33
+      },
+      {
+        "hex": "#CE1126",
+        "pct": 33
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 32
+      },
+      {
+        "hex": "#ABABAB",
+        "pct": 1
+      },
+      {
+        "hex": "#EFB0B7",
+        "pct": 1
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Sudáfrica",
+    "capital": "Pretoria",
+    "cca2": "ZA",
+    "cca3": "ZAF",
+    "lat": -25.74486,
+    "lng": 28.18783,
+    "poblacion_pais": 63100945,
+    "area_km2": 1221037,
+    "densidad": 51.68,
+    "utc_offset": 2.0,
+    "fronteras": [
+      "BWA",
+      "LSO",
+      "MOZ",
+      "NAM",
+      "SWZ",
+      "ZWE"
+    ],
+    "num_fronteras": 6,
+    "idiomas": [
+      "Afrikaans",
+      "English",
+      "Southern Ndebele",
+      "Northern Sotho",
+      "Southern Sotho",
+      "Swazi",
+      "Tswana",
+      "Tsonga",
+      "Venda",
+      "Xhosa",
+      "Zulu"
+    ],
+    "bandera_emoji": "🇿🇦",
+    "bandera_colores": [
+      {
+        "hex": "#007A4D",
+        "pct": 30.66
+      },
+      {
+        "hex": "#002395",
+        "pct": 20.85
+      },
+      {
+        "hex": "#DE3831",
+        "pct": 20.85
+      },
+      {
+        "hex": "#FEFEFE",
+        "pct": 11.04
+      },
+      {
+        "hex": "#000000",
+        "pct": 8.8
+      },
+      {
+        "hex": "#FDB512",
+        "pct": 4.97
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Zambia",
+    "capital": "Lusaka",
+    "cca2": "ZM",
+    "cca3": "ZMB",
+    "lat": -15.40669,
+    "lng": 28.28713,
+    "poblacion_pais": 19693423,
+    "area_km2": 752612,
+    "densidad": 26.17,
+    "utc_offset": 2.0,
+    "fronteras": [
+      "AGO",
+      "BWA",
+      "COD",
+      "MWI",
+      "MOZ",
+      "NAM",
+      "TZA",
+      "ZWE"
+    ],
+    "num_fronteras": 8,
+    "idiomas": [
+      "English"
+    ],
+    "bandera_emoji": "🇿🇲",
+    "bandera_colores": [
+      {
+        "hex": "#198A00",
+        "pct": 74.11
+      },
+      {
+        "hex": "#EF7D00",
+        "pct": 7.71
+      },
+      {
+        "hex": "#DE2010",
+        "pct": 7.25
+      },
+      {
+        "hex": "#000000",
+        "pct": 7.23
+      },
+      {
+        "hex": "#904F05",
+        "pct": 1.1
+      },
+      {
+        "hex": "#4C6C02",
+        "pct": 0.71
+      }
+    ],
+    "altitud_capital_m": null
+  },
+  {
+    "pais": "Zimbabue",
+    "capital": "Harare",
+    "cca2": "ZW",
+    "cca3": "ZWE",
+    "lat": -17.82772,
+    "lng": 31.05337,
+    "poblacion_pais": 17073087,
+    "area_km2": 390757,
+    "densidad": 43.69,
+    "utc_offset": 2.0,
+    "fronteras": [
+      "BWA",
+      "MOZ",
+      "ZAF",
+      "ZMB"
+    ],
+    "num_fronteras": 4,
+    "idiomas": [
+      "Chibarwe",
+      "English",
+      "Kalanga",
+      "Khoisan",
+      "Ndau",
+      "Northern Ndebele",
+      "Chewa",
+      "Shona",
+      "Sotho",
+      "Tonga",
+      "Tswana",
+      "Tsonga",
+      "Venda",
+      "Xhosa",
+      "Zimbabwean Sign Language"
+    ],
+    "bandera_emoji": "🇿🇼",
+    "bandera_colores": [
+      {
+        "hex": "#319208",
+        "pct": 26.21
+      },
+      {
+        "hex": "#DE2010",
+        "pct": 22.07
+      },
+      {
+        "hex": "#FFFFFF",
+        "pct": 11.23
+      },
+      {
+        "hex": "#000000",
+        "pct": 10.64
+      },
+      {
+        "hex": "#C5C002",
+        "pct": 2.31
+      },
+      {
+        "hex": "#F18507",
+        "pct": 1.48
+      }
+    ],
+    "altitud_capital_m": null
+  }
+]

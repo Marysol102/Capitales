@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>Ordenata — ordena las capitales del mundo</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #101d33;
+    --bg-deep: #0a1526;
+    --card: #1a2c4c;
+    --card-hi: #223a63;
+    --line: rgba(237,230,214,0.14);
+    --accent: #c9a24b;
+    --accent-dim: rgba(201,162,75,0.18);
+    --ink: #ede6d6;
+    --ink-dim: #9fb0c9;
+    --ok: #5fa085;
+    --ok-bg: rgba(95,160,133,0.16);
+    --bad: #c15c46;
+    --bad-bg: rgba(193,92,70,0.16);
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0; padding: 0;
+    background: radial-gradient(ellipse at top, var(--bg) 0%, var(--bg-deep) 78%);
+    color: var(--ink);
+    font-family: 'Inter', system-ui, sans-serif;
+    min-height: 100vh;
+  }
+  body {
+    display: flex; justify-content: center;
+    padding: 28px 16px 60px;
+  }
+  .wrap { width: 100%; max-width: 480px; }
+
+  header { text-align: center; margin-bottom: 22px; }
+  .brand {
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+    font-size: 2.1rem;
+    letter-spacing: 0.01em;
+    margin: 0 0 4px;
+    background: linear-gradient(180deg, #f3e6bf, var(--accent));
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+  .tagline {
+    font-size: 0.88rem;
+    color: var(--ink-dim);
+    margin: 0;
+  }
+  .compass {
+    width: 34px; height: 34px; margin: 0 auto 10px;
+    opacity: 0.85;
+  }
+
+  .status-row {
+    display: flex; justify-content: space-between; align-items: center;
+    margin: 18px 2px 14px;
+    font-size: 0.82rem;
+    color: var(--ink-dim);
+  }
+  .attempts { display: flex; gap: 6px; }
+  .attempt-dot {
+    width: 9px; height: 9px; border-radius: 50%;
+    background: var(--line);
+    border: 1px solid rgba(237,230,214,0.25);
+  }
+  .attempt-dot.used-ok { background: var(--ok); border-color: var(--ok); }
+  .attempt-dot.used-bad { background: var(--bad); border-color: var(--bad); }
+
+  #board { list-style: none; margin: 0; padding: 0; }
+
+  .gap {
+    display: flex; align-items: center; gap: 10px;
+    padding: 5px 2px 5px 46px;
+    min-height: 30px;
+  }
+  .gap-line {
+    flex: 0 0 auto; width: 2px; height: 100%;
+    background: var(--line);
+    align-self: stretch;
+    margin-left: 8px;
+  }
+  .gap-label {
+    font-size: 0.72rem;
+    letter-spacing: 0.02em;
+    color: var(--ink-dim);
+    background: rgba(237,230,214,0.05);
+    border: 1px solid var(--line);
+    border-radius: 20px;
+    padding: 3px 11px;
+    transition: background 0.25s, border-color 0.25s, color 0.25s;
+  }
+  .gap-label.ok { background: var(--ok-bg); border-color: var(--ok); color: var(--ok); }
+  .gap-label.bad { background: var(--bad-bg); border-color: var(--bad); color: var(--bad); }
+
+  .tile {
+    display: flex; align-items: center; gap: 14px;
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    padding: 12px 14px;
+    touch-action: none;
+    user-select: none;
+    position: relative;
+    transition: box-shadow 0.15s, background 0.15s;
+  }
+  .tile.dragging {
+    background: var(--card-hi);
+    box-shadow: 0 12px 24px rgba(0,0,0,0.35);
+    z-index: 5;
+  }
+  .handle {
+    flex: 0 0 auto;
+    width: 22px; height: 22px;
+    display: flex; align-items: center; justify-content: center;
+    color: var(--ink-dim);
+    cursor: grab;
+  }
+  .flag { font-size: 1.5rem; line-height: 1; flex: 0 0 auto; }
+  .names { flex: 1 1 auto; min-width: 0; }
+  .cap-name { font-family: 'Fraunces', serif; font-weight: 600; font-size: 1.02rem; }
+  .country-name { font-size: 0.76rem; color: var(--ink-dim); }
+  .pos-num {
+    flex: 0 0 auto; width: 22px; height: 22px; border-radius: 50%;
+    background: var(--accent-dim); color: var(--accent);
+    font-size: 0.72rem; font-weight: 700;
+    display: flex; align-items: center; justify-content: center;
+  }
+
+  #checkBtn {
+    width: 100%; margin-top: 20px;
+    background: var(--accent); color: #201705;
+    border: none; border-radius: 14px;
+    padding: 14px; font-family: 'Inter', sans-serif;
+    font-weight: 700; font-size: 0.95rem; letter-spacing: 0.01em;
+    cursor: pointer;
+  }
+  #checkBtn:disabled { opacity: 0.4; cursor: default; }
+  #checkBtn:active:not(:disabled) { transform: scale(0.98); }
+
+  #msg {
+    text-align: center; min-height: 20px;
+    font-size: 0.85rem; color: var(--ink-dim); margin-top: 10px;
+  }
+
+  #endPanel { display: none; margin-top: 26px; }
+  .end-headline {
+    font-family: 'Fraunces', serif; font-weight: 700; font-size: 1.4rem;
+    text-align: center; margin-bottom: 4px;
+  }
+  .end-sub { text-align: center; color: var(--ink-dim); font-size: 0.85rem; margin-bottom: 22px; }
+
+  .stat-card {
+    background: var(--card); border: 1px solid var(--line); border-radius: 14px;
+    padding: 14px 16px; margin-bottom: 12px;
+  }
+  .stat-head { display: flex; align-items: center; gap: 10px; margin-bottom: 10px; }
+  .stat-head .flag { font-size: 1.6rem; }
+  .stat-head .cap-name { font-size: 1.05rem; }
+  .stat-grid {
+    display: grid; grid-template-columns: 1fr 1fr;
+    gap: 8px 14px;
+  }
+  .stat-item .k {
+    font-size: 0.66rem; text-transform: uppercase; letter-spacing: 0.05em;
+    color: var(--ink-dim); margin-bottom: 1px;
+  }
+  .stat-item .v { font-size: 0.86rem; }
+  .stat-item.full { grid-column: 1 / -1; }
+
+  #restartNote { text-align: center; font-size: 0.78rem; color: var(--ink-dim); margin-top: 20px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <svg class="compass" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="20" cy="20" r="18" stroke="#c9a24b" stroke-width="1.2" opacity="0.6"/>
+      <path d="M20 6 L23 20 L20 34 L17 20 Z" fill="#c9a24b" opacity="0.85"/>
+      <circle cx="20" cy="20" r="2" fill="#ede6d6"/>
+    </svg>
+    <p class="brand" id="brandTitle">Ordenata</p>
+    <p class="tagline">Ordena las 6 capitales según la pista de cada tramo</p>
+  </header>
+
+  <div class="status-row">
+    <span id="dayLabel">Día —</span>
+    <span class="attempts" id="attemptsRow"></span>
+  </div>
+
+  <ul id="board"></ul>
+
+  <button id="checkBtn">Comprobar orden</button>
+  <p id="msg"></p>
+
+  <div id="endPanel">
+    <p class="end-headline" id="endHeadline"></p>
+    <p class="end-sub" id="endSub"></p>
+    <div id="statCards"></div>
+    <p id="restartNote">Vuelve mañana para una nueva combinación de capitales.</p>
+  </div>
+</div>
+
+<script src="capitales-generador.js"></script>
+<script>
+(async function () {
+  const gen = window.CapitalesGen;
+
+  // ---------- carga de datos y puzzle del día ----------
+  const db = await fetch('capitales_db.json').then(r => r.json());
+  gen.init(db);
+  const dayIndex = gen.dayIndexFromDate(new Date());
+  const puzzle = gen.generatePuzzle(dayIndex);
+  const MAX_INTENTOS = 5;
+
+  document.getElementById('dayLabel').textContent = `Día ${puzzle.dia}`;
+
+  // ---------- estado ----------
+  let orden = puzzle.capitales_mostradas.slice(); // array de nombres de país, orden actual del jugador
+  let intentosUsados = 0;
+  let terminado = false;
+
+  const board = document.getElementById('board');
+  const attemptsRow = document.getElementById('attemptsRow');
+  const checkBtn = document.getElementById('checkBtn');
+  const msg = document.getElementById('msg');
+
+  for (let i = 0; i < MAX_INTENTOS; i++) {
+    const dot = document.createElement('span');
+    dot.className = 'attempt-dot';
+    dot.dataset.i = i;
+    attemptsRow.appendChild(dot);
+  }
+
+  // ---------- render ----------
+  let lastFeedback = null; // array de 5 booleanos tras el último intento, o null
+
+  function render() {
+    board.innerHTML = '';
+    orden.forEach((pais, i) => {
+      const c = gen.getCapital(pais);
+      const li = document.createElement('li');
+      li.className = 'tile';
+      li.draggable = false;
+      li.dataset.index = i;
+      li.innerHTML = `
+        <span class="handle" aria-hidden="true">
+          <svg width="16" height="16" viewBox="0 0 16 16"><g fill="currentColor">
+            <circle cx="5" cy="4" r="1.4"/><circle cx="11" cy="4" r="1.4"/>
+            <circle cx="5" cy="8" r="1.4"/><circle cx="11" cy="8" r="1.4"/>
+            <circle cx="5" cy="12" r="1.4"/><circle cx="11" cy="12" r="1.4"/>
+          </g></svg>
+        </span>
+        <span class="pos-num">${i + 1}</span>
+        <span class="flag">${c.bandera_emoji}</span>
+        <span class="names">
+          <div class="cap-name">${c.capital}</div>
+          <div class="country-name">${c.pais}</div>
+        </span>
+      `;
+      board.appendChild(li);
+      attachDrag(li);
+
+      if (i < orden.length - 1) {
+        const crit = puzzle.criterios[i];
+        const gapLi = document.createElement('li');
+        gapLi.className = 'gap';
+        let cls = '';
+        if (lastFeedback) cls = lastFeedback[i] ? 'ok' : 'bad';
+        gapLi.innerHTML = `<span class="gap-line"></span><span class="gap-label ${cls}">${gen.LABELS[crit.criterio]}</span>`;
+        board.appendChild(gapLi);
+      }
+    });
+  }
+
+  // ---------- arrastrar para reordenar (Pointer Events, táctil y ratón) ----------
+  function attachDrag(tile) {
+    const handle = tile.querySelector('.handle');
+    handle.addEventListener('pointerdown', (e) => {
+      if (terminado) return;
+      e.preventDefault();
+      const startY = e.clientY;
+      const tiles = Array.from(board.querySelectorAll('.tile'));
+      const fromIndex = tiles.indexOf(tile);
+      const tileHeight = tile.getBoundingClientRect().height;
+      tile.classList.add('dragging');
+      tile.setPointerCapture(e.pointerId);
+
+      let currentTargetIndex = fromIndex;
+
+      function onMove(ev) {
+        const dy = ev.clientY - startY;
+        tile.style.transform = `translateY(${dy}px)`;
+
+        const others = tiles.filter(t => t !== tile);
+        const tileCenter = tile.getBoundingClientRect().top + tileHeight / 2;
+        let crossed = 0;
+        others.forEach((o) => {
+          const r = o.getBoundingClientRect();
+          const oCenter = r.top + r.height / 2;
+          const oIdx = tiles.indexOf(o);
+          if (oIdx < fromIndex && tileCenter < oCenter) crossed--;
+          if (oIdx > fromIndex && tileCenter > oCenter) crossed++;
+        });
+        currentTargetIndex = Math.min(orden.length - 1, Math.max(0, fromIndex + crossed));
+      }
+
+      function onUp() {
+        tile.releasePointerCapture(e.pointerId);
+        tile.classList.remove('dragging');
+        tile.style.transform = '';
+        tile.style.position = '';
+        window.removeEventListener('pointermove', onMove);
+        window.removeEventListener('pointerup', onUp);
+
+        if (currentTargetIndex !== fromIndex) {
+          const moved = orden.splice(fromIndex, 1)[0];
+          orden.splice(currentTargetIndex, 0, moved);
+          lastFeedback = null; // el orden cambió, la pista visual de la comprobación anterior ya no aplica
+          render();
+        }
+      }
+
+      window.addEventListener('pointermove', onMove);
+      window.addEventListener('pointerup', onUp);
+    });
+  }
+
+  // ---------- comprobar intento ----------
+  checkBtn.addEventListener('click', () => {
+    if (terminado) return;
+    const capObjs = orden.map(p => gen.getCapital(p));
+    const feedback = puzzle.criterios.map((crit, i) =>
+      gen.evalCriterion(crit.criterio, capObjs[i], capObjs[i + 1]) === crit.relacion
+    );
+    lastFeedback = feedback;
+    intentosUsados++;
+
+    const todoBien = feedback.every(Boolean);
+    const dots = attemptsRow.children;
+    dots[intentosUsados - 1].classList.add(todoBien ? 'used-ok' : 'used-bad');
+
+    render();
+
+    if (todoBien) {
+      msg.textContent = '';
+      finish(true);
+    } else if (intentosUsados >= MAX_INTENTOS) {
+      finish(false);
+    } else {
+      const aciertos = feedback.filter(Boolean).length;
+      msg.textContent = `${aciertos} de 5 tramos correctos. Te quedan ${MAX_INTENTOS - intentosUsados} intentos.`;
+    }
+  });
+
+  // ---------- fin de partida: revelar solución y ficha de datos ----------
+  // territorios/entidades que pueden aparecer como vecinos pero no están en la base de datos
+  // de juego (no son capitales jugables): se muestran igualmente con su nombre, por curiosidad.
+  const VECINOS_FUERA_DEL_JUEGO = {
+    GIB: 'Gibraltar', VAT: 'Ciudad del Vaticano', AFG: 'Afganistán', PSE: 'Palestina',
+    ESH: 'Sáhara Occidental', HKG: 'Hong Kong', MAC: 'Macao', GUF: 'Guayana Francesa',
+    UNK: 'Kosovo',
+  };
+
+  function finish(gano) {
+    terminado = true;
+    checkBtn.disabled = true;
+    document.querySelectorAll('.handle').forEach(h => h.style.visibility = 'hidden');
+
+    orden = puzzle.solucion.slice();
+    lastFeedback = [true, true, true, true, true];
+    render();
+
+    const endPanel = document.getElementById('endPanel');
+    const headline = document.getElementById('endHeadline');
+    const sub = document.getElementById('endSub');
+    headline.textContent = gano ? '¡Orden correcto!' : 'Se acabaron los intentos';
+    sub.textContent = gano
+      ? `Lo has resuelto en ${intentosUsados} de ${MAX_INTENTOS} intentos.`
+      : 'Este era el orden correcto — y aquí tienes sus datos, por curiosidad:';
+
+    const statCards = document.getElementById('statCards');
+    statCards.innerHTML = '';
+    puzzle.solucion.forEach(pais => {
+      const c = gen.getCapital(pais);
+      const vecinos = c.fronteras.map(cca3 => {
+        const v = db.find(d => d.cca3 === cca3);
+        return v ? v.pais : (VECINOS_FUERA_DEL_JUEGO[cca3] || cca3);
+      });
+      const card = document.createElement('div');
+      card.className = 'stat-card';
+      card.innerHTML = `
+        <div class="stat-head">
+          <span class="flag">${c.bandera_emoji}</span>
+          <div>
+            <div class="cap-name">${c.capital}</div>
+            <div class="country-name">${c.pais}</div>
+          </div>
+        </div>
+        <div class="stat-grid">
+          <div class="stat-item"><div class="k">Población</div><div class="v">${c.poblacion_pais.toLocaleString('es-ES')}</div></div>
+          <div class="stat-item"><div class="k">Densidad</div><div class="v">${c.densidad} hab/km²</div></div>
+          <div class="stat-item"><div class="k">Tamaño país</div><div class="v">${c.area_km2.toLocaleString('es-ES')} km²</div></div>
+          <div class="stat-item"><div class="k">Desfase horario</div><div class="v">UTC${c.utc_offset >= 0 ? '+' : ''}${c.utc_offset}</div></div>
+          <div class="stat-item"><div class="k">Coordenadas</div><div class="v">${Math.abs(c.lat).toFixed(1)}°${c.lat >= 0 ? 'N' : 'S'}, ${Math.abs(c.lng).toFixed(1)}°${c.lng >= 0 ? 'E' : 'O'}</div></div>
+          <div class="stat-item"><div class="k">Idioma oficial</div><div class="v">${c.idiomas.join(', ')}</div></div>
+          <div class="stat-item full"><div class="k">Fronteras (${c.num_fronteras})</div><div class="v">${vecinos.length ? vecinos.join(', ') : 'Ninguna — país insular o aislado'}</div></div>
+        </div>
+      `;
+      statCards.appendChild(card);
+    });
+
+    endPanel.style.display = 'block';
+  }
+
+  render();
+})();
+</script>
+</body>
+</html>
