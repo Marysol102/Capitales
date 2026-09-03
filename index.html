@@ -88,17 +88,60 @@
     margin-left: 8px;
   }
   .gap-label {
-    font-size: 0.72rem;
-    letter-spacing: 0.02em;
+    position: relative;
+    display: inline-flex; align-items: center; gap: 6px;
+    font-size: 0.76rem;
+    font-weight: 600;
+    letter-spacing: 0.01em;
     color: var(--ink-dim);
     background: rgba(237,230,214,0.05);
     border: 1px solid var(--line);
     border-radius: 20px;
-    padding: 3px 11px;
+    padding: 5px 12px 5px 9px;
+    cursor: help;
     transition: background 0.25s, border-color 0.25s, color 0.25s;
   }
   .gap-label.ok { background: var(--ok-bg); border-color: var(--ok); color: var(--ok); }
   .gap-label.bad { background: var(--bad-bg); border-color: var(--bad); color: var(--bad); }
+  .gap-arrow {
+    display: inline-flex; align-items: center; justify-content: center;
+    width: 15px; height: 15px; border-radius: 50%;
+    background: var(--accent-dim); color: var(--accent);
+    font-size: 0.62rem; line-height: 1; flex: 0 0 auto;
+  }
+  .gap-label.ok .gap-arrow { background: rgba(95,160,133,0.28); color: var(--ok); }
+  .gap-label.bad .gap-arrow { background: rgba(193,92,70,0.28); color: var(--bad); }
+  .gap-arrow.eq { font-size: 0.7rem; }
+
+  .tooltip {
+    position: absolute;
+    left: 50%; bottom: calc(100% + 9px);
+    transform: translateX(-50%) translateY(4px);
+    width: max-content; max-width: 230px;
+    background: #0c1730;
+    border: 1px solid rgba(201,162,75,0.35);
+    color: var(--ink);
+    font-size: 0.74rem; font-weight: 400; line-height: 1.35;
+    letter-spacing: normal;
+    padding: 9px 12px;
+    border-radius: 10px;
+    box-shadow: 0 10px 26px rgba(0,0,0,0.4);
+    opacity: 0; visibility: hidden; pointer-events: none;
+    transition: opacity 0.15s, transform 0.15s;
+    z-index: 20;
+    text-align: left;
+    white-space: normal;
+  }
+  .tooltip::after {
+    content: ''; position: absolute; top: 100%; left: 50%;
+    transform: translateX(-50%);
+    border: 6px solid transparent;
+    border-top-color: #0c1730;
+  }
+  .gap-label:hover .tooltip,
+  .gap-label.tt-open .tooltip {
+    opacity: 1; visibility: visible; transform: translateX(-50%) translateY(0);
+  }
 
   .tile {
     display: flex; align-items: center; gap: 14px;
@@ -270,15 +313,38 @@
 
       if (i < orden.length - 1) {
         const crit = puzzle.criterios[i];
+        const { texto, flecha, tipo } = gen.gapDisplay(crit.criterio, crit.relacion);
         const gapLi = document.createElement('li');
         gapLi.className = 'gap';
         let cls = '';
         if (lastFeedback) cls = lastFeedback[i] ? 'ok' : 'bad';
-        gapLi.innerHTML = `<span class="gap-line"></span><span class="gap-label ${cls}">${gen.LABELS[crit.criterio]}</span>`;
+        const iconoFlecha = flecha === 'up' ? '▲' : flecha === 'down' ? '▼' : (tipo === 'compartir' ? '🔗' : '=');
+        gapLi.innerHTML = `
+          <span class="gap-line"></span>
+          <span class="gap-label ${cls}" tabindex="0">
+            <span class="gap-arrow ${flecha ? '' : 'eq'}">${iconoFlecha}</span>
+            ${texto}
+            <span class="tooltip">${gen.DESCRIPCIONES[crit.criterio]}</span>
+          </span>
+        `;
         board.appendChild(gapLi);
       }
     });
   }
+
+  // ---------- tooltip de los criterios: clic/tap para abrir, clic fuera para cerrar ----------
+  board.addEventListener('click', (e) => {
+    const label = e.target.closest('.gap-label');
+    document.querySelectorAll('.gap-label.tt-open').forEach(el => {
+      if (el !== label) el.classList.remove('tt-open');
+    });
+    if (label) label.classList.toggle('tt-open');
+  });
+  document.addEventListener('click', (e) => {
+    if (!e.target.closest('.gap-label')) {
+      document.querySelectorAll('.gap-label.tt-open').forEach(el => el.classList.remove('tt-open'));
+    }
+  });
 
   // ---------- arrastrar para reordenar (Pointer Events, táctil y ratón) ----------
   function attachDrag(tile) {

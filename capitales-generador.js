@@ -90,6 +90,48 @@
     idioma: 'Idioma oficial',
   };
 
+  // frase a mostrar cuando ESTE lado del hueco es el que cumple "más" de este criterio,
+  // y frase para cuando ambos lados empatan (solo posible de verdad en utc y fronteras)
+  const SUPERLATIVO = {
+    lat:       { mayor: 'Más al Norte',              igual: 'Misma latitud' },
+    lng:       { mayor: 'Más al Este',                igual: 'Misma longitud' },
+    poblacion: { mayor: 'Más población',              igual: 'Misma población' },
+    area:      { mayor: 'País más grande',            igual: 'Mismo tamaño de país' },
+    densidad:  { mayor: 'Más densidad de población',  igual: 'Misma densidad' },
+    utc:       { mayor: 'Huso horario más adelantado',igual: 'Mismo huso horario' },
+    fronteras: { mayor: 'Más países fronterizos',     igual: 'Mismo Nº de fronteras' },
+  };
+
+  // explicacion ampliada por criterio, para el tooltip
+  const DESCRIPCIONES = {
+    lat: 'Compara la latitud: qué capital está más cerca del Polo Norte (o más lejos, más cerca del Polo Sur).',
+    lng: 'Compara la longitud: qué capital está más hacia el Este o hacia el Oeste en el mapa.',
+    poblacion: 'Compara el número total de habitantes del país al que pertenece cada capital.',
+    area: 'Compara la superficie total, en km², del país al que pertenece cada capital.',
+    densidad: 'Compara la densidad de población del país: habitantes por cada km².',
+    utc: 'Compara el huso horario de cada capital respecto al meridiano de Greenwich (UTC).',
+    fronteras: 'Compara con cuántos otros países limita cada país.',
+    bandera: 'Comprueba si las banderas de ambos países comparten al menos un color principal.',
+    frontera: 'Comprueba si los dos países son vecinos: si comparten frontera terrestre.',
+    idioma: 'Comprueba si ambos países comparten al menos un idioma oficial.',
+  };
+
+  const CATEGORICO_TEXTO = {
+    bandera: 'Comparten un color de bandera',
+    frontera: 'Son países vecinos',
+    idioma: 'Comparten idioma oficial',
+  };
+
+  // dado un hueco (criterio + relación real), devuelve qué texto mostrar y hacia qué
+  // capital apunta la flecha: 'up' (la de arriba), 'down' (la de abajo) o null (sin dirección)
+  function gapDisplay(criterio, relacion) {
+    if (criterio in SUPERLATIVO) {
+      if (relacion === '=') return { texto: SUPERLATIVO[criterio].igual, flecha: null, tipo: 'igual' };
+      return { texto: SUPERLATIVO[criterio].mayor, flecha: relacion === '>' ? 'up' : 'down', tipo: 'mayor' };
+    }
+    return { texto: CATEGORICO_TEXTO[criterio], flecha: null, tipo: 'compartir' };
+  }
+
   function relationsTrueFor(a, b) {
     const out = [];
     for (const crit of Object.keys(ORDINAL)) {
@@ -250,7 +292,7 @@
 
   const api = {
     init, generatePuzzle, capitalsForDay, dayIndexFromDate, getCapital,
-    mulberry32, ALL_CRITERIA, LABELS, evalCriterion,
+    mulberry32, ALL_CRITERIA, LABELS, evalCriterion, gapDisplay, DESCRIPCIONES,
   };
   global.CapitalesGen = api;
   if (typeof module !== 'undefined' && module.exports) module.exports = api;
